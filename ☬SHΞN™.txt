@@ -3,13 +3,17 @@ Live Config Collector
 Last update: 2026-05-10 12:24:42      Total configs: 60   Next refresh: 12:34 PM
 
 ========== SOCKS ==========
+socks://Og@62.220.126.92:30376#%E2%98%ACSH%CE%9E%D0%AFVIN%E2%84%A2
 socks://Og@62.220.126.56:30170#☬SHΞN™
+socks://Og@62.220.126.92:30376#%E2%98%ACSH%CE%9E%D0%AFVIN%E2%84%A2
 socks://130.185.75.82:9595#☬SHΞN™
+socks://Og@62.220.126.92:30376#%E2%98%ACSH%CE%9E%D0%AFVIN%E2%84%A2
 socks://62.220.126.92:30871#☬SHΞN™
 socks://Og@5.190.247.76:1080#☬SHΞN™
 socks://Og@62.220.126.56:30203#☬SHΞN™
 socks://Og@130.185.75.82:9595#☬SHΞN™
 socks://bnVsbDpudWxs@62.220.126.92:30871#☬SHΞN™
+socks://Og@62.220.126.92:30376#%E2%98%ACSH%CE%9E%D0%AFVIN%E2%84%A2
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
