@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-10 18:35:43      Total configs: 62   Next refresh: 6:45 PM
+Last update: 2026-05-10 19:34:00      Total configs: 63   Next refresh: 7:44 PM
 
 ========== SOCKS ==========
 socks://Og@62.220.126.92:30871#☬SHΞN™
@@ -15,9 +15,10 @@ socks://Og@130.185.75.82:9595#☬SHΞN™
 socks://bnVsbDpudWxs@62.220.126.92:30871#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=srv3.diamond-tech.online&amp;path=%2F#☬SHΞN™
 vmess://eyJhZGQiOiJ3d3cuYXJ2YW5jbG91ZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidmlwNi5hcmlhdGFrcG95YW4uaXIiLCJpZCI6Ijc2NmQ0YWIyLWMwOTItNDUxZi1iNWY0LWYzM2M4NDk3ODA2NSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmlhIiwicG9ydCI6IjgwODAiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=srv3.diamond-tech.online&amp;path=%2F#☬SHΞN™
 vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
+vless://d11402f2-af49-484e-9f60-6acaa7e67ace@iman.neticoapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://a34bbc37-566c-4d31-8401-26fe0f9d6f7d@out2.tehranionliine.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://ce5ccdd9-a6f8-488f-aaa1-e5d66b9f9133@185.143.233.235:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=d.nsa03.com&amp;type=ws#☬SHΞN™
 vless://0e57d84c-d3b0-4399-b6c1-ce634aba0e50@185.143.233.235:80?type=ws&amp;host=d.nsa03.com#☬SHΞN™
