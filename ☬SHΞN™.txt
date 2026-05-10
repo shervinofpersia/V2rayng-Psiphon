@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-10 22:48:53      Total configs: 78   Next refresh: 10:58 PM
+Last update: 2026-05-10 23:35:39      Total configs: 80   Next refresh: 11:45 PM
 
 ========== SOCKS ==========
 socks://Og@62.220.126.92:30871#☬SHΞN™
@@ -49,7 +49,6 @@ vless://bb132f30-5576-430d-b2e1-ca4d8dbad088@185.143.233.235:443?encryption=none
 vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://afa40aec-0c64-43be-9dfb-05efad107874@5.56.132.22:8086?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://084b37f5-0012-436c-8df5-1b4da395325b@snapp.ir:80?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=1.jojo.avenflow.ir&amp;type=ws#☬SHΞN™
-vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
 vless://ddc5c127-e627-434f-8cce-5cf8f416d2bb@arvancloud.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=samrexnet.ir#☬SHΞN™
 vless://7a081fff-97de-4acd-8db6-7dc6f32da004@snapp.ir:2086?encryption=none&amp;type=ws&amp;path=%2Fk&amp;host=s.22c.ir#☬SHΞN™
@@ -65,6 +64,9 @@ vless://b2c49104-979e-4fed-b94d-5bf96ee3f594@varzesh3.com:443?encryption=none&am
 vless://c64af538-4e53-4948-ae96-83051b456a76@skyline.bdsss.xyz:18970?encryption=none&amp;type=tcp#☬SHΞN™
 vless://364348b7-97f3-47a6-9ec7-4ecb5ddf4447@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F%3Fed%3D2080&amp;host=1.jojo.avenflow.ir#☬SHΞN™
 vless://ffce6913-0c90-422d-ba87-56a71ed29010@snapp.ir:2052?encryption=none&amp;type=ws&amp;path=%2F%40MrConfig_Channel%40MrConfig_Channel&amp;host=tel.royalzero.ir#☬SHΞN™
+vless://2a6ea2ea-f82d-4199-92ef-85f92c0a6016@vitallife.gg:443?encryption=none&amp;type=tcp&amp;security=tls&amp;headerType=none&amp;sni=vitallife.gg&amp;alpn=h2&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?encryption=none&amp;type=ws&amp;path=%2F&amp;host=p1.razstar.ir#☬SHΞN™
+vless://9b9733bf-fd3a-4b8e-b9e5-8c7236db4360@snapp.ir:8880?encryption=none&amp;type=ws&amp;path=%2Fapi&amp;host=ryzo.px-ir.ir#☬SHΞN™
 vless://3d535920-e1c9-45cd-96b9-8015e166da2e@arvancloud.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=t1.tunnellinuweb.ir&amp;type=ws#☬SHΞN™
 vless://30316136-6337-4561-a334-396436386131@185.143.234.190:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&amp;security=none&amp;encryption=none&amp;host=t.ufduiudud.site&amp;type=ws#☬SHΞN™
 vless://96e5b04f-4592-437e-9aba-0060e69a9c2c@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
