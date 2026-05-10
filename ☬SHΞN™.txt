@@ -1,14 +1,12 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-10 21:30:41      Total configs: 80   Next refresh: 9:40 PM
+Last update: 2026-05-10 22:48:53      Total configs: 78   Next refresh: 10:58 PM
 
 ========== SOCKS ==========
 socks://Og@62.220.126.92:30871#☬SHΞN™
 socks://Og@62.220.126.56:30170#☬SHΞN™
 socks://Og@62.220.126.92:30376#☬SHΞN™
 socks://Og@5.190.247.76:1080#☬SHΞN™
-socks://130.185.75.82:9595#☬SHΞN™
-socks://62.220.126.92:30871#☬SHΞN™
 socks://62.220.126.56:24353?type=tcp#☬SHΞN™
 socks://91.222.196.8:7071?type=tcp#☬SHΞN™
 socks://62.220.126.92:30376#☬SHΞN™
