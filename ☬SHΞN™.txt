@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-11 00:30:48      Total configs: 80   Next refresh: 12:40 AM
+Last update: 2026-05-11 01:28:54      Total configs: 72   Next refresh: 1:38 AM
 
 ========== SOCKS ==========
 socks://Og@62.220.126.92:30376#☬SHΞN™
@@ -9,20 +9,18 @@ socks://Og@62.220.126.92:30871#☬SHΞN™
 socks://62.220.126.56:24353?type=tcp#☬SHΞN™
 socks://91.222.196.8:7071?type=tcp#☬SHΞN™
 socks://62.220.126.92:30376#☬SHΞN™
-socks://Og@62.220.126.56:30203#☬SHΞN™
 socks://Og@130.185.75.82:9595#☬SHΞN™
 socks://bnVsbDpudWxs@62.220.126.92:30871#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=srv3.diamond-tech.online&amp;path=%2F#☬SHΞN™
-vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://d11402f2-af49-484e-9f60-6acaa7e67ace@iman.neticoapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=protectnet.cloudinohost.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=protectnet.cloudinohost.com#☬SHΞN™
-vless://ce5ccdd9-a6f8-488f-aaa1-e5d66b9f9133@185.143.233.235:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=d.nsa03.com&amp;type=ws@Configir98#☬SHΞN™
+vless://ce5ccdd9-a6f8-488f-aaa1-e5d66b9f9133@185.143.233.235:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=d.nsa03.com&amp;type=ws#☬SHΞN™
 vless://26482944-9d9b-48a2-b2fa-427541b96220@SnaPp.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=younes.mobilesubasa.com&amp;type=ws#☬SHΞN™
 vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=cdn.mizbanertebatfarda.ir&amp;path=/#☬SHΞN™
 vless://a34bbc37-566c-4d31-8401-26fe0f9d6f7d@out2.tehranionliine.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://ce5ccdd9-a6f8-488f-aaa1-e5d66b9f9133@185.143.233.235:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=d.nsa03.com&amp;type=ws#☬SHΞN™
+vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=srv3.diamond-tech.online&amp;path=%2F#☬SHΞN™
+vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://0e57d84c-d3b0-4399-b6c1-ce634aba0e50@185.143.233.235:80?type=ws&amp;host=d.nsa03.com#☬SHΞN™
 vless://48eee95d-73d5-4342-928f-279612a3c552@185.143.233.235:80?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=d.nsa03.com#☬SHΞN™
 trojan://52DCB0eOjp@188.213.199.125:19754?security=none&amp;type=tcp#☬SHΞN™
@@ -48,12 +46,12 @@ vless://bb132f30-5576-430d-b2e1-ca4d8dbad088@185.143.233.235:443?encryption=none
 vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://afa40aec-0c64-43be-9dfb-05efad107874@5.56.132.22:8086?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://084b37f5-0012-436c-8df5-1b4da395325b@snapp.ir:80?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=1.jojo.avenflow.ir&amp;type=ws#☬SHΞN™
-vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
 vless://ddc5c127-e627-434f-8cce-5cf8f416d2bb@arvancloud.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=samrexnet.ir#☬SHΞN™
 vless://7a081fff-97de-4acd-8db6-7dc6f32da004@snapp.ir:2086?encryption=none&amp;type=ws&amp;path=%2Fk&amp;host=s.22c.ir#☬SHΞN™
 vless://a1f423df-6994-4e66-a91e-3c6e196dd0bd@snapp.ir:2052?encryption=none&amp;type=ws&amp;path=%2F&amp;host=cfcpanel.namasha.top#☬SHΞN™
 vless://84c2f81b-6332-4913-8270-306aa44d902c@apkred.redlife.info:57910?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
 vless://c956d8be-f6b1-454f-a111-a2fc7956635d@bitpin.ir:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=MELI.ARTARONA.IR#☬SHΞN™
+vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
 vless://ce5ccdd9-a6f8-488f-aaa1-e5d66b9f9133@185.143.233.235:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=d.nsa03.com#☬SHΞN™
 vless://ce5ccdd9-a6f8-488f-aaa1-e5d66b9f9133@185.143.233.235:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=d.nsa03.com&amp;type=ws@wedbazgap#☬SHΞN™
 vless://cdf18789-5f87-49a3-b13c-6712b174f27b@snapp.ir:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=Bot-3.next-co.site#☬SHΞN™
@@ -67,12 +65,6 @@ vless://2a6ea2ea-f82d-4199-92ef-85f92c0a6016@vitallife.gg:443?encryption=none&am
 vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?encryption=none&amp;type=ws&amp;path=%2F&amp;host=p1.razstar.ir#☬SHΞN™
 vless://9b9733bf-fd3a-4b8e-b9e5-8c7236db4360@snapp.ir:8880?encryption=none&amp;type=ws&amp;path=%2Fapi&amp;host=ryzo.px-ir.ir#☬SHΞN™
 vmess://ey
-vless://3d535920-e1c9-45cd-96b9-8015e166da2e@arvancloud.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=t1.tunnellinuweb.ir&amp;type=ws#☬SHΞN™
-vless://30316136-6337-4561-a334-396436386131@185.143.234.190:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&amp;security=none&amp;encryption=none&amp;host=t.ufduiudud.site&amp;type=ws#☬SHΞN™
-vless://96e5b04f-4592-437e-9aba-0060e69a9c2c@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://42827133-57f1-4ed9-958d-4fb4cda405a8@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=ss2.limitless-cloud.ir&amp;type=ws#☬SHΞN™
-vless://3a590334-c12b-44e3-8655-4dc2ef9ec19b@kuorosh.laser-rami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://4dc49cca-8756-4444-9f68-3c3156473fd0@vipsrv5x.speshialservice.com:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://12eeb57a-3e54-4b9f-a79f-cd02cab69a79@snapp.ir:80?path=%2FSalamFarmandeh&amp;security=none&amp;encryption=none&amp;host=content.dragonstorevt.info&amp;type=ws#☬SHΞN™
 vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=%2Fapi&amp;security=none&amp;encryption=none&amp;host=ryzo.px-ir.ir&amp;type=ws#☬SHΞN™
 vless://890b411f-c315-462c-bdf0-5f6452de775a@snapp.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=wt.programming-coding.ir&amp;type=ws#☬SHΞN™
