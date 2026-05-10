@@ -14,7 +14,13 @@ TEHRAN_TZ = ZoneInfo("Asia/Tehran")
 CHANNELS = [
     "Configir98",
     "napsternetv",
-    "ProxyHub98"
+    "ProxyHub98",
+    "ghalagyann",
+    "icv2ray",
+    "WedBaZvpn",
+    "anty_filter",
+    "VPNBaz",
+    
     
     # می‌توانی بعداً اضافه کنی
 ]
@@ -31,10 +37,6 @@ URI_REGEX = re.compile(
 JSON_CUSTOM_REGEX = re.compile(
     r'\{[^{}]*"remarks"\s*:\s*"[^"]*"[^{}]*"outbounds"\s*:\s*\[.*?\]\s*[^{}]*\}',
     re.DOTALL
-)
-TG_PROXY_REGEX = re.compile(
-    r'https?://t\.me/proxy\?[^\s\'"<>\[\]{}|\\^`]+',
-    re.IGNORECASE
 )
 IP_PORT_REGEX = re.compile(
     r'(?:host|server|ip|address)?\s*[:=]?\s*(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\s*[\s,;|]+\s*(?:port|:)?\s*(\d{1,5})',
@@ -151,13 +153,6 @@ def generate_output(socks_links, v2ray_links, custom_links, tgproxy_links, ippor
             lines.append(link)
         lines.append("")
 
-    # بخش TELEGRAM PROXY
-    if tgproxy_links:
-        lines.append("========== TELEGRAM PROXIES ==========")
-        for link in tgproxy_links:
-            lines.append(link)
-        lines.append("")
-
     # بخش IP:PORT
     if ipport_links:
         lines.append("========== IP:PORT PAIRS ==========")
@@ -200,14 +195,12 @@ def main():
     socks_set = set()
     v2ray_set = set()
     custom_set = set()
-    tgproxy_set = set()
     ipport_set = set()
 
     # نگهداری ترتیب برای خروجی زیباتر
     socks_list = []
     v2ray_list = []
     custom_list = []
-    tgproxy_list = []
     ipport_list = []
 
     for ch in CHANNELS:
