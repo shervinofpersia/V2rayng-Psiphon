@@ -1,10 +1,11 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-10 20:37:00      Total configs: 72   Next refresh: 8:47 PM
+Last update: 2026-05-10 21:30:41      Total configs: 80   Next refresh: 9:40 PM
 
 ========== SOCKS ==========
 socks://Og@62.220.126.92:30871#☬SHΞN™
 socks://Og@62.220.126.56:30170#☬SHΞN™
+socks://Og@62.220.126.92:30376#☬SHΞN™
 socks://Og@5.190.247.76:1080#☬SHΞN™
 socks://130.185.75.82:9595#☬SHΞN™
 socks://62.220.126.92:30871#☬SHΞN™
@@ -77,6 +78,13 @@ vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=%2Fapi&amp;secur
 vless://890b411f-c315-462c-bdf0-5f6452de775a@snapp.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=wt.programming-coding.ir&amp;type=ws#☬SHΞN™
 vless://5ebb47d7-ecd1-42a8-b620-38c5bafe1ab6@185.164.73.133:16657?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://c9841f8b-9388-4142-9549-688c98d77d13@red.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
+vless://6730bbec-a36c-4fb8-8509-d80cbd97d591@hi.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
+vless://917c0e91-e538-4232-bcad-e8903fae1802@hi.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
+vless://3a33b467-4515-4c8e-9c07-4dfb06cc2e38@snapp.ir:80?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=1.jojo.avenflow.ir&amp;type=ws#☬SHΞN™
+vless://b76476dd-b5f7-45ac-ac91-57f988f71168@hi.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
+vless://1dc81ea9-9c7a-4edf-aa80-fec80899afe2@hi.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
+vless://a091f5ee-7040-44e6-ad40-e27e3e286b76@hi.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
+vless://4e53fafe-6b02-41e1-91cb-ffda0b321306@hi.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
