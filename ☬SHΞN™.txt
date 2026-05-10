@@ -1,53 +1,70 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-10 11:05:29      Total configs: 41   Next refresh: 11:15 AM
+Last update: 2026-05-10 12:24:42      Total configs: 60   Next refresh: 12:34 PM
 
 ========== SOCKS ==========
-socks://Og%3D%3D@62.220.126.56:30170#☬SHΞN™
-socks://Og@130.185.75.82:9595#☬SHΞN™
-socks://Og@62.220.126.92:30376#☬SHΞN™
 socks://Og@62.220.126.56:30170#☬SHΞN™
+socks://130.185.75.82:9595#☬SHΞN™
+socks://62.220.126.92:30871#☬SHΞN™
+socks://Og@5.190.247.76:1080#☬SHΞN™
+socks://Og@62.220.126.56:30203#☬SHΞN™
+socks://Og@130.185.75.82:9595#☬SHΞN™
+socks://bnVsbDpudWxs@62.220.126.92:30871#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://ccd55491-6b15-4e13-8a9a-d5e87fd9be36@snapp.ir:80?path=%2F%3Fed%3D2080&amp;security=&amp;encryption=none&amp;host=1.jojo.avenflow.ir&amp;type=ws#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA%3D%3D@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#☬SHΞN™
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://afa40aec-0c64-43be-9dfb-05efad107874@5.56.132.22:8086?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://a34bbc37-566c-4d31-8401-26fe0f9d6f7d@out2.tehranionliine.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-
-========== TELEGRAM PROXIES ==========
-https://t.me/proxy?server=46.225.29.180&amp;port=443&amp;secret=ee636c6f7564666c6172652e636f6db6
-https://t.me/proxy?server=94.101.191.94&amp;port=4570&amp;secret=6d087d0e01b54d2a50a78047a4a21d80
-https://t.me/proxy?server=178.104.81.34&amp;port=4455&amp;secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=142.54.189.110&amp;amp;port=443&amp;amp;secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
-https://t.me/proxy?server=142.54.189.108&amp;amp;port=443&amp;amp;secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
-https://t.me/proxy?server=142.54.189.107&amp;amp;port=443&amp;amp;secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
-https://t.me/proxy?server=142.54.189.109&amp;amp;port=443&amp;amp;secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
-https://t.me/proxy?server=mci.3pita.com&amp;amp;port=25565&amp;amp;secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=proxymtproto.telwbion.com&amp;amp;port=25565&amp;amp;secret=fgScoaLSXQYtLCM8VHoNng
-https://t.me/proxy?server=89.125.113.8&amp;amp;port=443&amp;amp;secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275
-https://t.me/proxy?server=89.125.113.11&amp;amp;port=443&amp;amp;secret=ee4940b07f14b94037fd71a766011bb0c079616e6465782e7275
-https://t.me/proxy?server=108.181.70.27&amp;amp;port=443&amp;amp;secret=EERighJJvXrFGRMCIMJdCQ%3D%3D
-https://t.me/proxy?server=proxymtproto.telwbion.com.&amp;amp;port=25565&amp;amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D
-https://t.me/proxy?server=wine.limoozin.info&amp;amp;port=25565&amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=yazdan.htop.info&amp;amp;port=443&amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=tee.mobemouy.com&amp;amp;port=443&amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=q.hq-1337.win&amp;amp;port=443&amp;amp;secret=ee84ea5a1d188a32e3905389660fa0bfab706574726f766963682e7275
-https://t.me/proxy?server=mtp.webvirt.cloud&amp;amp;port=443&amp;amp;secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
-https://t.me/proxy?server=108.181.70.27&amp;amp;port=443&amp;amp;secret=EERighJJvXrFGRMCIMJdCQ==
-https://t.me/proxy?server=49.12.117.37&amp;amp;port=443&amp;amp;secret=dd104462821249bd7ac519130220c25d09&amp;amp;@vpnbaz
-https://t.me/proxy?server=94.130.190.170&amp;amp;port=443&amp;amp;secret=dd104462821249bd7ac519130220c25d09&amp;amp;@vpnbaz
-https://t.me/proxy?server=172.65.117.172&amp;amp;port=22&amp;amp;secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=132.243.235.188&amp;amp;port=443&amp;amp;secret=eecff01a06513433100e81c6eadff452e779616e6465782e7275
-https://t.me/proxy?server=132.243.235.194&amp;amp;port=443&amp;amp;secret=eebbef585db7c10242e5b3654910e1d91479616e6465782e7275
-https://t.me/proxy?server=132.243.235.143&amp;amp;port=443&amp;amp;secret=ee1a043ca04520458fe7fc96309b095f3679616e6465782e7275
-https://t.me/proxy?server=194.50.94.98&amp;amp;port=443&amp;amp;secret=ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275
-https://t.me/proxy?server=132.243.235.187&amp;amp;port=443&amp;amp;secret=ee89db719934b04d0875b8a84c948e57fa79616e6465782e7275
-https://t.me/proxy?server=proxy.yard-tg-bot.ru&amp;amp;port=443&amp;amp;secret=ee1cfe2c07741ef6c9d9dde94a7f14a3db79616e6465782e7275
-https://t.me/proxy?server=mtp.yard-tg-bot.ru&amp;amp;port=443&amp;amp;secret=eef658bb6d89b284874149c13e7d27d9da79616e6465782e7275
-https://t.me/proxy?server=138.124.127.157&amp;amp;port=443&amp;amp;secret=ee776ed6e05e7099a53f923bdcc99f659e766b2e636f6d
-https://t.me/proxy?server=quickrouteapp.xyz&amp;amp;port=443&amp;amp;secret=ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a
-https://t.me/proxy?server=tgobhod.forum&amp;amp;port=443&amp;amp;secret=ee1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d74676f62686f642e666f72756d
+vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=srv3.diamond-tech.online&amp;path=%2F#☬SHΞN™
+vless://0e57d84c-d3b0-4399-b6c1-ce634aba0e50@185.143.233.235:80?type=ws&amp;host=d.nsa03.com#☬SHΞN™
+vless://48eee95d-73d5-4342-928f-279612a3c552@185.143.233.235:80?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=d.nsa03.com#☬SHΞN™
+trojan://52DCB0eOjp@188.213.199.125:19754?security=none&amp;type=tcp#☬SHΞN™
+vless://b10d234d-7cae-4f36-9700-d6b60b7318df@zir.alihapps3.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
+vless://17e73d13-5239-48d5-a414-f57f278ad58c@zir.alihapps3.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=non#☬SHΞN™
+vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#☬SHΞN™
+vless://9f56f3a8-125f-48f3-bb97-d41e70c61212@Tapsi.ir:8080?path=%2Fcdn&amp;security=&amp;encryption=none&amp;host=Zp.movizdl.ir&amp;type=ws#☬SHΞN™
+vless://7d90f043-ed7f-40c9-ac2f-352987904958@57.129.41.216:80/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2Fvless%2F#☬SHΞN™
+vless://1a898811-05ef-4b27-94f4-6a7324898beb@ite.pishvatech.lol:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
+vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&amp;type=ws#☬SHΞN™
+vless://059a8176-5b56-4917-afe0-b0034e65d244@185.143.234.122:80?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=js.oppobot.ir&amp;type=ws#☬SHΞN™
+vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&amp;host=camp.nahidapp.com&amp;path=%2ICV2RAY&amp;security=tls&amp;type=ws#☬SHΞN™
+vless://aeef5571-5f3f-4960-a5b0-45c5a0f2f18c@vs2.dotemergency.org:18280?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
+vless://aeef5571-5f3f-4960-a5b0-45c5a0f2f18c@vs2.dotemergency.org:18280?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://bddbab08-3f69-4d5c-86cc-4d1de9a79c55@arvan2.un1ty.ir:80?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
+vless://1b243f4c-0ab3-4b09-aa07-929b9797fe9d@snapp.ir:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2F%3Fed%3D2080&amp;host=1.jojo.avenflow.ir#☬SHΞN™
+vless://d9ae4879-27cf-4fed-90aa-3a606eaab4bc@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=arvan-abr.linkbaz.site#☬SHΞN™
+vless://d9ae4879-27cf-4fed-90aa-3a606eaab4bc@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=arvan-abr.linkbaz.site&amp;type=ws#☬SHΞN™
+vless://a29e0815-8d5e-4743-afeb-1d3c5d128c34@snapp.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;host=api.shomalnojm.ir&amp;type=ws#☬SHΞN™
+vless://2af56f0a-93ee-4d5f-a21c-4c7cc94e49f7@snapp.ir:80?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=1.jojo.avenflow.ir&amp;type=ws#☬SHΞN™
+vless://bb132f30-5576-430d-b2e1-ca4d8dbad088@185.143.233.235:443?encryption=none&amp;type=ws&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=solar.solarmagical.ir&amp;alpn=h2,http/1.1#☬SHΞN™
+vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
+vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
+vless://084b37f5-0012-436c-8df5-1b4da395325b@snapp.ir:80?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=1.jojo.avenflow.ir&amp;type=ws#☬SHΞN™
+vless://35431605-610b-4e20-9c0d-25c3616ff05b@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2FAPI%2Fsuperip&amp;host=brand2.bi6x.ir#☬SHΞN™
+vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?encryption=none&amp;type=ws&amp;path=%2Fpath&amp;host=cdn.linoxa.ir#☬SHΞN™
+vless://d9ae4879-27cf-4fed-90aa-3a606eaab4bc@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=arvanabr-iran.followon.ir#☬SHΞN™
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.255.229.57:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=sni.111000.indevs.in&amp;sni=sni.111000.indevs.in&amp;allowInsecure=1#☬SHΞN™
+vless://1a898811-05ef-4b27-94f4-6a7324898beb@ite.pishvatech.lol:80?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
+vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir#☬SHΞN™
+vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi4pisU0jOnk7ihKIiLCJhZGQiOiIxODUuMjM2LjM4LjQ0IiwicG9ydCI6IjE5OTQ2IiwiaWQiOiJjOWU0MjUzNy04NjUyLTRhNGMtODVkMy0wZDM2YWJmMzhmODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vless://4522a3f7-c12e-430c-b428-d59dcb5de811@185.212.49.130:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2FW8IFdbZXc92UUldb1MBYzCwQif0uaX9DL3o%3Fed%3D2560&amp;host=hostioko.online&amp;sni=hostioko.online&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=ads.restaurantplusy.ir&amp;type=ws#☬SHΞN™
+vless://7cd11ffb-1ebe-4ec8-ae1d-08b36f17e87d@185.143.233.200:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=nima.hayalco.ir&amp;type=ws#☬SHΞN™
+vless://e3224bea-a088-4789-84ea-022eac14cb22@94.182.134.100:40842?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
+vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
+vless://3d535920-e1c9-45cd-96b9-8015e166da2e@arvancloud.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=t1.tunnellinuweb.ir&amp;type=ws#☬SHΞN™
+vless://30316136-6337-4561-a334-396436386131@185.143.234.190:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&amp;security=none&amp;encryption=none&amp;host=t.ufduiudud.site&amp;type=ws#☬SHΞN™
+vless://96e5b04f-4592-437e-9aba-0060e69a9c2c@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
+vless://42827133-57f1-4ed9-958d-4fb4cda405a8@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=ss2.limitless-cloud.ir&amp;type=ws#☬SHΞN™
+vless://3a590334-c12b-44e3-8655-4dc2ef9ec19b@kuorosh.laser-rami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
+vless://4dc49cca-8756-4444-9f68-3c3156473fd0@vipsrv5x.speshialservice.com:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://12eeb57a-3e54-4b9f-a79f-cd02cab69a79@snapp.ir:80?path=%2FSalamFarmandeh&amp;security=none&amp;encryption=none&amp;host=content.dragonstorevt.info&amp;type=ws#☬SHΞN™
+vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=%2Fapi&amp;security=none&amp;encryption=none&amp;host=ryzo.px-ir.ir&amp;type=ws#☬SHΞN™
+vless://890b411f-c315-462c-bdf0-5f6452de775a@snapp.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=wt.programming-coding.ir&amp;type=ws#☬SHΞN™
+vless://5ebb47d7-ecd1-42a8-b620-38c5bafe1ab6@185.164.73.133:16657?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://c9841f8b-9388-4142-9549-688c98d77d13@red.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
