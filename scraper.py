@@ -20,13 +20,11 @@ CHANNELS = [
     "WedBaZvpn",
     "anty_filter",
     "VPNBaz",
-    
-    
     # می‌توانی بعداً اضافه کنی
 ]
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ... Chrome/120.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
 # Regex های مختلف
@@ -70,15 +68,11 @@ def change_remark(config: str) -> str:
         except Exception:
             pass
 
-    # 2) پروکسی تلگرام – بدون تغییر
-    if "t.me/proxy?" in config:
-        return config
-
-    # 3) IP:Port خام – بدون تغییر (ممکنه بعداً بیاد ولی بررسی می‌کنیم)
+    # 2) IP:Port خام – بدون تغییر
     if re.fullmatch(r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d{1,5}', config.strip()):
         return config
 
-    # 4) URI based
+    # 3) URI based
     if "://" in config:
         try:
             parsed = urlparse(config)
@@ -87,9 +81,7 @@ def change_remark(config: str) -> str:
             # --- vmess جداگانه (base64 json) ---
             if scheme == "vmess":
                 try:
-                    # padding استاندارد
                     b64_str = parsed.netloc + (parsed.path if parsed.path else "")
-                    # vmess ممکنه query هم داشته باشه؟ معمولاً نداره
                     padding = 4 - len(b64_str) % 4
                     if padding != 4:
                         b64_str += "=" * padding
@@ -100,7 +92,6 @@ def change_remark(config: str) -> str:
                     new_b64 = base64.b64encode(new_json.encode("utf-8")).decode("utf-8")
                     return f"vmess://{new_b64}"
                 except Exception:
-                    # اگه decode نشد، برگشت به fragment
                     pass
 
             # --- بقیه scheme ها (vless, trojan, ss, socks, tuic, ...) ---
@@ -113,17 +104,17 @@ def change_remark(config: str) -> str:
                 new_parsed = parsed._replace(fragment=REMARK)
                 return urlunparse(new_parsed)
             else:
-                return config  # بدون تغییر
+                return config
 
         except Exception:
             pass
 
-    return config  # پیش‌فرض
+    return config
 
-def generate_output(socks_links, v2ray_links, custom_links, tgproxy_links, ipport_links) -> str:
+def generate_output(socks_links, v2ray_links, custom_links, ipport_links) -> str:
     now_tehran = datetime.now(TEHRAN_TZ)
     now_str = now_tehran.strftime("%Y-%m-%d %H:%M:%S")
-    total = len(socks_links) + len(v2ray_links) + len(custom_links) + len(tgproxy_links) + len(ipport_links)
+    total = len(socks_links) + len(v2ray_links) + len(custom_links) + len(ipport_links)
     next_refresh = (now_tehran + timedelta(minutes=10)).strftime("%I:%M %p").lstrip("0")
 
     lines = []
@@ -187,6 +178,7 @@ def generate_output(socks_links, v2ray_links, custom_links, tgproxy_links, ippor
     lines.append("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿")
     lines.append("☬Exclusive SHΞN™ made")
     lines.append("More !? T.me/Shervini")
+
     return "\n".join(lines)
 
 def main():
@@ -197,7 +189,6 @@ def main():
     custom_set = set()
     ipport_set = set()
 
-    # نگهداری ترتیب برای خروجی زیباتر
     socks_list = []
     v2ray_list = []
     custom_list = []
@@ -213,7 +204,6 @@ def main():
         raw_uris = URI_REGEX.findall(html)
         for raw in raw_uris:
             cfg = change_remark(raw)
-            # تعیین نوع بر اساس scheme
             try:
                 scheme = urlparse(cfg).scheme
             except Exception:
@@ -227,7 +217,6 @@ def main():
                     v2ray_set.add(cfg)
                     v2ray_list.append(cfg)
             else:
-                # ناشناخته را هم به v2ray اضافه می‌کنیم
                 if cfg not in v2ray_set:
                     v2ray_set.add(cfg)
                     v2ray_list.append(cfg)
@@ -240,15 +229,7 @@ def main():
                 custom_set.add(cfg)
                 custom_list.append(cfg)
 
-        # 3) Telegram proxy
-        raw_tg = TG_PROXY_REGEX.findall(html)
-        for raw in raw_tg:
-            cfg = change_remark(raw)  # بدون تغییر عملی
-            if cfg not in tgproxy_set:
-                tgproxy_set.add(cfg)
-                tgproxy_list.append(cfg)
-
-        # 4) IP:Port pairs
+        # 3) IP:Port pairs
         for match in IP_PORT_REGEX.finditer(html):
             ip = match.group(1)
             port = match.group(2)
@@ -259,14 +240,13 @@ def main():
 
         time.sleep(1)
 
-    # تولید خروجی
-    output_content = generate_output(socks_list, v2ray_list, custom_list, tgproxy_list, ipport_list)
+    output_content = generate_output(socks_list, v2ray_list, custom_list, ipport_list)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(output_content)
 
-    total = len(socks_list) + len(v2ray_list) + len(custom_list) + len(tgproxy_list) + len(ipport_list)
-    print(f"✅ Total configs: {total} (SOCKS:{len(socks_list)} V2Ray:{len(v2ray_list)} Custom:{len(custom_list)} TGproxy:{len(tgproxy_list)} IP:Port:{len(ipport_list)})")
+    total = len(socks_list) + len(v2ray_list) + len(custom_list) + len(ipport_list)
+    print(f"✅ Total configs: {total} (SOCKS:{len(socks_list)} V2Ray:{len(v2ray_list)} Custom:{len(custom_list)} IP:Port:{len(ipport_list)})")
     print(f"✅ Output saved to {OUTPUT_FILE}")
 
 if __name__ == "__main__":
