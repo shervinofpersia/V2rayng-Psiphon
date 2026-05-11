@@ -1,11 +1,12 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-11 03:05:52      Total configs: 73   Next refresh: 3:15 AM
+Last update: 2026-05-11 04:57:51      Total configs: 75   Next refresh: 5:07 AM
 
 ========== SOCKS ==========
 socks://Og@62.220.126.92:30376#☬SHΞN™
-socks://Og@5.190.247.76:1080#☬SHΞN™
 socks://Og@62.220.126.92:30871#☬SHΞN™
+socks://Og@62.220.126.56:30170#☬SHΞN™
+socks://Og@5.190.247.76:1080#☬SHΞN™
 socks://62.220.126.56:24353?type=tcp#☬SHΞN™
 socks://91.222.196.8:7071?type=tcp#☬SHΞN™
 socks://62.220.126.92:30376#☬SHΞN™
@@ -15,6 +16,7 @@ socks://bnVsbDpudWxs@62.220.126.92:30871#☬SHΞN™
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=cdn.mizbanertebatfarda.ir&amp;path=/#☬SHΞN™
 vless://a864c0ea-a2ab-4328-b1f8-e094f6b1be29@37.202.246.113:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://85ea4ab7-ed99-431c-a9a4-ba206df5d41d@185.143.234.120:443?path=%2F%3Fed%3D443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=alef.ir.oadeflantrogm.iranaircdn.com&amp;fp=randomized&amp;type=ws&amp;allowInsecure=0&amp;sni=alef.ir.oadeflantrogm.iranaircdn.com#☬SHΞN™
 vless://a34bbc37-566c-4d31-8401-26fe0f9d6f7d@out2.tehranionliine.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=srv3.diamond-tech.online&amp;path=%2F#☬SHΞN™
 vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
