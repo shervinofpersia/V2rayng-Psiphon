@@ -1,8 +1,9 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-11 23:42:52      Total configs: 67   Next refresh: 11:52 PM
+Last update: 2026-05-12 01:12:25      Total configs: 66   Next refresh: 1:22 AM
 
 ========== SOCKS ==========
+socks://Og@45.142.189.87:10805#☬SHΞN™
 socks://Og@130.185.75.82:9595#☬SHΞN™
 socks://bnVsbDpudWxs@62.220.126.92:30871#☬SHΞN™
 socks://Og@62.220.126.92:30376#☬SHΞN™
@@ -15,9 +16,6 @@ vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2F#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?type=ws&amp;security=tls&amp;path=%2f&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1&amp;encryption=none#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?type=ws&amp;security=tls&amp;sni=sni.jpmj.dev&amp;host=sni.jpmj.dev&amp;path=%2F&amp;encryption=none&amp;allowInsecure=1#☬SHΞN™
-vless://2817fb9e-8767-4c7c-b459-4ca00e564f3a@tun1.aria-network.cloud:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=svde1.aria-network.cloud#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#☬SHΞN™
-vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=cdn.mizbanertebatfarda.ir&amp;path=/#☬SHΞN™
 vless://0bf8c8bf-1c29-4ec1-b599-01063a49ba34@50.7.4.106:443?path=%2F---%40UnNurmal%2F---%40UnNurmal%2F---%40UnNurmal%2F---%40UnNurmal%2F---%40UnNurmal&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=1.pars-cdn.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=1.pars-cdn.ir#☬SHΞN™
 vless://b06bdaac-ca63-4dd9-bcf3-a621ab44e46e@digipay.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=asd.pixserver.ir&amp;type=ws#☬SHΞN™
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?encryption=none&amp;security=tls&amp;type=ws&amp;headerType=none&amp;path=%2Fvoip&amp;host=pishparda.ir&amp;sni=pishparda.ir&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
@@ -25,6 +23,7 @@ vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.234:443?encryption=none
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?encryption=none&amp;security=tls&amp;type=ws&amp;headerType=none&amp;path=%2Fvoip&amp;host=pishparda.ir&amp;sni=isna.ir&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80?path=%2F&amp;security=&amp;encryption=none&amp;spx=%40Hiddify_Nexttt----%40Hiddify_Nexttt----%40Hiddify_Nexttt----%40Hiddify_Nexttt----%40Hiddify_Nexttt----%40Hiddify_Nexttt----%40Hiddify_Nexttt----%40Hiddify_Nexttt----%40Hiddify_Nexttt----%40Hiddify_Nexttt&amp;type=ws#☬SHΞN™
 vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#☬SHΞN™
 vless://9f56f3a8-125f-48f3-bb97-d41e70c61212@Tapsi.ir:8080?path=%2Fcdn&amp;security=&amp;encryption=none&amp;host=Zp.movizdl.ir&amp;type=ws#☬SHΞN™
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@57.129.41.216:80/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2Fvless%2F#☬SHΞN™
 vless://1a898811-05ef-4b27-94f4-6a7324898beb@ite.pishvatech.lol:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
@@ -45,7 +44,6 @@ vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&a
 vless://afa40aec-0c64-43be-9dfb-05efad107874@5.56.132.22:8086?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://084b37f5-0012-436c-8df5-1b4da395325b@snapp.ir:80?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=1.jojo.avenflow.ir&amp;type=ws#☬SHΞN™
 vless://0bf8c8bf-1c29-4ec1-b599-01063a49ba34@50.7.4.106:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=1.pars-cdn.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=1.pars-cdn.ir#☬SHΞN™
-vless://e7312cc2-d27a-445b-8735-e3e7711043b4@digipay.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=asd.pixserver.ir#☬SHΞN™
 vless://060eb220-70c2-45e1-8fec-c948953026ac@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=ref.starferi.ir#☬SHΞN™
 vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&amp;host=camp.nahidapp.com&amp;path=%2FIF_VPN_Bot&amp;security=tls&amp;type=ws#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1#☬SHΞN™
@@ -55,6 +53,7 @@ vless://1fe989b3-42c0-4fac-b11f-0195ea793df5@185.143.233.5:443?encryption=none&a
 vless://5141a90a-26ac-4c04-9ca6-2105f5208001@out.pixserver.ir:19271?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
 vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://c63592d9-4c68-4984-8eb4-194f85200077@dataedge2.abexamir.site:80?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
+vless://ab0eab3a-ba9b-4469-b634-6b68ddc1e8bf@new.idbedam.com:1000?encryption=none&amp;type=grpc&amp;mode=multi#☬SHΞN™
 vless://12eeb57a-3e54-4b9f-a79f-cd02cab69a79@snapp.ir:80?path=%2FSalamFarmandeh&amp;security=none&amp;encryption=none&amp;host=content.dragonstorevt.info&amp;type=ws#☬SHΞN™
 vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=%2Fapi&amp;security=none&amp;encryption=none&amp;host=ryzo.px-ir.ir&amp;type=ws#☬SHΞN™
 vless://890b411f-c315-462c-bdf0-5f6452de775a@snapp.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=wt.programming-coding.ir&amp;type=ws#☬SHΞN™
