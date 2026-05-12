@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-12 03:07:20      Total configs: 66   Next refresh: 3:17 AM
+Last update: 2026-05-12 04:51:14      Total configs: 67   Next refresh: 5:01 AM
 
 ========== SOCKS ==========
 socks://Og@45.142.189.87:10805#☬SHΞN™
@@ -11,11 +11,12 @@ socks://Og@109.230.81.58:1080#☬SHΞN™
 socks://Og@91.222.196.8:7071#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2F#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?type=ws&amp;security=tls&amp;sni=sni.jpmj.dev&amp;host=sni.jpmj.dev&amp;path=%2F&amp;encryption=none&amp;allowInsecure=1#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?type=ws&amp;security=tls&amp;path=%2f&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1&amp;encryption=none#☬SHΞN™
 vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?type=ws&amp;security=tls&amp;path=%2Fws&amp;host=wro.u3er1.ir&amp;sni=wro.u3er1.ir&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none#☬SHΞN™
+vless://937dde02-4ce6-4f0d-a3be-27aef7d3ef46@s4.tehranionliine.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
+vless://1ebf58de-3386-4764-953f-0d9912040f70@cloudinohost.com:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=cloudinohost.com#☬SHΞN™
 vless://0bf8c8bf-1c29-4ec1-b599-01063a49ba34@50.7.4.106:443?path=%2F---%40UnNurmal%2F---%40UnNurmal%2F---%40UnNurmal%2F---%40UnNurmal%2F---%40UnNurmal&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=1.pars-cdn.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=1.pars-cdn.ir#☬SHΞN™
 vless://b06bdaac-ca63-4dd9-bcf3-a621ab44e46e@digipay.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=asd.pixserver.ir&amp;type=ws#☬SHΞN™
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?encryption=none&amp;security=tls&amp;type=ws&amp;headerType=none&amp;path=%2Fvoip&amp;host=pishparda.ir&amp;sni=pishparda.ir&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
