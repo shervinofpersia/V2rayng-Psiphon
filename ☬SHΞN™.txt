@@ -1,10 +1,11 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-13 18:46:15      Total configs: 81   Next refresh: 6:56 PM
+Last update: 2026-05-13 20:54:21      Total configs: 82   Next refresh: 9:04 PM
 
 ========== SOCKS ==========
 socks://Og@62.220.126.92:32302#☬SHΞN™
 socks://Og@62.220.126.92:30871#☬SHΞN™
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#☬SHΞN™
 socks://Og@62.220.126.92:30376#☬SHΞN™
 socks://Og@109.230.81.58:1080#☬SHΞN™
 socks://Og@91.222.196.8:7071#☬SHΞN™
@@ -55,8 +56,6 @@ vless://d13d39a3-277e-4b1f-bc70-660e762564c0@www.varzesh3.com:2095?security=none
 vless://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://8c79b452-cd58-4f35-a1a7-b37fe798c821@185.143.233.5:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=p1.sesrsa.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sub.sesrsa.com#☬SHΞN™
 vless://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?mode=stream-one&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=zeroemergency.qpax.ir&amp;type=xhttp#☬SHΞN™
-vless://272d7c53-64f9-4eee-a7d3-4616d15ebd78@www.varzesh3.com:2082?path=%2F&amp;security=&amp;encryption=none&amp;host=server1.mizbanertebatfarda.ir&amp;type=ws#☬SHΞN™
-vless://f0cfea8e-afc8-411c-9879-860f8a5203c7@varzesh3.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=proto.helexm.ir&amp;type=ws#☬SHΞN™
 vless://f9b873a6-aa8e-4424-b0d4-1589e4d4bbcb@snapp.ir:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=dldisk.nr2coren.ir#☬SHΞN™
 vless://3e63eeda-8927-4e1b-b786-2a962cc9f50c@46.38.137.156:59508?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://2d4ede1c-8416-4e8f-8151-fc93c5cfbded@varzesh3.com:80?type=ws&amp;encryption=none&amp;path=%2Fws&amp;host=nobody.fasterspeed.ir&amp;security=none#☬SHΞN™
@@ -67,6 +66,8 @@ vless://550e8400-e29b-41d4-a716-446655440000@50.7.5.83:443?encryption=none&amp;t
 vless://df8bfb4f-0f0d-401d-84c9-6363a7f49545@185.143.232.5:8080?path=%2Fporroo&amp;security=none&amp;encryption=none&amp;host=silver.segaltejarat.ir&amp;type=ws#☬SHΞN™
 vless://e5520433-f24d-468a-a7ce-a460a68842cc@185.143.234.235:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=sofr.soralis.ir&amp;type=ws#☬SHΞN™
 vless://9365476e-75f4-4dab-93aa-e2b8918a9ba1@Snapp.ir:80?host=down.speedtell.ir&amp;path=%2F&amp;security=none&amp;type=ws#☬SHΞN™
+vless://39b49be3-bdd4-46ba-99f0-d1c2239f289f@arvancloud.ir:8080?encryption=none&amp;type=ws&amp;path=%2Fpars%3Fed%3D2560&amp;host=ss.sudoapt.cfd#☬SHΞN™
+vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://6730bbec-a36c-4fb8-8509-d80cbd97d591@hi.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
 vless://917c0e91-e538-4232-bcad-e8903fae1802@hi.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
 vless://3a33b467-4515-4c8e-9c07-4dfb06cc2e38@snapp.ir:80?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=1.jojo.avenflow.ir&amp;type=ws#☬SHΞN™
