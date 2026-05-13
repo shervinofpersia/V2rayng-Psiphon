@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-13 20:54:21      Total configs: 82   Next refresh: 9:04 PM
+Last update: 2026-05-13 22:44:27      Total configs: 87   Next refresh: 10:54 PM
 
 ========== SOCKS ==========
 socks://Og@62.220.126.92:32302#☬SHΞN™
@@ -19,8 +19,6 @@ vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=%2F&amp;security=&
 vless://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?encryption=none&amp;host=zeroemergency.qpax.ir&amp;mode=stream-one&amp;path=%2F&amp;security=none&amp;type=xhttp#☬SHΞN™
 vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=pa1.ghostantaniehh.ir&amp;path=%2F#☬SHΞN™
 vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083/?type=ws&amp;encryption=none&amp;flow=&amp;host=p1.sesrsa.com&amp;path=%2F&amp;security=tls&amp;sni=sub.sesrsa.com&amp;fp=firefox#☬SHΞN™
-vless://244f43cb-3e03-4f00-8a27-9422b7259e46@185.143.233.232:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=api.angrydevs.ir#☬SHΞN™
-vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#☬SHΞN™
 vless://f9f57c0b-b473-4fe9-8603-21e42613be04@Sid.ir:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2Fcdn&amp;host=dl4.movizdl.ir#☬SHΞN™
 vless://f9f57c0b-b473-4fe9-8603-21e42613be04@snappfood.ir:8880?security=none&amp;type=ws&amp;headerType=&amp;path=%2Fcdn&amp;host=dl4.movizdl.ir#☬SHΞN™
 vless://3550812b-4dfe-4815-9792-457218ac75b5@ultranecctestusa.fqservershop.com:51395?type=tcp&amp;security=none#☬SHΞN™
@@ -56,9 +54,9 @@ vless://d13d39a3-277e-4b1f-bc70-660e762564c0@www.varzesh3.com:2095?security=none
 vless://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://8c79b452-cd58-4f35-a1a7-b37fe798c821@185.143.233.5:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=p1.sesrsa.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sub.sesrsa.com#☬SHΞN™
 vless://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?mode=stream-one&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=zeroemergency.qpax.ir&amp;type=xhttp#☬SHΞN™
-vless://f9b873a6-aa8e-4424-b0d4-1589e4d4bbcb@snapp.ir:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=dldisk.nr2coren.ir#☬SHΞN™
 vless://3e63eeda-8927-4e1b-b786-2a962cc9f50c@46.38.137.156:59508?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://2d4ede1c-8416-4e8f-8151-fc93c5cfbded@varzesh3.com:80?type=ws&amp;encryption=none&amp;path=%2Fws&amp;host=nobody.fasterspeed.ir&amp;security=none#☬SHΞN™
+vless://f9b873a6-aa8e-4424-b0d4-1589e4d4bbcb@snapp.ir:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=dldisk.nr2coren.ir#☬SHΞN™
 trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?type=ws&amp;security=tls&amp;path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&amp;host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&amp;sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=randomized&amp;allowInsecure=0#☬SHΞN™
 vless://23d1e8eb-a515-420b-8fc7-9466e705c1be@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=cdn2.softnetconnect.ir#☬SHΞN™
 vless://2d152382-487c-4c00-af8d-cad0e1968584@ou4.virgooli.com:80?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
@@ -68,6 +66,7 @@ vless://e5520433-f24d-468a-a7ce-a460a68842cc@185.143.234.235:2052?path=%2F&amp;s
 vless://9365476e-75f4-4dab-93aa-e2b8918a9ba1@Snapp.ir:80?host=down.speedtell.ir&amp;path=%2F&amp;security=none&amp;type=ws#☬SHΞN™
 vless://39b49be3-bdd4-46ba-99f0-d1c2239f289f@arvancloud.ir:8080?encryption=none&amp;type=ws&amp;path=%2Fpars%3Fed%3D2560&amp;host=ss.sudoapt.cfd#☬SHΞN™
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://92e36f34-11f1-4312-9fda-af253712d09a@snapp.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;host=M2.snllshop.ir&amp;type=ws#☬SHΞN™
 vless://6730bbec-a36c-4fb8-8509-d80cbd97d591@hi.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
 vless://917c0e91-e538-4232-bcad-e8903fae1802@hi.nahidapp.com:443?path=%2Fred%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=red.nahidapp.com&amp;type=ws&amp;allowInsecure=0&amp;sni=red.nahidapp.com#☬SHΞN™
 vless://3a33b467-4515-4c8e-9c07-4dfb06cc2e38@snapp.ir:80?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=1.jojo.avenflow.ir&amp;type=ws#☬SHΞN™
@@ -87,6 +86,12 @@ vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=none&
 vless://bb7b12d2-8d39-4eb0-b0c9-94a0853ee945@185.143.232.122:80?path=%2Fnews&amp;security=none&amp;encryption=none&amp;host=out3.sublink.store&amp;type=ws#☬SHΞN™
 vless://272d7c53-64f9-4eee-a7d3-4616d15ebd78@www.varzesh3.com:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=server1.mizbanertebatfarda.ir&amp;type=ws#☬SHΞN™
 vless://b4515f21-e551-40af-9f6f-6af378b01759@snapppay.ir:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=salamiran.shomalnojm.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=salamiran.shomalnojm.ir#☬SHΞN™
+vless://52a5ee0f-d6c1-4d7f-ad0d-fcf3b765aaae@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=iranfuture.musicritmic.ir&amp;type=ws#☬SHΞN™
+vless://75bb0d63-2b70-49d9-8b6a-952add3e21c5@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=iranfuture.musicritmic.ir&amp;type=ws#☬SHΞN™
+vless://ad48afc6-4003-4735-b6ad-d13e97cbb298@ngame.thegameuhb.ir:8800?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://b3469f5d-a662-44a4-b973-e2c74ea424b9@arvancloud.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=samrexnet.ir&amp;type=ws#☬SHΞN™
+vless://79b92050-68c4-4c55-8795-713ba10435f1@SnaPp.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=Super.mobilesubasa.com&amp;type=ws#☬SHΞN™
+vless://92e36f34-11f1-4312-9fda-af253712d09a@snapp.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=M2.snllshop.ir&amp;type=ws#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
