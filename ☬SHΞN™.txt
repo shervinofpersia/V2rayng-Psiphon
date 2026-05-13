@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-13 03:44:04      Total configs: 75   Next refresh: 3:54 AM
+Last update: 2026-05-13 07:43:32      Total configs: 75   Next refresh: 7:53 AM
 
 ========== SOCKS ==========
 socks://telegram-oliver_soul@62.220.126.92:32302#☬SHΞN™
