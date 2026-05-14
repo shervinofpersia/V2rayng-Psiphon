@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-14 13:13:29      Total configs: 82   Next refresh: 1:23 PM
+Last update: 2026-05-14 14:59:00      Total configs: 83   Next refresh: 3:09 PM
 
 ========== SOCKS ==========
 socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#☬SHΞN™
@@ -69,6 +69,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?encryption=none&
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=javid-2.toraniq.ir#☬SHΞN™
 vless://2309fcbe-b374-4dce-8695-2185c165c725@react.dev:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Fips&amp;host=wirex-balancc.vercel.app&amp;mode=auto&amp;extra=%257B%250A%2520%2520%2522xPaddingBytes%2522%2520%3A%2520%2522100-1000%2522%250A%257D&amp;sni=react.dev&amp;alpn=http%2F1.1%2Ch2&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vmess://eyJhZGQiOiJ3d3cuYXJ2YW5jbG91ZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic25hcHBmb290ZGlnaXRvcm9iZnVsbHltdWxsLnJheWFubm9iLmlyIiwiaWQiOiJjZTkzZThhOS00N2I0LTQ3ZjgtODJmMC1lZTIzM2ZiMDBkNzEiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5WW91IiwicG9ydCI6IjgwIiwicHMiOiLimKxTSM6eTuKEoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://9ea9e54b-d4da-4773-855a-e5371e4da946@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=hubfile.zpax.ir&amp;type=ws#☬SHΞN™
 vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://e668e2db-8d79-86ef-92f7-edbdf49c81a2@meli2.masterdadeh.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://73f19acd-d1e2-4848-ba32-2dccbcbd6557@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=ss9.limitless-cloud.ir&amp;type=ws#☬SHΞN™
