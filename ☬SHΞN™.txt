@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-14 19:04:33      Total configs: 74   Next refresh: 7:14 PM
+Last update: 2026-05-14 20:53:26      Total configs: 69   Next refresh: 9:03 PM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -74,13 +74,6 @@ vless://ad48afc6-4003-4735-b6ad-d13e97cbb298@ngame.thegameuhb.ir:8800?security=n
 vless://b3469f5d-a662-44a4-b973-e2c74ea424b9@arvancloud.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=samrexnet.ir&amp;type=ws#☬SHΞN™
 vless://79b92050-68c4-4c55-8795-713ba10435f1@SnaPp.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=Super.mobilesubasa.com&amp;type=ws#☬SHΞN™
 vless://92e36f34-11f1-4312-9fda-af253712d09a@snapp.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=M2.snllshop.ir&amp;type=ws#☬SHΞN™
-
-========== IP:PORT PAIRS ==========
-92.122.123.128:2
-2.19.204.137:2
-2.19.204.145:2
-2.19.204.184:2
-2.19.204.202:2
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
