@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-15 23:20:16      Total configs: 168   Next refresh: 11:30 PM
+Last update: 2026-05-16 00:14:45      Total configs: 169   Next refresh: 12:24 AM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -16,6 +16,7 @@ vless://879c96f2-fae7-4555-84f2-b47612c9021d@milad1.cloudzeusggwp.com.tr:36266?e
 vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&amp;encryption=none&amp;security=tls&amp;headerType=none&amp;sni=cdn.vexloraz.top&amp;alpn=h2%2Chttp%2F1.1#☬SHΞN™
 vless://69ab00e0-9230-424b-b1be-eaf9ec776ce8@trex.docos.tech:443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=trex.docos.tech&amp;path=/vless-ws&amp;sni=trex.docos.tech&amp;fp=chrome#☬SHΞN™
 vless://3ac2a2a4-fd75-440a-96c5-1c40a50d6128@trex.docos.tech:443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=trex.docos.tech&amp;path=/vless-ws&amp;sni=trex.docos.tech&amp;fp=chrome#☬SHΞN™
+vless://1b50eb2c-ee25-479e-b593-ec80db9a54a0@red.docos.tech:443?security=tls&amp;type=ws&amp;headerType=&amp;path=%2Fred%2F&amp;host=red.docos.tech&amp;sni=red.docos.tech&amp;fp=chrome#☬SHΞN™
 vless://2eb3d1b6-f542-4258-a219-4406256d0d23@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://36a7ca5f-a870-48fa-b819-d5c67bf76413@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://01b9bb98-ee11-4362-b397-8666d2abc97b@snapp.ir:8080?path=%2Fwp-content%2Faddons%2Fdownloader.php&amp;security=none&amp;encryption=none&amp;host=pro.babayaroabasino.ir&amp;type=ws#☬SHΞN™
