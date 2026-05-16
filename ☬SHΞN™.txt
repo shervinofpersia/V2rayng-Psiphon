@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-17 00:43:30      Total configs: 148   Next refresh: 12:53 AM
+Last update: 2026-05-17 01:35:52      Total configs: 148   Next refresh: 1:45 AM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
