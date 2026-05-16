@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-16 19:12:13      Total configs: 247   Next refresh: 7:22 PM
+Last update: 2026-05-16 20:08:10      Total configs: 160   Next refresh: 8:18 PM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -11,12 +11,8 @@ socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#☬SHΞN™
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://54c47dee-eaee-417c-9b3c-339c5e00eeb7@trex.docos.tech:443?path=%2Fvless-ws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=trex.docos.tech&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=trex.docos.tech#☬SHΞN™
 vless://0a47ab98-b50b-4b92-baec-6e16af930dde@snapp.ir:8080?type=ws&amp;encryption=none&amp;path=%2FEmbestpro1&amp;host=Cyrus.zomavo.ir&amp;security=none#☬SHΞN™
-vless://2eb3d1b6-f542-4258-a219-4406256d0d23@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://36a7ca5f-a870-48fa-b819-d5c67bf76413@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://01b9bb98-ee11-4362-b397-8666d2abc97b@snapp.ir:8080?path=%2Fwp-content%2Faddons%2Fdownloader.php&amp;security=none&amp;encryption=none&amp;host=pro.babayaroabasino.ir&amp;type=ws#☬SHΞN™
-vless://294e88c5-7526-47fb-b572-fe6a6376ba0d@zir.alihapps3.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
-vless://0c480022-24b5-4a3f-bf5f-bb9f6c53c548@185.143.233.5:2083?encryption=none&amp;fp=firefox&amp;host=p1.sesrsa.com&amp;path=%2F&amp;security=tls&amp;sni=sub.sesrsa.com&amp;type=ws#☬SHΞN™
-vless://fa4aab5f-dad5-45e8-9e77-e77de72415f9@185.143.233.200:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=nima.hayalco.ir&amp;type=ws#☬SHΞN™
+vless://2eb3d1b6-f542-4258-a219-4406256d0d23@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083/?type=ws&amp;encryption=none&amp;flow=&amp;host=p1.sesrsa.com&amp;path=%2F&amp;security=tls&amp;sni=sub.sesrsa.com&amp;fp=firefox#☬SHΞN™
 vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=pa1.ghostantaniehh.ir&amp;path=%2F#☬SHΞN™
 vless://b739b3f6-af36-48d0-a0cb-a6f9eee2cab7@94.182.93.67:22127?encryption=none&amp;security=none&amp;type=tcp#☬SHΞN™
@@ -49,9 +45,10 @@ vless://879c96f2-fae7-4555-84f2-b47612c9021d@milad1.cloudzeusggwp.com.tr:36266?e
 vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&amp;encryption=none&amp;security=tls&amp;headerType=none&amp;sni=cdn.vexloraz.top&amp;alpn=h2%2Chttp%2F1.1#☬SHΞN™
 vless://69ab00e0-9230-424b-b1be-eaf9ec776ce8@trex.docos.tech:443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=trex.docos.tech&amp;path=/vless-ws&amp;sni=trex.docos.tech&amp;fp=chrome#☬SHΞN™
 vless://3ac2a2a4-fd75-440a-96c5-1c40a50d6128@trex.docos.tech:443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=trex.docos.tech&amp;path=/vless-ws&amp;sni=trex.docos.tech&amp;fp=chrome#☬SHΞN™
-vless://b425f7cd-8b25-4f84-8361-b6ee979a44c3@faradars.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=abro.zeeroit.ir#☬SHΞN™
-vless://a61b6d18-6c4c-42cc-a114-97e701ce0e2f@188.121.124.181:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;host=static.cdn.asset.aparat.com&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&amp;sni=static.cdn.asset.aparat.com&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
-vless://34a271bb-2f72-4533-b416-4373864263aa@188.121.124.181:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;host=static.cdn.asset.aparat.com&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&amp;sni=static.cdn.asset.aparat.com&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+vless://ea717efa-6f88-4750-800d-2f480faf29dc@snapp.ir:8080?encryption=none&amp;host=cm.programming-coding.ir&amp;path=%2F&amp;security=none&amp;type=ws#☬SHΞN™
+vless://6e2add8c-0965-4f70-967a-217936fbb921@vibenet.bingood.sbs:8080?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
+vless://0a47ab98-b50b-4b92-baec-6e16af930dde@snapp.ir:8080?path=%2FEmbestpro1&amp;security=none&amp;encryption=none&amp;host=Cyrus.zomavo.ir&amp;type=ws#☬SHΞN™
+vless://0c480022-24b5-4a3f-bf5f-bb9f6c53c548@185.143.233.5:2083?encryption=none&amp;fp=firefox&amp;host=p1.sesrsa.com&amp;path=%2F&amp;security=tls&amp;sni=sub.sesrsa.com&amp;type=ws#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1#☬SHΞN™
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=javid-2.toraniq.ir#☬SHΞN™
 vless://2309fcbe-b374-4dce-8695-2185c165c725@react.dev:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Fips&amp;host=wirex-balancc.vercel.app&amp;mode=auto&amp;extra=%257B%250A%2520%2520%2522xPaddingBytes%2522%2520%3A%2520%2522100-1000%2522%250A%257D&amp;sni=react.dev&amp;alpn=http%2F1.1%2Ch2&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
@@ -73,90 +70,6 @@ vless://0369f670-2a36-49aa-b1ff-7be054916aec@188.121.113.16:3?security=none&amp;
 vless://453def6b-1f01-44d5-8959-8821c00c5d6e@nobitex.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=support.mindigosupport.ir&amp;type=ws#☬SHΞN™
 
 ========== IP:PORT PAIRS ==========
-184.24.77.42:184
-184.24.77.5:184
-184.24.77.16:184
-184.24.77.21:184
-185.200.232.49:185
-185.200.232.42:185
-23.48.23.186:23
-23.48.23.195:23
-184.24.77.29:104
-96.17.222.31:23
-23.2.13.227:23
-2.20.255.113:2
-23.2.13.152:95
-2.21.239.21:23
-88.221.168.5:104
-23.79.20.249:88
-23.59.235.208:23
-23.46.188.71:104
-23.219.1.4:23
-184.51.252.135:2
-23.217.11.56:95
-23.40.63.69:185
-185.200.232.50:185
-185.200.232.41:184
-184.24.77.32:184
-184.24.77.7:184
-184.24.77.36:184
-184.24.77.11:23
-23.48.23.133:23
-23.48.23.178:184
-96.16.122.74:104
-92.123.104.7:104
-104.83.5.82:92
-104.83.5.65:104
-104.66.70.133:92
-23.73.2.161:92
-92.122.166.141:96
-104.81.108.51:23
-104.126.37.185:104
-104.83.5.216:92
-104.83.5.203:96
-88.221.168.138:96
-104.81.108.10:23
-92.122.166.175:172
-104.81.104.13:96
-92.123.112.7:96
-96.16.122.70:92
-104.109.128.153:104
-23.73.2.141:104
-23.67.136.200:23
-23.65.119.52:92
-92.122.166.234:92
-104.110.138.190:173
-184.51.252.36:184
-104.83.5.208:96
-96.17.206.214:92
-104.94.100.73:104
-88.221.213.81:172
-104.117.76.40:184
-96.17.207.30:96
-96.16.122.150:23
-96.16.122.77:96
-92.123.189.82:96
-96.16.122.66:96
-96.16.122.137:184
-92.123.189.41:184
-96.16.122.154:184
-96.17.207.12:23
-151.101.0.223:151
-151.101.192.223:65
-151.101.64.223:142
-104.103.90.156:23
-88.221.132.162:23
-23.60.69.118:23
-104.122.212.92:23
-23.57.43.195:184
-2.22.6.68:23
-95.100.69.108:23
-2.23.168.47:2
-2.23.168.144:2
-2.23.168.174:2
-2.23.168.96:185
-185.200.232.41:2
-2.23.168.7:2
 104.88.70.105:92
 96.16.248.152:104
 96.16.248.133:96
