@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-16 18:16:43      Total configs: 246   Next refresh: 6:26 PM
+Last update: 2026-05-16 19:12:13      Total configs: 247   Next refresh: 7:22 PM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -10,6 +10,7 @@ socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://54c47dee-eaee-417c-9b3c-339c5e00eeb7@trex.docos.tech:443?path=%2Fvless-ws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=trex.docos.tech&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=trex.docos.tech#☬SHΞN™
+vless://0a47ab98-b50b-4b92-baec-6e16af930dde@snapp.ir:8080?type=ws&amp;encryption=none&amp;path=%2FEmbestpro1&amp;host=Cyrus.zomavo.ir&amp;security=none#☬SHΞN™
 vless://2eb3d1b6-f542-4258-a219-4406256d0d23@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://36a7ca5f-a870-48fa-b819-d5c67bf76413@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://01b9bb98-ee11-4362-b397-8666d2abc97b@snapp.ir:8080?path=%2Fwp-content%2Faddons%2Fdownloader.php&amp;security=none&amp;encryption=none&amp;host=pro.babayaroabasino.ir&amp;type=ws#☬SHΞN™
