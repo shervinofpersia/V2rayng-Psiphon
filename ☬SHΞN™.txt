@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-17 19:44:40      Total configs: 158   Next refresh: 7:54 PM
+Last update: 2026-05-17 20:45:41      Total configs: 156   Next refresh: 8:55 PM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -9,9 +9,6 @@ socks://62.220.126.56:26132/#☬SHΞN™
 socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://ae547922-edca-95df-5a00-03fff1a3b2b4@varzesh3.com:8080?path=%2F&amp;security=&amp;encryption=none&amp;host=cdn-665e-o0g.fars-rehan.ir&amp;type=ws#☬SHΞN™
-vless://915889ce-41ee-4eeb-88cf-c5f9da808a63@34948_mohaaaad.2.globalmymusic2.com:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&amp;security=none&amp;encryption=none&amp;host=best.3.iran.avenflow.ir&amp;type=ws#☬SHΞN™
-vless://fc76eb5a-4675-4816-bff5-d8e689b58daf@anten.ir:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=hikino.docos.tech#☬SHΞN™
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0@94.183.173.225:443#☬SHΞN™
 vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@138.201.54.122:443?mode=auto&amp;path=%2FIR_NETLIFY&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingKey%22%3A%22iran%22%2C%22xPaddingHeader%22%3A%22iran%22%2C%22headers%22%3A%7B%22x-host%22%3A%2289.208.97.163%3A444%22%7D%7D&amp;insecure=1&amp;host=godxyz.dpdns.org&amp;type=xhttp&amp;allowInsecure=1&amp;sni=vuejs.org#☬SHΞN™
 vless://bc299b8f-b92c-44a4-930e-ac15dddd1937@pg.nexorainnovationhub.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=germany.lezzaluxa.ir&amp;type=ws#☬SHΞN™
@@ -47,6 +44,7 @@ vless://ed8e4c91-4d54-41c2-b0c3-f9515342b142@rayan.tehranionliine.ir:80?path=%2F
 vless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://da79df01-1ec9-475c-9ef4-4870e0fa40fa@185.143.233.5:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=p1.sesrsa.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sub.sesrsa.com#☬SHΞN™
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://915889ce-41ee-4eeb-88cf-c5f9da808a63@34948_mohaaaad.2.globalmymusic2.com:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&amp;security=none&amp;encryption=none&amp;host=best.3.iran.avenflow.ir&amp;type=ws#☬SHΞN™
 vless://fc76eb5a-4675-4816-bff5-d8e689b58daf@anten.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=hikino.docos.tech&amp;type=ws#☬SHΞN™
 vless://0c480022-24b5-4a3f-bf5f-bb9f6c53c548@185.143.233.5:2083?encryption=none&amp;fp=firefox&amp;host=p1.sesrsa.com&amp;path=%2F&amp;security=tls&amp;sni=sub.sesrsa.com&amp;type=ws#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1#☬SHΞN™
