@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-17 14:10:08      Total configs: 146   Next refresh: 2:20 PM
+Last update: 2026-05-17 15:12:42      Total configs: 148   Next refresh: 3:22 PM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -11,6 +11,8 @@ socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#☬SHΞN™
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://ae547922-edca-95df-5a00-03fff1a3b2b4@varzesh3.com:8080?path=%2F&amp;security=&amp;encryption=none&amp;host=cdn-665e-o0g.fars-rehan.ir&amp;type=ws#☬SHΞN™
+vless://915889ce-41ee-4eeb-88cf-c5f9da808a63@34948_mohaaaad.2.globalmymusic2.com:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&amp;security=none&amp;encryption=none&amp;host=best.3.iran.avenflow.ir&amp;type=ws#☬SHΞN™
+vless://fc76eb5a-4675-4816-bff5-d8e689b58daf@anten.ir:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=hikino.docos.tech#☬SHΞN™
 vmess://eyJhZGQiOiJhdi5yZWF0YS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjOTRkZGE0MC00NGE2LTQxM2YtODE1ZS0wYTc5MjViOTRiMGEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzNzk1IiwicHMiOiLimKxTSM6eTuKEoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
 vless://92063e08-6586-4996-90a3-98e0972c4a76@varzesh3.com:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=sajjad.panivo.ir#☬SHΞN™
