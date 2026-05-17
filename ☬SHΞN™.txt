@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-18 01:39:18      Total configs: 165   Next refresh: 1:49 AM
+Last update: 2026-05-18 02:39:09      Total configs: 155   Next refresh: 2:49 AM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -10,8 +10,6 @@ socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#☬SHΞN™
 socks://Og@91.222.196.8:7071#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=cdn-665e-o0g.fars-rehan.ir#☬SHΞN™
-vless://4d099dc1-85c6-4414-b372-8fcbe1795112@blubank.sb24.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=api.sobhan.cam&amp;security=none#☬SHΞN™
 vless://88e8243a-fc9a-4022-80d4-e0c5801c2256@snapp.ir:80?encryption=none&amp;security=none&amp;type=ws&amp;headerType=none&amp;path=%2Fgraphql%3Fed%3D2560&amp;host=ss2.limitless-cloud.ir#☬SHΞN™
 vless://bc299b8f-b92c-44a4-930e-ac15dddd1937@pg.nexorainnovationhub.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=germany.lezzaluxa.ir&amp;type=ws#☬SHΞN™
 vless://bc299b8f-b92c-44a4-930e-ac15dddd1937@pg.nexorainnovationhub.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=finland.lezzaluxa.ir&amp;type=ws#☬SHΞN™
@@ -60,14 +58,6 @@ vless://2fcedc23-9264-461f-86ea-d560e82f4fd2@188.121.124.181:443?encryption=none
 vless://16a0d3d2-4b6a-4a18-be6d-12e73b7d032c@snapp.ir:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=filimo.starferi.ir#☬SHΞN™
 vless://72005558-6498-4925-a005-98583360d500@snapp.ir:2052?encryption=none&amp;type=ws&amp;path=%2Frsvpn&amp;host=rsvpn2.xchitozx.org#☬SHΞN™
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=vixon.portab.org&amp;type=ws#☬SHΞN™
-vless://017998c6-da9e-4edf-a5d1-0d7dc68f5097@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=iranfuture.musicritmic.ir&amp;type=ws#☬SHΞN™
-vless://93ea5e7b-9427-416a-b2c6-f650d0c23193@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=iranfuture.musicritmic.ir&amp;type=ws#☬SHΞN™
-vless://1f672b81-dfa3-468a-ad22-7165f61496a3@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=iranfuture.musicritmic.ir&amp;type=ws#☬SHΞN™
-vless://36326231-3138-4166-b834-303439306131@185.143.234.96:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&amp;security=none&amp;encryption=none&amp;host=dl.tgmovie.bond&amp;type=ws#☬SHΞN™
-vless://cfbff5c7-d562-486a-a666-f6aa7d011168@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=zirox-vip-net.naxm.ir&amp;type=ws#☬SHΞN™
-vless://1e626a22-fbce-43fe-b8e9-d16e979a386f@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=s.softtiger.ir&amp;type=ws#☬SHΞN™
-vless://0369f670-2a36-49aa-b1ff-7be054916aec@188.121.113.16:3?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
-vless://453def6b-1f01-44d5-8959-8821c00c5d6e@nobitex.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=support.mindigosupport.ir&amp;type=ws#☬SHΞN™
 vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiI5ZDJiYjZiMC05ZDVmLTQ1NjgtYTk3YS02Yzc0N2NhMDk2ZjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiJmZjExYTg4MS0xOTcwLTQ1NDgtYWFiZS01NWExZmI4MzdhYWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiI2MzFiZGRhYy0zMDdiLTQ5ZGMtOGZmMC1jZmYwNTJhNjRmNTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
