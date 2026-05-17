@@ -1,15 +1,17 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-17 21:41:09      Total configs: 155   Next refresh: 9:51 PM
+Last update: 2026-05-17 23:07:21      Total configs: 164   Next refresh: 11:17 PM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
 socks://62.220.126.92:32302/#☬SHΞN™
 socks://62.220.126.56:26132/#☬SHΞN™
 socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#☬SHΞN™
+socks://Og@91.222.196.8:7071#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=cdn-665e-o0g.fars-rehan.ir#☬SHΞN™
+vless://4d099dc1-85c6-4414-b372-8fcbe1795112@blubank.sb24.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=api.sobhan.cam&amp;security=none#☬SHΞN™
 vless://bc299b8f-b92c-44a4-930e-ac15dddd1937@pg.nexorainnovationhub.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=germany.lezzaluxa.ir&amp;type=ws#☬SHΞN™
 vless://bc299b8f-b92c-44a4-930e-ac15dddd1937@pg.nexorainnovationhub.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=finland.lezzaluxa.ir&amp;type=ws#☬SHΞN™
 vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=p1.razstar.ir&amp;type=ws#☬SHΞN™
@@ -65,6 +67,13 @@ vless://cfbff5c7-d562-486a-a666-f6aa7d011168@snapp.ir:80?path=%2F&amp;security=n
 vless://1e626a22-fbce-43fe-b8e9-d16e979a386f@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=s.softtiger.ir&amp;type=ws#☬SHΞN™
 vless://0369f670-2a36-49aa-b1ff-7be054916aec@188.121.113.16:3?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://453def6b-1f01-44d5-8959-8821c00c5d6e@nobitex.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=support.mindigosupport.ir&amp;type=ws#☬SHΞN™
+vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiI5ZDJiYjZiMC05ZDVmLTQ1NjgtYTk3YS02Yzc0N2NhMDk2ZjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiJmZjExYTg4MS0xOTcwLTQ1NDgtYWFiZS01NWExZmI4MzdhYWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiI2MzFiZGRhYy0zMDdiLTQ5ZGMtOGZmMC1jZmYwNTJhNjRmNTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiIwMDU1ZDRjOC1lZGUwLTRjYWYtODU5Ny1kMmJkNzNjODE1NzYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn-665e-o0g.fars-rehan.ir&amp;type=ws#☬SHΞN™
+vless://50023428-2a69-403b-81d2-7a7690d53b3f@telegrampdavpn.iddns.ir:3030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://17aab239-189a-46a3-99ae-dc12f0cc419f@nexorad.bexora.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 
 ========== IP:PORT PAIRS ==========
 185.200.232.43:185
