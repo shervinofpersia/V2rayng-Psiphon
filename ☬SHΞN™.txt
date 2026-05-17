@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-17 03:32:20      Total configs: 244   Next refresh: 3:42 AM
+Last update: 2026-05-17 07:44:56      Total configs: 243   Next refresh: 7:54 AM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -9,8 +9,7 @@ socks://62.220.126.56:26132/#☬SHΞN™
 socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://6248e551-1423-449e-93f5-ee02f10e37e3@arvancloud.ir:2095?encryption=none&amp;type=ws&amp;path=%2Fstream&amp;host=hosting.linuweb.ir#☬SHΞN™
-vmess://eyJhZGQiOiJhay5yZWF0YS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZDMyMmViYS1mN2I4LTRhODQtYmRlYi1mY2NlOTI4NjM1MWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE2NDgyIiwicHMiOiLimKxTSM6eTuKEoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
 vless://b09b67eb-fb3d-44f3-a347-53eced265c00@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vip.wirobike.ir&amp;type=ws#☬SHΞN™
 vless://59b1a85f-6e87-40e0-a4f7-6e26c1cff5ba@varzesh3.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=proto.helexm.ir&amp;type=ws#☬SHΞN™
