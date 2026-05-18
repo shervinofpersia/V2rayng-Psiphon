@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-18 03:38:23      Total configs: 155   Next refresh: 3:48 AM
+Last update: 2026-05-18 08:08:30      Total configs: 156   Next refresh: 8:18 AM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -11,6 +11,7 @@ socks://Og@91.222.196.8:7071#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://88e8243a-fc9a-4022-80d4-e0c5801c2256@snapp.ir:80?encryption=none&amp;security=none&amp;type=ws&amp;headerType=none&amp;path=%2Fgraphql%3Fed%3D2560&amp;host=ss2.limitless-cloud.ir#☬SHΞN™
+vless://41fd3e6b-3cdc-4141-8b41-8ad2878ba740@snapp.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;host=sia.real-jcvps.ir&amp;type=ws#☬SHΞN™
 vless://bc299b8f-b92c-44a4-930e-ac15dddd1937@pg.nexorainnovationhub.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=germany.lezzaluxa.ir&amp;type=ws#☬SHΞN™
 vless://bc299b8f-b92c-44a4-930e-ac15dddd1937@pg.nexorainnovationhub.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=finland.lezzaluxa.ir&amp;type=ws#☬SHΞN™
 vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=p1.razstar.ir&amp;type=ws#☬SHΞN™
