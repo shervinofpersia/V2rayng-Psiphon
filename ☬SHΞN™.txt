@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-18 21:21:28      Total configs: 254   Next refresh: 9:31 PM
+Last update: 2026-05-18 22:52:29      Total configs: 254   Next refresh: 11:02 PM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -10,21 +10,21 @@ socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#☬SHΞN™
 socks://Og@91.222.196.8:7071#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0@94.183.173.225:443#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6VlJfRl92RGNsTGh2aGl0dlhidTk0UlF1ZmdrQlQwSA%3D%3D@vip8.myspacex.shop:8088#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6VlJfRl92RGNsTGh2aGl0dlhidTk0UlF1ZmdrQlQwSA%3D%3D@vip3.myspacex.shop:8080#☬SHΞN™
 vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F&amp;host=dns-02.dl-toucan.monster#☬SHΞN™
+vless://ffca22d4-e1dc-406a-8346-f20c4f09b78e@185.143.233.43:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=motabarim.service-panelbaz.ir&amp;type=ws#☬SHΞN™
+vless://ffca22d4-e1dc-406a-8346-f20c4f09b78e@185.143.233.43:80?path=%2F&amp;security=&amp;encryption=none&amp;host=motabarim.service-panelbaz.ir&amp;type=ws#☬SHΞN™
+vless://d20d82a5-6ffb-4c1f-a76d-508d652a5d26@185.143.233.200:8880?path=%2F&amp;security=&amp;encryption=mlkem768x25519plus.native.0rtt.yrESAq1QmiAmSXlQw3b3ZZhzJVO6meM9Oi3p2B05EXo&amp;host=nima.hayalco.ir&amp;type=ws#☬SHΞN™
+vless://2d6780ea-d5bb-41bb-a60b-d3984dcd6519@185.143.233.200:2052?path=%2F&amp;security=none&amp;encryption=mlkem768x25519plus.native.0rtt.9Zwbp5JsBrqWXj8vFrYXBFUSgphRW3Td-4nL6xgfe1I&amp;host=nima.hayalco.ir&amp;type=ws#☬SHΞN™
+vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=p1.sesrsa.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sub.sesrsa.com#☬SHΞN™
+vless://d025ab69-864f-4370-ae56-e5bcafd62199@185.143.234.235:80?path=%2F&amp;security=&amp;encryption=none&amp;host=vixon.portab.org&amp;type=ws#☬SHΞN™
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://0cf94446-7c69-4e04-93a6-67aef05b121b@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=simorgh.garfar.ir&amp;type=ws#☬SHΞN™
 vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://59bb1fa4-8c04-44af-bffb-efff394b75c2@Snapp.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=ir2.kokomokiyoo.ir&amp;type=ws#☬SHΞN™
 vless://f84cadb07ef447bfafeeb88a4c88a12c@reserved.fastnodegate.com:8443?security=reality&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;pbk=nJ6XfI-g6Opkwd3HTkcxJL38NmEAf_IorIYksckcZEM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fastnodegate.com&amp;sid=70#☬SHΞN™
-vless://08d9ece3-1218-437c-b43d-ce6d89225634@space.zenvault.ir:80?encryption=none&amp;type=ws&amp;path=/&amp;security=none#☬SHΞN™
-ss://638c7c92-9bb6-4294-8250-b224fb95fc78@2.144.21.44:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fcity%2Fsetting%3Fed%3D2560&amp;host=roncomi.pages.dev&amp;sni=roncomi.pages.dev&amp;alpn=h2&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-vless://ced89321-0fbd-4c55-9874-ec5f2ded420b@arvancloud.ir:80?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=samrexnet.ir&amp;path=/#☬SHΞN™
-vless://0dbe1ae8-e9a6-4f48-aa52-4dd2c7dd949e@185.143.233.5:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=p1.sesrsa.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sub.sesrsa.com#☬SHΞN™
-vless://c91cb9a5-b428-416b-9903-623add910594@finally.dashivo.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://a469bf88-8f4c-4b39-81c8-736acb3e1a39@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=biawban.yeksancloud.ir&amp;type=ws#☬SHΞN™
 ss://738c7c92-9bb6-4294-8250-b224fb95fc78@2.144.21.44:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fcity%2Fsetting%3Fed%3D2560&amp;host=roncomi.pages.dev&amp;sni=roncomi.pages.dev&amp;alpn=h2&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://879c96f2-fae7-4555-84f2-b47612c9021d@milad1.cloudzeusggwp.com.tr:36266?encryption=none&amp;type=tcp&amp;security=reality&amp;sni=www.aparat.com&amp;fp=chrome&amp;allowInsecure=1&amp;pbk=1VJvRSqXw-Gcwf7TGQfq-AoT8pa2qN-2IMLVHiZvHiw&amp;sid=d9919852&amp;spx=%2F#☬SHΞN™
