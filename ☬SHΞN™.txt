@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-18 19:23:50      Total configs: 252   Next refresh: 7:33 PM
+Last update: 2026-05-18 21:21:28      Total configs: 254   Next refresh: 9:31 PM
 
 ========== SOCKS ==========
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
@@ -13,6 +13,7 @@ socks://Og@91.222.196.8:7071#☬SHΞN™
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0@94.183.173.225:443#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6VlJfRl92RGNsTGh2aGl0dlhidTk0UlF1ZmdrQlQwSA%3D%3D@vip8.myspacex.shop:8088#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6VlJfRl92RGNsTGh2aGl0dlhidTk0UlF1ZmdrQlQwSA%3D%3D@vip3.myspacex.shop:8080#☬SHΞN™
+vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F&amp;host=dns-02.dl-toucan.monster#☬SHΞN™
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://0cf94446-7c69-4e04-93a6-67aef05b121b@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=simorgh.garfar.ir&amp;type=ws#☬SHΞN™
@@ -46,6 +47,7 @@ vless://da79df01-1ec9-475c-9ef4-4870e0fa40fa@185.143.233.5:2096?path=%2F&amp;sec
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://915889ce-41ee-4eeb-88cf-c5f9da808a63@34948_mohaaaad.2.globalmymusic2.com:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&amp;security=none&amp;encryption=none&amp;host=best.3.iran.avenflow.ir&amp;type=ws#☬SHΞN™
 vless://fc76eb5a-4675-4816-bff5-d8e689b58daf@anten.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=hikino.docos.tech&amp;type=ws#☬SHΞN™
+vmess://eyJhZGQiOiJ3d3cuYXJ2YW5jbG91ZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic25hcHBmb290ZGlnaXRvcm9iZnVsbHltdWxsLnJheWFubm9iLmlyIiwiaWQiOiJjZTkzZThhOS00N2I0LTQ3ZjgtODJmMC1lZTIzM2ZiMDBkNzEiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5WW91IiwicG9ydCI6IjgwIiwicHMiOiLimKxTSM6eTuKEoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@2.144.21.240:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2560&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://25d521bb-9194-4830-896f-7a644d7e2617@gg.mantisarcade.com:80?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=dl.google.com&amp;fp=chrome&amp;allowInsecure=1&amp;pbk=UcqoC7Ddm88CizAlqDRNONKE1WN2F9Ka9x8L0PDPfCk&amp;sid=50a78cde&amp;spx=%2F#☬SHΞN™
