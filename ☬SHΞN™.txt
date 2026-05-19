@@ -1,14 +1,13 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-19 20:09:11      Total configs: 166   Next refresh: 8:19 PM
+Last update: 2026-05-19 21:54:59      Total configs: 70   Next refresh: 10:04 PM
 
 ========== SOCKS ==========
-socks://Og%3D%3D@185.239.106.84:1449#☬SHΞN™
-socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
 socks://62.220.126.92:32302/#☬SHΞN™
 socks://62.220.126.56:26132/#☬SHΞN™
 socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#☬SHΞN™
 socks://Og@91.222.196.8:7071#☬SHΞN™
+socks://Og@185.239.106.84:1449#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@127.0.0.1:40443?security=tls&amp;sni=www.creationlong.org&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=%2Fassignment#☬SHΞN™
@@ -70,109 +69,12 @@ vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIs
 vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn-665e-o0g.fars-rehan.ir&amp;type=ws#☬SHΞN™
 vless://50023428-2a69-403b-81d2-7a7690d53b3f@telegrampdavpn.iddns.ir:3030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://17aab239-189a-46a3-99ae-dc12f0cc419f@nexorad.bexora.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-
-========== IP:PORT PAIRS ==========
-109.72.197.1:2
-2.23.168.250:185
-185.143.232.122:185
-185.137.25.214:80
-184.86.103.19:173
-96.17.96.31:104
-173.222.148.49:184
-104.76.220.42:184
-104.108.238.182:104
-92.122.17.9:92
-104.76.210.216:104
-23.64.224.224:173
-173.222.168.191:92
-92.123.10.140:184
-184.51.102.177:104
-104.76.220.168:92
-173.223.29.67:92
-23.65.117.219:173
-23.75.23.33:184
-184.86.103.217:184
-23.67.129.53:184
-184.86.103.142:104
-184.86.103.13:104
-23.64.59.26:92
-104.120.80.245:173
-92.122.1.249:173
-96.16.249.50:96
-96.16.249.60:96
-96.16.248.145:96
-96.16.248.176:96
-96.16.248.154:96
-92.123.8.77:104
-96.16.249.12:96
-96.16.248.179:96
-96.16.248.147:96
-23.65.124.89:96
-23.65.124.88:96
-96.16.249.6:96
-96.16.248.167:96
-92.123.8.99:92
-23.65.124.104:92
-23.65.124.91:23
-104.88.70.105:92
-96.16.248.152:104
-96.16.248.133:96
-96.16.248.162:173
-184.87.193.138:96
-96.17.96.7:96
-104.110.191.32:184
-104.116.98.32:184
-184.84.221.34:96
-96.16.249.52:88
-96.16.249.28:96
-96.17.72.48:104
-104.109.128.163:96
-96.17.72.75:104
-104.115.39.202:96
-184.85.134.164:104
-104.117.76.16:104
-184.84.81.125:23
-96.16.248.177:92
-184.85.155.41:88
-173.222.146.221:184
-96.17.72.80:96
-173.222.249.146:104
-96.17.72.57:173
-173.222.108.57:96
-23.67.142.129:173
-88.221.0.58:96
-104.110.191.39:104
-96.16.248.159:96
-96.16.248.153:104
-88.221.0.38:88
-104.108.86.50:96
-96.16.248.166:173
-96.16.248.183:88
-184.51.102.88:96
-88.221.0.50:104
-96.16.248.170:104
-96.16.249.20:88
-96.17.180.45:96
-96.16.248.181:104
-173.222.108.120:23
-92.122.16.5:104
-104.117.76.147:92
-184.86.103.159:104
-104.117.76.145:104
-104.117.76.114:104
-104.117.76.104:104
-104.117.76.179:104
-104.120.90.56:104
-104.117.76.91:96
-104.117.76.67:104
-104.117.76.64:104
-104.117.76.58:104
-184.86.103.20:184
-184.86.103.23:184
-23.65.124.105:104
-23.66.101.79:184
-104.120.82.77:104
-23.64.12.168:104
+vless://3212a762-6698-4242-aec3-17da724ab6dd@meliplus.navixx.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=meliplus.navixx.shop#☬SHΞN™
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#☬SHΞN™
+vless://7374ce6f-26eb-4231-be10-0775319f53b8@varzesh3.com:8080?path=%2Fcdn&amp;security=none&amp;encryption=none&amp;host=Za.movizdl.ir&amp;type=ws#☬SHΞN™
+vless://bbaedd14-649a-44e1-a032-58d79c26cf6e@tehrantimes.com:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=iran.medadcarboni.ir&amp;type=ws#☬SHΞN™
+vless://75bc6374-e337-490c-85a1-3bc8e2c76aee@s1.whatiffa.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=s1.whatiffa.ir&amp;type=ws#☬SHΞN™
+vmess://eyJhZGQiOiJjbGllbnQuaG9zdGtoYWxpai50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODM4YTEwMTYtZjcwOC00MGUyLWIyN2MtMTM2ZmRkMWY5MjlmIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MzYxIiwicHMiOiLimKxTSM6eTuKEoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
