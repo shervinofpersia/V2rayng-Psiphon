@@ -1,8 +1,9 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-19 13:42:19      Total configs: 260   Next refresh: 1:52 PM
+Last update: 2026-05-19 17:02:19      Total configs: 258   Next refresh: 5:12 PM
 
 ========== SOCKS ==========
+socks://Og%3D%3D@185.239.106.84:1449#☬SHΞN™
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#☬SHΞN™
 socks://62.220.126.92:32302/#☬SHΞN™
 socks://62.220.126.56:26132/#☬SHΞN™
@@ -46,9 +47,6 @@ vless://fcjsjznsie72jeozk8neksaaapqmzisf8site:1517www.httpsecurity=n=Jo#☬SHΞN
 vless://4a7189fb-2987-4844-9638-22f81ec4bc47@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://3eb2f8f2-b9e7-44e9-b90b-26b78fd38657@185.143.232.201:443?path=%2Fvoip&amp;security=tls&amp;encryption=none&amp;host=pishparda.ir&amp;fp=chrome&amp;type=ws&amp;sni=r1-vod.varzesh3.com#☬SHΞN™
 vless://61f2955f-cbdf-41fb-a944-b4256dc260e3@Snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mangel.phynanc.ir&amp;type=ws#☬SHΞN™
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1#☬SHΞN™
-vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=javid-2.toraniq.ir#☬SHΞN™
-vless://2309fcbe-b374-4dce-8695-2185c165c725@react.dev:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Fips&amp;host=wirex-balancc.vercel.app&amp;mode=auto&amp;extra=%257B%250A%2520%2520%2522xPaddingBytes%2522%2520%3A%2520%2522100-1000%2522%250A%257D&amp;sni=react.dev&amp;alpn=http%2F1.1%2Ch2&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vmess://eyJhZGQiOiJ3d3cuYXJ2YW5jbG91ZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic25hcHBmb290ZGlnaXRvcm9iZnVsbHltdWxsLnJheWFubm9iLmlyIiwiaWQiOiJjZTkzZThhOS00N2I0LTQ3ZjgtODJmMC1lZTIzM2ZiMDBkNzEiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5WW91IiwicG9ydCI6IjgwIiwicHMiOiLimKxTSM6eTuKEoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@2.144.21.240:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2560&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
