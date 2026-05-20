@@ -1,23 +1,18 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-20 09:23:34      Total configs: 168   Next refresh: 9:33 AM
+Last update: 2026-05-20 12:21:05      Total configs: 169   Next refresh: 12:31 PM
 
 ========== SOCKS ==========
-socks://62.220.126.92:32302/#☬SHΞN™
-socks://62.220.126.56:26132/#☬SHΞN™
+socks://Og@85.133.217.119:10808#☬SHΞN™
 socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#☬SHΞN™
 socks://Og@91.222.196.8:7071#☬SHΞN™
 socks://Og@185.239.106.84:1449#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@sourceforge.net:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#☬SHΞN™
+trojan://humanity@193.151.152.73:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#☬SHΞN™
 vless://9b61ef1d-3ab6-45d1-95bc-a06c4478d287@varzesh3.com:8080?path=%2Fcdn&amp;security=&amp;encryption=none&amp;host=Za.movizdl.ir&amp;type=ws#☬SHΞN™
 vless://413f4a86-cb33-4cf6-b3d4-cfc06fac6a68@varzesh3.com:8880?path=%2Faban&amp;security=none&amp;encryption=none&amp;host=tlite.abanservers.ir&amp;type=ws#☬SHΞN™
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0%3D@94.183.173.225:443#☬SHΞN™
-vless://32306362-3032-4230-b537-623264623539@185.143.235.203:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&amp;security=none&amp;encryption=none&amp;host=dl.tgmovie.bond&amp;type=ws#☬SHΞN™
-vless://b8065f37-7a9c-4041-96f7-5ed3147d45ae@185.143.233.5:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=cd2.sesrsa.com&amp;sni=cd2.sesrsa.com&amp;fp=firefox&amp;allowInsecure=1#☬SHΞN™
-vless://ed8e4c91-4d54-41c2-b0c3-f9515342b142@rayan.tehranionliine.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://da79df01-1ec9-475c-9ef4-4870e0fa40fa@185.143.233.5:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=p1.sesrsa.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sub.sesrsa.com#☬SHΞN™
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://915889ce-41ee-4eeb-88cf-c5f9da808a63@34948_mohaaaad.2.globalmymusic2.com:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&amp;security=none&amp;encryption=none&amp;host=best.3.iran.avenflow.ir&amp;type=ws#☬SHΞN™
@@ -63,6 +58,12 @@ vless://75ffa449-d6fd-4d47-93ce-a389756c0045@snapp.ir:80?path=%2F&amp;security=&
 vless://b10d234d-7cae-4f36-9700-d6b60b7318df@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=vixon.portab.org&amp;type=ws#☬SHΞN™
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
+vless://192348c1-49fe-4bef-88d7-a453f01e9cd8@185.141.134.165:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=www.aparat.com&amp;fp=chrome&amp;allowInsecure=1&amp;pbk=fR1pcf7cJ1bRAlUQpB1DG0GlW5qqtqZxAwPubsAzYn0&amp;sid=d50cbdb1c26fa758&amp;spx=%2F#☬SHΞN™
+vless://85aaa290-bd1a-4903-8e12-3363b6e2ceee@starlink.tino2020.com:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;mode=auto&amp;sni=starlink.tino2020.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+vless://73bae3c1-3da0-4f17-bda9-464f5a43657d@185.143.235.212:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F1040&amp;host=p0.massivegamesl01l1l01.ir&amp;sni=p0.massivegamesl01l1l01.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=firefox&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@37.32.9.230:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#☬SHΞN™
+trojan://humanity@188.121.105.201:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#☬SHΞN™
+vless://23a62d8e-0a67-17f1-338f-786ef2974f50@varzesh3.com:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn-reb-aaa.fasrgobar.ir#☬SHΞN™
 vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiI5ZDJiYjZiMC05ZDVmLTQ1NjgtYTk3YS02Yzc0N2NhMDk2ZjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiJmZjExYTg4MS0xOTcwLTQ1NDgtYWFiZS01NWExZmI4MzdhYWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiI2MzFiZGRhYy0zMDdiLTQ5ZGMtOGZmMC1jZmYwNTJhNjRmNTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
