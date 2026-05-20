@@ -1,18 +1,12 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-21 00:59:22      Total configs: 94   Next refresh: 1:09 AM
+Last update: 2026-05-21 02:22:42      Total configs: 90   Next refresh: 2:32 AM
 
 ========== SOCKS ==========
 socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#☬SHΞN™
 socks://Og@185.239.106.84:1449#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.157.213.215:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
-vless://523bee30-6167-432a-3208-91ca147d9410@18.197.116.144:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
-vless://0b6cc407-50e2-1efb-f49c-524e05668e55@18.197.164.252:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
-vless://0b6cc407-50e2-1efb-f49c-524e05668e55@18.159.146.147:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
-vless://81d6a801-ab9f-25a7-c0ba-9acb875e86da@18.184.134.186:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
-vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.192.95.247:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
 trojan://humanity@2.144.22.10:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#☬SHΞN™
 vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUwZDcyZjRiLWY3NTktNGJlZC1hZGRmLTNhMzRhMzZiYTk4MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIxNTYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://12361e81-7af2-1cd4-2595-eba27ddadce8@18.192.145.152:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
@@ -69,6 +63,8 @@ trojan://humanity@188.121.105.201:40443?path=%2Fassignment&amp;security=tls&amp;
 vless://23a62d8e-0a67-17f1-338f-786ef2974f50@varzesh3.com:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn-reb-aaa.fasrgobar.ir#☬SHΞN™
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&amp;type=ws&amp;path=%2F%3Fed%3D2560&amp;host=sv-1.jservices.ir#☬SHΞN™
 vless://0b89c53e-1d55-463f-90d7-f28b0e17b8a7@45.15.160.132:443?security=reality&amp;encryption=none&amp;pbk=2YrB1VDud3ZDZp-fnEGO7BKsHZQN9NVJuXU_5j-uzVI&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=ddb9#☬SHΞN™
+vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.157.213.215:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
+vless://523bee30-6167-432a-3208-91ca147d9410@18.197.116.144:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://136e7ce2-5365-4e8d-ae99-754e788fc918@185.24.253.107:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;host=cdn.gapfilm.org&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&amp;sni=cdn.gapfilm.org&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 trojan://humanity@85.198.20.177:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
