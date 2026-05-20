@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-20 05:20:20      Total configs: 166   Next refresh: 5:30 AM
+Last update: 2026-05-20 09:23:34      Total configs: 168   Next refresh: 9:33 AM
 
 ========== SOCKS ==========
 socks://62.220.126.92:32302/#☬SHΞN™
@@ -10,6 +10,7 @@ socks://Og@91.222.196.8:7071#☬SHΞN™
 socks://Og@185.239.106.84:1449#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
+trojan://humanity@sourceforge.net:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#☬SHΞN™
 vless://9b61ef1d-3ab6-45d1-95bc-a06c4478d287@varzesh3.com:8080?path=%2Fcdn&amp;security=&amp;encryption=none&amp;host=Za.movizdl.ir&amp;type=ws#☬SHΞN™
 vless://413f4a86-cb33-4cf6-b3d4-cfc06fac6a68@varzesh3.com:8880?path=%2Faban&amp;security=none&amp;encryption=none&amp;host=tlite.abanservers.ir&amp;type=ws#☬SHΞN™
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0%3D@94.183.173.225:443#☬SHΞN™
@@ -61,6 +62,7 @@ vless://48eee95d-73d5-4342-928f-279612a3c552@185.143.233.235:80?security=&amp;en
 vless://75ffa449-d6fd-4d47-93ce-a389756c0045@snapp.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;host=iranfuture.musicritmic.ir&amp;type=ws#☬SHΞN™
 vless://b10d234d-7cae-4f36-9700-d6b60b7318df@zir.alihapps3.aghanami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=vixon.portab.org&amp;type=ws#☬SHΞN™
+vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
 vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiI5ZDJiYjZiMC05ZDVmLTQ1NjgtYTk3YS02Yzc0N2NhMDk2ZjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiJmZjExYTg4MS0xOTcwLTQ1NDgtYWFiZS01NWExZmI4MzdhYWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjaXAuc2FsaW1vcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaXAuc2FsaW1vcmUuY29tIiwiaWQiOiI2MzFiZGRhYy0zMDdiLTQ5ZGMtOGZmMC1jZmYwNTJhNjRmNTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
