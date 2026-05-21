@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-21 02:22:42      Total configs: 90   Next refresh: 2:32 AM
+Last update: 2026-05-21 03:30:04      Total configs: 91   Next refresh: 3:40 AM
 
 ========== SOCKS ==========
 socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#☬SHΞN™
@@ -15,6 +15,7 @@ vless://81d6a801-ab9f-25a7-c0ba-9acb875e86da@18.153.32.10:443?type=tcp&amp;encry
 vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.192.134.185:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
 vless://0b6cc407-50e2-1efb-f49c-524e05668e55@18.194.137.197:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
 vless://523bee30-6167-432a-3208-91ca147d9410@18.159.118.65:443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
+trojan://humanity@193.151.152.73:40443?path=%2Fassignment&amp;security=tls&amp;host=www.ignitelimit.com&amp;type=ws&amp;sni=www.ignitelimit.com#☬SHΞN™
 vless://0cf94446-7c69-4e04-93a6-67aef05b121b@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=simorgh.garfar.ir&amp;type=ws#☬SHΞN™
 vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
