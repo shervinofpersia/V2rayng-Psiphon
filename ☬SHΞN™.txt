@@ -1,13 +1,11 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-21 23:47:03      Total configs: 83   Next refresh: 11:57 PM
+Last update: 2026-05-22 01:20:36      Total configs: 60   Next refresh: 1:30 AM
 
 ========== SOCKS ==========
-socks://Og@185.239.106.84:1449#☬SHΞN™
 socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://96a00da7-6ceb-4d47-9e8c-ae1bba71089c@snapp.ir:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=ts.programming-coding.ir&amp;path=%2F#☬SHΞN™
 vless://a80fisjzjsijx@ano.vipsite.top:2083type=tcp&amp;security=7325987430hsj-63949#☬SHΞN™
 vless://fcjsjznsie72jeozk8neksaaapqmzisf8site:1517www.httpsecurity=n=Jo#☬SHΞN™
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=none&amp;encryption=none&amp;host=games.p30dwonloads.ir&amp;headerType=none&amp;type=tcp#☬SHΞN™
@@ -61,35 +59,12 @@ vless://f2695176-33bd-494c-98d0-3393951d313a@snapp.ir:80?path=%2F&amp;security=n
 vless://822419f5-7449-42f1-85c3-c5364a0d4017@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://3e015dbc-8792-4271-9fae-461caa85cb8f@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://d18dfc36-bcde-4b25-a6c9-60ab6dca5d30@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
-vless://3212a762-6698-4242-aec3-17da724ab6dd@meliplus.navixx.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=meliplus.navixx.shop#☬SHΞN™
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#☬SHΞN™
-vless://7374ce6f-26eb-4231-be10-0775319f53b8@varzesh3.com:8080?path=%2Fcdn&amp;security=none&amp;encryption=none&amp;host=Za.movizdl.ir&amp;type=ws#☬SHΞN™
-vless://bbaedd14-649a-44e1-a032-58d79c26cf6e@tehrantimes.com:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=iran.medadcarboni.ir&amp;type=ws#☬SHΞN™
-vless://75bc6374-e337-490c-85a1-3bc8e2c76aee@s1.whatiffa.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=s1.whatiffa.ir&amp;type=ws#☬SHΞN™
-vmess://eyJhZGQiOiJjbGllbnQuaG9zdGtoYWxpai50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODM4YTEwMTYtZjcwOC00MGUyLWIyN2MtMTM2ZmRkMWY5MjlmIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MzYxIiwicHMiOiLimKxTSM6eTuKEoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://69f033c7-7d82-bfe0-61cf-53ee9ebca475@varzesh3.com:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn-reb-aaa.fasrgobar.ir#☬SHΞN™
 vless://761da37c-1d47-46ca-b581-03cbd0fb4ddf@out.newlinemobile.xyz:443?security=reality&amp;encryption=none&amp;pbk=klzunRrpCD-1ELitLDb07YGfB2aFsmC8Bqm8alo_sWc&amp;headerType=none&amp;fp=chrome&amp;spx=%2F6x0ALEznIvnAYSv&amp;type=tcp&amp;sni=www.aparat.com&amp;sid=b5c0ec#☬SHΞN™
 trojan://humanity@85.198.11.172:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#☬SHΞN™
 vless://df8da7e9-7e37-480b-8b74-deed9a9806ec@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://852960db-1247-4822-8614-0b27bf75e83d@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://8a204ade-1e33-403e-8a56-0e36d84dc6dc@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
-
-========== IP:PORT PAIRS ==========
-31.214.169.244:185
-46.32.31.30:37
-37.191.76.110:80
-185.141.106.238:81
-37.191.95.70:63
-142.54.178.211:5
-178.252.128.66:94
-2.23.168.254:2
-78.39.234.140:109
-185.137.25.214:2
-78.157.41.60:2
-185.208.175.228:81
-2.23.168.47:185
-2.23.170.80:2
-2.23.168.174:65
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
