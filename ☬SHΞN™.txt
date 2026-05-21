@@ -1,11 +1,12 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-22 02:27:23      Total configs: 60   Next refresh: 2:37 AM
+Last update: 2026-05-22 03:26:56      Total configs: 61   Next refresh: 3:36 AM
 
 ========== SOCKS ==========
 socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
+trojan://humanity@2.144.2.245:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#☬SHΞN™
 vless://a80fisjzjsijx@ano.vipsite.top:2083type=tcp&amp;security=7325987430hsj-63949#☬SHΞN™
 vless://fcjsjznsie72jeozk8neksaaapqmzisf8site:1517www.httpsecurity=n=Jo#☬SHΞN™
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=none&amp;encryption=none&amp;host=games.p30dwonloads.ir&amp;headerType=none&amp;type=tcp#☬SHΞN™
