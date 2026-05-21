@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-21 17:23:48      Total configs: 79   Next refresh: 5:33 PM
+Last update: 2026-05-21 20:03:06      Total configs: 82   Next refresh: 8:13 PM
 
 ========== SOCKS ==========
 socks://Og@171.22.24.184:1080#☬SHΞN™
@@ -11,9 +11,6 @@ socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#☬SHΞN™
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://dabf6629-06ae-4857-b5a2-cd46b7f279b8@95.38.197.121:2556?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
 vless://43794829-04d4-7a21-c86c-42246dd41bd4@bmi.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn-665e-o0g.fars-rehan.ir&amp;type=ws#☬SHΞN™
-vless://2e635a14-57bb-40d1-bc0d-c811b1fb74be@varzesh3.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=proto.helexm.ir&amp;type=ws#☬SHΞN™
-vless://1ead77c1-0733-4b55-8241-7b3c44093fb3@193.151.129.116:443?security=tls&amp;type=ws&amp;headerType=&amp;path=%2Fws%3Fed%3D500&amp;host=&amp;sni=r1-vod.varzesh3.com&amp;fp=chrome&amp;pcs=3308f15fc05422bbd9e15744ed93a67c163c51e8fa625a069cd798d1d3f87059&amp;allowInsecure=1#☬SHΞN™
-vless://1ead77c1-0733-4b55-8241-7b3c44093fb3@188.121.123.73:443?security=tls&amp;type=ws&amp;headerType=&amp;path=%2Fws%3Fed%3D500&amp;host=&amp;sni=plus.sabavision.com&amp;fp=chrome&amp;pcs=7af8aa0f3d118b625908fcd58693bd64226b8693e47cdde374e6214480decd2e&amp;allowInsecure=1#☬SHΞN™
 vless://a80fisjzjsijx@ano.vipsite.top:2083type=tcp&amp;security=7325987430hsj-63949#☬SHΞN™
 vless://fcjsjznsie72jeozk8neksaaapqmzisf8site:1517www.httpsecurity=n=Jo#☬SHΞN™
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=none&amp;encryption=none&amp;host=games.p30dwonloads.ir&amp;headerType=none&amp;type=tcp#☬SHΞN™
@@ -43,6 +40,12 @@ vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?path=%2F&amp;sec
 vless://b39604e6-5d65-4c8b-a5f6-829403d5d946@185.143.233.5:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=p1.sesrsa.com&amp;sni=sub.sesrsa.com&amp;fp=firefox&amp;allowInsecure=1#☬SHΞN™
 vless://39f54e00-d8b3-40ff-81b5-951cf11f2dad@arvancloud.ir:2086?path=%2Fcode&amp;security=none&amp;encryption=none&amp;host=vizo4.yeksanpower.ir&amp;type=ws#☬SHΞN™
 vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjkwM2ExNjc2LWEyMzItNDkxYS1iZmQ4LTllMzRkOTZjMmMwMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjI0MDEiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://08e9546b-2232-4fc9-8975-6281961d9cb1@rfral.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
+vless://e3d486fb-d9bf-47b6-817d-e67211f30d00@185.143.234.115:443?encryption=none&amp;security=tls&amp;type=ws&amp;sni=rest.parhamm2.ir&amp;host=rest.parhamm2.ir#☬SHΞN™
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=sv-1.jservices.ir&amp;type=ws#☬SHΞN™
+vless://2641d904-84cb-4bc5-97ff-674ccf46a449@Snapp.ir:2086?type=ws&amp;encryption=none&amp;path=%2F&amp;host=f.mroza.ir&amp;security=none#☬SHΞN™
+vless://32bef899-6c34-4a8d-8eab-550a3443df5a@varzesh3.com:8443?encryption=none&amp;fp=firefox&amp;host=p1.sesrsa.com&amp;path=%2F&amp;security=tls&amp;sni=sub.sesrsa.com&amp;type=ws#☬SHΞN™
+vless://a93126de-65fa-47ed-917f-30b262bee77d@185.143.234.115:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rest.parhamm2.ir&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=rest.parhamm2.ir#☬SHΞN™
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
 vless://192348c1-49fe-4bef-88d7-a453f01e9cd8@185.141.134.165:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=www.aparat.com&amp;fp=chrome&amp;allowInsecure=1&amp;pbk=fR1pcf7cJ1bRAlUQpB1DG0GlW5qqtqZxAwPubsAzYn0&amp;sid=d50cbdb1c26fa758&amp;spx=%2F#☬SHΞN™
 vless://85aaa290-bd1a-4903-8e12-3363b6e2ceee@starlink.tino2020.com:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;mode=auto&amp;sni=starlink.tino2020.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
