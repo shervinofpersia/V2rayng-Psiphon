@@ -1,10 +1,9 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-23 01:17:38      Total configs: 157   Next refresh: 1:27 AM
+Last update: 2026-05-23 02:13:02      Total configs: 150   Next refresh: 2:23 AM
 
 ========== SOCKS ==========
 socks://Og@109.122.252.86:1080#☬SHΞN™
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://08e9546b-2232-4fc9-8975-6281961d9cb1@rfral.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
@@ -51,12 +50,6 @@ vless://f2695176-33bd-494c-98d0-3393951d313a@snapp.ir:80?path=%2F&amp;security=n
 vless://822419f5-7449-42f1-85c3-c5364a0d4017@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://3e015dbc-8792-4271-9fae-461caa85cb8f@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://d18dfc36-bcde-4b25-a6c9-60ab6dca5d30@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
-vless://69f033c7-7d82-bfe0-61cf-53ee9ebca475@varzesh3.com:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn-reb-aaa.fasrgobar.ir#☬SHΞN™
-vless://761da37c-1d47-46ca-b581-03cbd0fb4ddf@out.newlinemobile.xyz:443?security=reality&amp;encryption=none&amp;pbk=klzunRrpCD-1ELitLDb07YGfB2aFsmC8Bqm8alo_sWc&amp;headerType=none&amp;fp=chrome&amp;spx=%2F6x0ALEznIvnAYSv&amp;type=tcp&amp;sni=www.aparat.com&amp;sid=b5c0ec#☬SHΞN™
-trojan://humanity@85.198.11.172:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#☬SHΞN™
-vless://df8da7e9-7e37-480b-8b74-deed9a9806ec@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
-vless://852960db-1247-4822-8614-0b27bf75e83d@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
-vless://8a204ade-1e33-403e-8a56-0e36d84dc6dc@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://2225c6e0-b549-4999-b0cb-5f1d6050e9b9@varzesh3.com:80?path=%2Fws&amp;security=none&amp;encryption=none&amp;host=nobody.fasterspeed.ir&amp;type=ws#☬SHΞN™
 vless://4f78a389-42b5-48a0-be5e-4d23a6ff4c05@snapp.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=ts.programming-coding.ir&amp;type=ws#☬SHΞN™
 vless://f5573e3a-959f-4793-baae-d2d5b61da553@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
