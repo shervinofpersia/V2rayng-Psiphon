@@ -1,18 +1,12 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-22 06:10:41      Total configs: 61   Next refresh: 6:20 AM
+Last update: 2026-05-22 10:05:06      Total configs: 55   Next refresh: 10:15 AM
 
 ========== SOCKS ==========
 socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@2.144.2.245:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#☬SHΞN™
-vless://a80fisjzjsijx@ano.vipsite.top:2083type=tcp&amp;security=7325987430hsj-63949#☬SHΞN™
-vless://fcjsjznsie72jeozk8neksaaapqmzisf8site:1517www.httpsecurity=n=Jo#☬SHΞN™
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=none&amp;encryption=none&amp;host=games.p30dwonloads.ir&amp;headerType=none&amp;type=tcp#☬SHΞN™
-vless://4a7189fb-2987-4844-9638-22f81ec4bc47@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
-vless://3eb2f8f2-b9e7-44e9-b90b-26b78fd38657@185.143.232.201:443?path=%2Fvoip&amp;security=tls&amp;encryption=none&amp;host=pishparda.ir&amp;fp=chrome&amp;type=ws&amp;sni=r1-vod.varzesh3.com#☬SHΞN™
-vless://61f2955f-cbdf-41fb-a944-b4256dc260e3@Snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mangel.phynanc.ir&amp;type=ws#☬SHΞN™
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.19.229.21:443?encryption=none&amp;security=tls&amp;sni=dabaius2.sylu.net&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=dabaius2.sylu.net&amp;path=%2Fdb10240eb751d6ab#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:443?encryption=none&amp;security=tls&amp;sni=sni.111000.dynv6.net&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=sni.111000.dynv6.net&amp;path=%2F#☬SHΞN™
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.19.229.21:443?encryption=none&amp;security=tls&amp;sni=qyi.fqjd663.ggff.net&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=qyi.fqjd663.ggff.net&amp;path=%2F#☬SHΞN™
