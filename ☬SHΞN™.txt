@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-22 13:28:45      Total configs: 152   Next refresh: 1:38 PM
+Last update: 2026-05-22 15:46:55      Total configs: 153   Next refresh: 3:56 PM
 
 ========== SOCKS ==========
 socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#☬SHΞN™
@@ -13,6 +13,7 @@ vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?path=%2F%3Fed%
 vless://2641d904-84cb-4bc5-97ff-674ccf46a449@Snapp.ir:2086?type=ws&amp;encryption=none&amp;path=%2F&amp;host=f.mroza.ir&amp;security=none#☬SHΞN™
 vless://32bef899-6c34-4a8d-8eab-550a3443df5a@varzesh3.com:8443?encryption=none&amp;fp=firefox&amp;host=p1.sesrsa.com&amp;path=%2F&amp;security=tls&amp;sni=sub.sesrsa.com&amp;type=ws#☬SHΞN™
 vless://a93126de-65fa-47ed-917f-30b262bee77d@185.143.234.115:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rest.parhamm2.ir&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=rest.parhamm2.ir#☬SHΞN™
+vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNjOGJlYjFlLTk0ZWQtNDJlNC05OTg1LTQ1YzgwZDJjNTlhOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjI0MDgiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.19.229.21:443?encryption=none&amp;security=tls&amp;sni=dabaius2.sylu.net&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=dabaius2.sylu.net&amp;path=%2Fdb10240eb751d6ab#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:443?encryption=none&amp;security=tls&amp;sni=sni.111000.dynv6.net&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=sni.111000.dynv6.net&amp;path=%2F#☬SHΞN™
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.19.229.21:443?encryption=none&amp;security=tls&amp;sni=qyi.fqjd663.ggff.net&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=qyi.fqjd663.ggff.net&amp;path=%2F#☬SHΞN™
