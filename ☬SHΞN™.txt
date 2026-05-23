@@ -1,11 +1,12 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-23 03:18:07      Total configs: 150   Next refresh: 3:28 AM
+Last update: 2026-05-23 04:58:53      Total configs: 151   Next refresh: 5:08 AM
 
 ========== SOCKS ==========
 socks://Og@109.122.252.86:1080#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
+ss://YWVzLTI1Ni1nY206WjVYeFZlUDBVUXhZd2JpbVE0QTRXUQ@45.159.151.28:18478?type=tcp#☬SHΞN™
 vless://08e9546b-2232-4fc9-8975-6281961d9cb1@rfral.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
 vless://e3d486fb-d9bf-47b6-817d-e67211f30d00@185.143.234.115:443?encryption=none&amp;security=tls&amp;type=ws&amp;sni=rest.parhamm2.ir&amp;host=rest.parhamm2.ir#☬SHΞN™
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=sv-1.jservices.ir&amp;type=ws#☬SHΞN™
