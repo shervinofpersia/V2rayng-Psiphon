@@ -1,13 +1,12 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-23 20:03:57      Total configs: 158   Next refresh: 8:13 PM
+Last update: 2026-05-23 21:07:44      Total configs: 165   Next refresh: 9:17 PM
 
 ========== SOCKS ==========
 socks://Og@81.12.80.194:3030#☬SHΞN™
 socks://Og@109.122.252.86:1080#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-ss://YWVzLTI1Ni1nY206WjVYeFZlUDBVUXhZd2JpbVE0QTRXUQ@45.159.151.28:18478?type=tcp#☬SHΞN™
 vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
 trojan://humanity@2.144.23.72:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
 vless://08e9546b-2232-4fc9-8975-6281961d9cb1@rfral.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
@@ -66,6 +65,14 @@ vless://738eda43-8a98-462c-9b23-41bd4fadc260@snapp.ir:80?path=%2F&amp;security=n
 vless://09fc1b02-c13b-4b54-ab86-21a7786cb38c@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://2877414f-d5bc-4bcf-8d82-470d92594504@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8080?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=sv-1.jservices.ir&amp;type=ws#☬SHΞN™
+vless://941c30a8-3d4b-4db4-b59a-49449a6fb65a@varzesh3.com:80?path=%2Fws&amp;security=none&amp;encryption=none&amp;host=nobody.fasterspeed.ir&amp;type=ws#☬SHΞN™
+vless://a0bb1c7d-c5a8-4cd8-8464-211763e0bc58@varzesh3.com:80?path=%2Fws&amp;security=none&amp;encryption=none&amp;host=nobody.fasterspeed.ir&amp;type=ws#☬SHΞN™
+vless://08b906c9-2093-4a53-9957-d535304729e8@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
+vless://1faf5a00-a84c-47f3-bcee-a62bb84e33f5@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
+vless://0e255887-fc08-4b6c-96aa-6a3ec324c8e6@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
+vless://f14330d9-4c80-4e28-8cbd-d581af153d79@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
+vless://6fb70abc-5c1e-4827-9034-3ea2edf4724b@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
+vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 
 ========== IP:PORT PAIRS ==========
 104.88.70.105:92
