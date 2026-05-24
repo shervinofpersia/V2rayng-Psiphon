@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-24 13:34:28      Total configs: 165   Next refresh: 1:44 PM
+Last update: 2026-05-24 14:55:21      Total configs: 163   Next refresh: 3:05 PM
 
 ========== SOCKS ==========
 socks://Og@109.122.252.86:1080#☬SHΞN™
@@ -41,8 +41,6 @@ vless://0c12ff0e-004d-4f86-8ba2-6756cbb6dac9@185.143.233.122:80?path=%2F&amp;sec
 vless://e9adbac6-90e1-4c1f-ad17-46226d45a262@85.133.221.52:3001?security=&amp;encryption=none&amp;host=fast.con&amp;headerType=http&amp;type=tcp#☬SHΞN™
 vless://0c4da793-9f11-41d5-ab4f-70cf24f6b2d9@198.169.2.1:443?path=%2Fapi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=veleshk20.vercel.app&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=veleshk20.vercel.app#☬SHΞN™
 vless://f1ee684c-c0e2-4c26-9875-910f5939c536@anten.ir:443?path=%2F&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;insecure=1&amp;host=nimisv2.pbvsrk.carnagesv.top&amp;fp=random&amp;type=ws&amp;allowInsecure=1&amp;sni=nimisv2.pbvsrk.carnagesv.top#☬SHΞN™
-vless://6d2ae52a-1b0a-41b9-aaf7-57e4fb5b386e@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
-vless://33bce551-0bb9-4da4-bc32-5fa4a401b315@varzesh3.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=proto.helexm.ir&amp;type=ws#☬SHΞN™
 vless://4dbadb4a-3e2c-4eec-92a5-1522b557e3aa@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://dff554dd-646c-4154-aaf4-ac0429f17648@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
 vless://4d2a0b5e-021b-4f28-a6a6-16bf58a5098e@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#☬SHΞN™
