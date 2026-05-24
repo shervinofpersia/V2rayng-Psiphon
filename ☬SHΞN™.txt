@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-24 19:45:48      Total configs: 185   Next refresh: 7:55 PM
+Last update: 2026-05-24 20:46:49      Total configs: 185   Next refresh: 8:56 PM
 
 ========== SOCKS ==========
 socks://Og@81.12.80.194:3030#☬SHΞN™
@@ -11,6 +11,7 @@ vless://17574dcf-0fa4-4693-ba3e-5dda6894f507@f.pvnet.ir:8880?path=%2F&amp;securi
 vless://5d875dbe-926b-45f7-96a6-8e6a125c14c3@f.pvnet.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://b8718a25-e3ad-43b1-b4ef-0bcc4732f381@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=weed2.torkonlineshop.ir&amp;type=ws#☬SHΞN™
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
+trojan://humanity@104.20.42.250:443?security=tls&amp;type=ws&amp;host=www.calmloud.com&amp;path=%2Fassignment&amp;sni=www.calmloud.com&amp;fp=ios&amp;allowInsecure=1#☬SHΞN™
 vless://08e9546b-2232-4fc9-8975-6281961d9cb1@rfral.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
 vless://e3d486fb-d9bf-47b6-817d-e67211f30d00@185.143.234.115:443?encryption=none&amp;security=tls&amp;type=ws&amp;sni=rest.parhamm2.ir&amp;host=rest.parhamm2.ir#☬SHΞN™
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=sv-1.jservices.ir&amp;type=ws#☬SHΞN™
@@ -51,7 +52,6 @@ trojan://humanity@2.144.2.51:443?path=%2Fassignment&amp;security=tls&amp;alpn=h2
 vless://2db3b422-3f2d-401f-9666-10df3e90e464@185.220.226.34:80?path=%2Fnews&amp;security=none&amp;encryption=none&amp;host=www.skyroom.online&amp;type=ws#☬SHΞN™
 vless://147b4f79-6dd2-4a8d-af10-7da04ca1d123@snapp.ir:80?type=ws&amp;security=none&amp;path=%2F&amp;host=derakhshan.molvliafor.ir#☬SHΞN™
 vless://4e050c1e-bb17-5cc9-b76f-f89bcb8dc5c1@185.126.6.183:443?encryption=none&amp;security=reality&amp;sni=www.digikala.com&amp;fp=chrome&amp;pbk=jcpXKgeHTyfSv9QhYUxx0fZQkaEkTuh_VY2q6-Nc6mA&amp;sid=a8d25d51aadd639e&amp;type=tcp&amp;flow=xtls-rprx-vision#☬SHΞN™
-vless://adc69281-5b4f-05a3-9e05-ca9f5fd95a68@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=dl.de1.server2.cludedata.ir#☬SHΞN™
 vless://b1badb73-e1e5-4846-856c-8ed6450a299e@2.144.19.238:443?encryption=none&amp;security=tls&amp;sni=shopify.tabriz.qzz.io&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=shopify.tabriz.qzz.io&amp;path=%2F#☬SHΞN™
 vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
 vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=%2Fwskhan&amp;security=none&amp;encryption=none&amp;host=mdproxyi.ir&amp;type=ws#☬SHΞN™
