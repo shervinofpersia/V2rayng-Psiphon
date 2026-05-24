@@ -1,13 +1,12 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-25 00:06:24      Total configs: 80   Next refresh: 12:16 AM
+Last update: 2026-05-25 01:03:44      Total configs: 79   Next refresh: 1:13 AM
 
 ========== SOCKS ==========
 socks://Og@81.12.80.194:3030#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
-trojan://humanity@104.20.42.250:443?security=tls&amp;type=ws&amp;host=www.calmloud.com&amp;path=%2Fassignment&amp;sni=www.calmloud.com&amp;fp=ios&amp;allowInsecure=1#☬SHΞN™
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=tls&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;sni=Koma-YT.PAGeS.Dev#☬SHΞN™
 vless://7986548b-c44c-4b65-9227-4b2cb504e7d5@varzesh3.com:80?path=%2Fws&amp;security=none&amp;encryption=none&amp;host=nobody.fasterspeed.ir&amp;type=ws#☬SHΞN™
 vless://25aa633e-0d6c-444c-a71d-cce25890f898@Ikco.ir:80?encryption=none&amp;host=IQ.movizdl.ir&amp;path=%2Fcdn&amp;security=none&amp;type=ws#☬SHΞN™
