@@ -1,14 +1,14 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-25 01:03:44      Total configs: 79   Next refresh: 1:13 AM
+Last update: 2026-05-25 02:05:30      Total configs: 79   Next refresh: 2:15 AM
 
 ========== SOCKS ==========
 socks://Og@81.12.80.194:3030#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=tls&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;sni=Koma-YT.PAGeS.Dev#☬SHΞN™
 vless://7986548b-c44c-4b65-9227-4b2cb504e7d5@varzesh3.com:80?path=%2Fws&amp;security=none&amp;encryption=none&amp;host=nobody.fasterspeed.ir&amp;type=ws#☬SHΞN™
+vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://25aa633e-0d6c-444c-a71d-cce25890f898@Ikco.ir:80?encryption=none&amp;host=IQ.movizdl.ir&amp;path=%2Fcdn&amp;security=none&amp;type=ws#☬SHΞN™
 vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUwZDcyZjRiLWY3NTktNGJlZC1hZGRmLTNhMzRhMzZiYTk4MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIxNTYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 trojan://humanity@2.144.22.10:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#☬SHΞN™
