@@ -1,15 +1,13 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-25 19:41:32      Total configs: 79   Next refresh: 7:51 PM
+Last update: 2026-05-25 21:28:53      Total configs: 78   Next refresh: 9:38 PM
 
 ========== SOCKS ==========
 socks://Og@81.12.24.160:26154#☬SHΞN™
 socks://Og@62.220.126.92:25864#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-trojan://humanity@www.calmloud.com:443?security=tls&amp;sni=www.calmloud.com&amp;fp=ios&amp;allowInsecure=0&amp;alpn=http/1.1&amp;type=ws&amp;path=/assignment#☬SHΞN™
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#☬SHΞN™
-vless://9b7c064f-d435-4204-9b57-031589a744d5@snapp.ir:8080?encryption=none&amp;host=cdn.tiopmfikg.ir&amp;path=%2F&amp;security=none&amp;type=ws#☬SHΞN™
+trojan://humanity@188.121.109.79:40443?security=tls&amp;type=ws&amp;host=www.ignitelimit.com&amp;path=%2Fassignment&amp;sni=www.ignitelimit.com&amp;allowInsecure=1#☬SHΞN™
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://25aa633e-0d6c-444c-a71d-cce25890f898@Ikco.ir:80?encryption=none&amp;host=IQ.movizdl.ir&amp;path=%2Fcdn&amp;security=none&amp;type=ws#☬SHΞN™
 vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUwZDcyZjRiLWY3NTktNGJlZC1hZGRmLTNhMzRhMzZiYTk4MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIxNTYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -53,6 +51,7 @@ vless://147b4f79-6dd2-4a8d-af10-7da04ca1d123@snapp.ir:80?type=ws&amp;security=no
 vless://4e050c1e-bb17-5cc9-b76f-f89bcb8dc5c1@185.126.6.183:443?encryption=none&amp;security=reality&amp;sni=www.digikala.com&amp;fp=chrome&amp;pbk=jcpXKgeHTyfSv9QhYUxx0fZQkaEkTuh_VY2q6-Nc6mA&amp;sid=a8d25d51aadd639e&amp;type=tcp&amp;flow=xtls-rprx-vision#☬SHΞN™
 vless://0851453f-1670-4182-8f24-9b971e7b843d@194.145.119.9:443?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?type=ws&amp;security=tls&amp;path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;host=Koma-YT.PAGeS.Dev&amp;sni=Koma-YT.PAGeS.Dev&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#☬SHΞN™
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://4e53fe86-f89d-4efa-974e-cb7208b5548d@tamin.ir:2052?encryption=none&amp;type=ws&amp;path=%2F&amp;host=big1.sedighi0915.ir#☬SHΞN™
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
