@@ -1,13 +1,12 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-25 17:20:14      Total configs: 68   Next refresh: 5:30 PM
+Last update: 2026-05-25 19:41:32      Total configs: 79   Next refresh: 7:51 PM
 
 ========== SOCKS ==========
 socks://Og@81.12.24.160:26154#☬SHΞN™
 socks://Og@62.220.126.92:25864#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&amp;security=tls&amp;host=www.calmloud.com&amp;fp=ios&amp;type=ws&amp;sni=www.calmloud.com#☬SHΞN™
 trojan://humanity@www.calmloud.com:443?security=tls&amp;sni=www.calmloud.com&amp;fp=ios&amp;allowInsecure=0&amp;alpn=http/1.1&amp;type=ws&amp;path=/assignment#☬SHΞN™
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#☬SHΞN™
 vless://9b7c064f-d435-4204-9b57-031589a744d5@snapp.ir:8080?encryption=none&amp;host=cdn.tiopmfikg.ir&amp;path=%2F&amp;security=none&amp;type=ws#☬SHΞN™
@@ -73,6 +72,20 @@ vless://077e29db-fe23-4147-9e0d-98ebadab0b41@next.avenprime.ir:80?path=%2F%3Fed%
 vless://b58cc30b-786c-4251-954e-d7d3f47e1501@arvancloud.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=t1.linuwebtunnel.site&amp;type=ws#☬SHΞN™
 vless://b8718a25-e3ad-43b1-b4ef-0bcc4732f381@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=weed2.torkonlineshop.ir&amp;type=ws#☬SHΞN™
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.calmloud.com&amp;fp=ios&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#☬SHΞN™
+
+========== IP:PORT PAIRS ==========
+31.214.169.244:178
+46.32.31.30:185
+185.50.37.52:164
+185.88.178.196:50
+185.208.174.167:50
+50.7.4.244:50
+5.160.128.142:109
+142.54.178.211:78
+5.160.13.85:185
+92.123.106.90:185
+2.188.21.240:80
+63.141.252.203:78
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
