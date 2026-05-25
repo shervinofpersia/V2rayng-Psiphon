@@ -1,14 +1,12 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-26 02:21:59      Total configs: 71   Next refresh: 2:31 AM
+Last update: 2026-05-26 03:24:54      Total configs: 69   Next refresh: 3:34 AM
 
 ========== SOCKS ==========
 socks://Og@81.12.24.160:26154#☬SHΞN™
 socks://Og@62.220.126.92:25864#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://b01631fa-502b-497f-b8ed-2fda669667ad@wp14.virgool.best:55014?security=reality&amp;encryption=none&amp;pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.digikala.com&amp;sid=c385#☬SHΞN™
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.38.164.245:40443?path=%2F%3FTelegram%D9%8B%20%40ProxyVPN11&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#☬SHΞN™
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://3bfb5495-d376-4af0-93a7-9472c6d75c72@185.143.233.235:8080?path=%2Fws%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=Nwe1.legendperm.ir&amp;type=ws#☬SHΞN™
 vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
