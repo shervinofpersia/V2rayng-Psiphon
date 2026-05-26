@@ -1,15 +1,25 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-26 16:19:33      Total configs: 66   Next refresh: 4:29 PM
+Last update: 2026-05-26 20:02:46      Total configs: 78   Next refresh: 8:12 PM
 
 ========== SOCKS ==========
+socks://Og@193.151.149.247:8220#☬SHΞN™
 socks://Og@81.12.24.160:26154#☬SHΞN™
 socks://Og@62.220.126.92:25864#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-trojan://humanity@172.66.47.69:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#☬SHΞN™
-trojan://humanity@104.18.139.67:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#☬SHΞN™
+vless://e3da803c-9c04-4ffb-a0f2-32cda93dd868@de-1.shadowhub.cc:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=static.gcore.pro&amp;fp=chrome&amp;security=reality&amp;pbk=RuJ1lpOsGekCBHkDdJ-ZeaeHQ4biiMj3ioU2eqSyfQM&amp;sid=#☬SHΞN™
+vless://49f59afc-9be1-4c20-87d2-86944ac731fa@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=post5.nahzgzfreeiran.ir&amp;type=ws#☬SHΞN™
+vless://4df97a83-a96b-49e9-bcef-c4d97747bac8@31.25.95.89:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://0a072575-24fb-40e8-9b13-b67fa77d3ca6@ir.primebourse.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
+vless://ccd1da99-2c30-4667-be3f-84cb63d419c7@snappfood.ir:80?path=%2Fmargbaramperialism&amp;security=none&amp;encryption=none&amp;host=wss.arciman.ir&amp;type=ws#☬SHΞN™
+trojan://humanity@2.144.20.145:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#☬SHΞN™
+vless://e09a2f83-db37-4167-9664-786d45614905@hcaptcha.com:8443?mode=auto&amp;path=%2Fverver&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=vercel1.gamelistak.com&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0#☬SHΞN™
+vless://f8fd5db7-c529-41a4-aa10-93302fec650c@varzesh3.com:8880?path=%2Faban&amp;security=none&amp;encryption=none&amp;host=tlite.abanservers.ir&amp;type=ws#☬SHΞN™
+trojan://humanity@8.6.112.6:443?security=tls&amp;sni=www.calmloud.com&amp;allowInsecure=1&amp;fp=chrome&amp;type=ws&amp;path=/assignment&amp;host=www.calmloud.com#☬SHΞN™
+trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&amp;path=%2Fassignment&amp;sni=www.multiplydose.com&amp;type=ws#☬SHΞN™
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
+vless://9a03d123-6bb8-4f5e-8cd4-8a0be00c6118@varzesh3.com:2095/?type=ws&amp;security=none&amp;encryption=none&amp;path=%2F&amp;host=uplinkdl27.lyraforge.ir#☬SHΞN™
 vless://93f2debc-acbb-4129-ab27-b90eb7c0d787@178.239.151.29:9443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
 vless://968fea7e-5b54-4d5b-8a38-edbfb0a989a6@rfral.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
 vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=backend.parhamm2.ir&amp;fp=random&amp;type=ws&amp;allowInsecure=1&amp;sni=backend.parhamm2.ir#☬SHΞN™
@@ -50,15 +60,17 @@ vless://7f708445-b4a5-4b33-8dce-e1adb2ed3b92@95.38.166.85:40443?encryption=none&
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=sidipv.naxd.ir#☬SHΞN™
 trojan://humanity@79.127.37.45:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#☬SHΞN™
 vless://1c5ee34e-3a3a-406a-9963-5e1c14a51fa6@varzesh3.com:8080?type=ws&amp;encryption=none&amp;path=%2F&amp;host=soft98irzulla.royallink.ir&amp;security=none#☬SHΞN™
-vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?encryption=none&amp;type=ws&amp;path=%2F#☬SHΞN™
-vless://f9089bd9-610f-4e02-bb2b-346bd3d3b21a@Worker.play97.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=%2F%2B%40ProxyVPN11&amp;security=&amp;encryption=none&amp;host=vip.yaml7.ggff.net&amp;type=ws#☬SHΞN™
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.16.7.70:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=qyi.fqjd663.ggff.net&amp;sni=qyi.fqjd663.ggff.net&amp;allowInsecure=1#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&amp;type=ws&amp;security=tls&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1#☬SHΞN™
 vless://2e8b990c-3474-42c3-9ea9-baa71022f4cc@104.16.7.70:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=crowsshop334.bioritalin.ir&amp;sni=crowsshop334.bioritalin.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://48d1cb9d-bbd4-4444-b833-6720619a117e@104.16.89.120:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=nl8.bioritalin.ir&amp;fp=chrome&amp;type=ws&amp;sni=nl8.bioritalin.ir#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@138.186.142.81:990#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.38.168.58:990#☬SHΞN™
+vless://1c77de35-7af7-40c8-b240-0842e7f89e55@193.151.133.97:443?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.18.139.67:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffast&amp;host=hio-awx.pages.dev&amp;sni=hio-awx.pages.dev&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@104.18.139.67:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.gossipglove.com&amp;sni=www.gossipglove.com&amp;allowInsecure=1#☬SHΞN™
 
 ========== IP:PORT PAIRS ==========
 31.214.169.244:178
