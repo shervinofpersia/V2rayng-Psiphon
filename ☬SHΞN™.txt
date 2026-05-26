@@ -1,16 +1,17 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-26 22:36:47      Total configs: 66   Next refresh: 10:46 PM
+Last update: 2026-05-27 00:28:24      Total configs: 73   Next refresh: 12:38 AM
 
 ========== SOCKS ==========
 socks://Og@81.12.24.160:26154#☬SHΞN™
 socks://Og@62.220.126.92:25864#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTldUZUoxRWpaVTN6N0VR@20.87.107.99:443#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&amp;security=tls&amp;sni=sni.jpmj.dev&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=sni.jpmj.dev&amp;path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTldUZUoxRWpaVTN6N0VR@20.87.107.99:443#☬SHΞN™
 vless://1745026c-94cb-419d-bd57-5dc7bca6de73@ux.onyxshoes.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:2083?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%25252F&amp;host=cIAllO-EGB.pAGES.dev&amp;sni=cIAllO-EGB.pAGES.dev&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+vless://392c0d0a-157f-4fe0-b528-11586477cbe0@185.213.165.81:38024?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://9a03d123-6bb8-4f5e-8cd4-8a0be00c6118@varzesh3.com:2095/?type=ws&amp;security=none&amp;encryption=none&amp;path=%2F&amp;host=uplinkdl27.lyraforge.ir#☬SHΞN™
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=de.xn--q9jyb4c.online#☬SHΞN™
 vless://08e9546b-2232-4fc9-8975-6281961d9cb1@rfral.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
@@ -47,10 +48,6 @@ vless://7f708445-b4a5-4b33-8dce-e1adb2ed3b92@95.38.166.85:40443?encryption=none&
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=sidipv.naxd.ir#☬SHΞN™
 trojan://humanity@79.127.37.45:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#☬SHΞN™
 vless://1c5ee34e-3a3a-406a-9963-5e1c14a51fa6@varzesh3.com:8080?type=ws&amp;encryption=none&amp;path=%2F&amp;host=soft98irzulla.royallink.ir&amp;security=none#☬SHΞN™
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.16.7.70:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=qyi.fqjd663.ggff.net&amp;sni=qyi.fqjd663.ggff.net&amp;allowInsecure=1#☬SHΞN™
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&amp;type=ws&amp;security=tls&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1#☬SHΞN™
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1#☬SHΞN™
-vless://2e8b990c-3474-42c3-9ea9-baa71022f4cc@104.16.7.70:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=crowsshop334.bioritalin.ir&amp;sni=crowsshop334.bioritalin.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://48d1cb9d-bbd4-4444-b833-6720619a117e@104.16.89.120:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=nl8.bioritalin.ir&amp;fp=chrome&amp;type=ws&amp;sni=nl8.bioritalin.ir#☬SHΞN™
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@138.186.142.81:990#☬SHΞN™
@@ -59,6 +56,16 @@ vless://1c77de35-7af7-40c8-b240-0842e7f89e55@193.151.133.97:443?encryption=none&
 vless://f8fd5db7-c529-41a4-aa10-93302fec650c@varzesh3.com:8880?path=%2Faban&amp;security=none&amp;encryption=none&amp;host=tlite.abanservers.ir&amp;type=ws#☬SHΞN™
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.18.139.67:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffast&amp;host=hio-awx.pages.dev&amp;sni=hio-awx.pages.dev&amp;allowInsecure=1#☬SHΞN™
 trojan://humanity@104.18.139.67:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.gossipglove.com&amp;sni=www.gossipglove.com&amp;allowInsecure=1#☬SHΞN™
+vless://8e382d68-abfa-4921-a623-6fd852935c70@104.18.12.149:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&amp;host=tls2.best-game.org&amp;sni=tls2.best-game.org&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@198.62.62.21:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F188.240.213.98%3A2053&amp;host=afrcloud5.c01.kr&amp;sni=afrcloud5.c01.kr&amp;allowInsecure=1#☬SHΞN™
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.215.250.161:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=sni.111000.indevs.in&amp;sni=sni.111000.indevs.in&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;encryption=none&amp;host=de.xn--q9jyb4c.online&amp;fp=chrome&amp;type=xhttp&amp;sni=de.xn--q9jyb4c.online#☬SHΞN™
+vless://5702e628-ee53-40da-a788-798dfab9eaa9@204.168.252.64:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=theend.soragormar.ir&amp;type=ws#☬SHΞN™
+vless://e8cbc051-e0ac-452d-9bd3-8ad46625573c@arvancloud.ir:8080?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=r.cafeplusstore.ir&amp;type=xhttp#☬SHΞN™
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.21.7.21:2096?path=%2Ftr&amp;security=tls&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;sni=Koma-YT.PAGeS.Dev#☬SHΞN™
+vless://0dafcdf5-3e7d-4970-beaf-73a17d67de96@speedtest.net:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=avasjji.global.ssl.fastly.net#☬SHΞN™
+vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=Asaaabi.global.ssl.fastly.net#☬SHΞN™
+vless://384e0806-fcee-4f92-b671-bfc6a4794148@speedtest.net:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=oijji.global.ssl.fastly.net#☬SHΞN™
 
 ========== IP:PORT PAIRS ==========
 31.214.169.244:178
