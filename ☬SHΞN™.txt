@@ -1,12 +1,13 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-26 09:38:16      Total configs: 69   Next refresh: 9:48 AM
+Last update: 2026-05-26 13:46:47      Total configs: 69   Next refresh: 1:56 PM
 
 ========== SOCKS ==========
 socks://Og@81.12.24.160:26154#☬SHΞN™
 socks://Og@62.220.126.92:25864#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
+ss://YWVzLTI1Ni1nY206cXcyQndlcXdlM1A2OTdHMmVy@185.60.137.65:16541#☬SHΞN™
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://93f2debc-acbb-4129-ab27-b90eb7c0d787@178.239.151.29:9443?type=tcp&amp;encryption=none&amp;security=none#☬SHΞN™
 vless://968fea7e-5b54-4d5b-8a38-edbfb0a989a6@rfral.aghanami.ir:80?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#☬SHΞN™
@@ -48,7 +49,6 @@ vless://7f708445-b4a5-4b33-8dce-e1adb2ed3b92@95.38.166.85:40443?encryption=none&
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=sidipv.naxd.ir#☬SHΞN™
 trojan://humanity@79.127.37.45:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#☬SHΞN™
 vless://1c5ee34e-3a3a-406a-9963-5e1c14a51fa6@varzesh3.com:8080?type=ws&amp;encryption=none&amp;path=%2F&amp;host=soft98irzulla.royallink.ir&amp;security=none#☬SHΞN™
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?type=ws&amp;security=tls&amp;path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;host=Koma-YT.PAGeS.Dev&amp;sni=Koma-YT.PAGeS.Dev&amp;allowInsecure=1#☬SHΞN™
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#☬SHΞN™
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://4e53fe86-f89d-4efa-974e-cb7208b5548d@tamin.ir:2052?encryption=none&amp;type=ws&amp;path=%2F&amp;host=big1.sedighi0915.ir#☬SHΞN™
