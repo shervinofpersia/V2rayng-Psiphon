@@ -1,8 +1,11 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-28 01:50:39      Total configs: 56   Next refresh: 2:00 AM
+Last update: 2026-05-28 03:11:37      Total configs: 59   Next refresh: 3:21 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;encryption=none&amp;insecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=de.lezzatzone.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=de.lezzatzone.ir#☬SHΞN™
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2Fproxyip&amp;security=tls&amp;encryption=none&amp;insecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=sni.skylee4.cloudns.ch&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.skylee4.cloudns.ch#☬SHΞN™
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=de.lezzatzone.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=de.lezzatzone.ir#☬SHΞN™
 trojan://humanity@188.114.96.4:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;sni=www.calmloud.com&amp;alpn=http%2F1.1&amp;allowInsecure=1#☬SHΞN™
 vless://d8d67109-1fc9-4813-8753-63561fb6dc9d@ger1bot-ws.headerip.com:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=ger1.mv5.ir#☬SHΞN™
 vless://ac238604-f2e6-45f4-8f76-9a15b7b678d6@varzesh3.com:443?security=tls&amp;encryption=none&amp;path=%2Farvan&amp;host=&amp;mode=auto&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;sni=s7.fsharj.ir&amp;type=xhttp#☬SHΞN™
