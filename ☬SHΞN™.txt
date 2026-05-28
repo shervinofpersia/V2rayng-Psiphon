@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-28 04:55:24      Total configs: 59   Next refresh: 5:05 AM
+Last update: 2026-05-28 09:10:03      Total configs: 58   Next refresh: 9:20 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;encryption=none&amp;insecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=de.lezzatzone.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=de.lezzatzone.ir#☬SHΞN™
@@ -17,9 +17,6 @@ vless://7f708445-b4a5-4b33-8dce-e1adb2ed3b92@95.38.166.85:40443?encryption=none&
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=sidipv.naxd.ir#☬SHΞN™
 trojan://humanity@79.127.37.45:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#☬SHΞN™
 vless://1c5ee34e-3a3a-406a-9963-5e1c14a51fa6@varzesh3.com:8080?type=ws&amp;encryption=none&amp;path=%2F&amp;host=soft98irzulla.royallink.ir&amp;security=none#☬SHΞN™
-vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.121.71:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fquestion%2Favatar%2Fhot&amp;host=pagescm.freen34.cc.cd&amp;sni=pagescm.freen34.cc.cd&amp;allowInsecure=1#☬SHΞN™
-vless://2e7a09b1-1c94-45e0-9b0a-9a221dc7280b@macnetdev.macnetdev.link:52483?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
 trojan://mitivpn@208.103.161.39:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=cdn.iranpoems.ir&amp;sni=cdn.iranpoems.ir&amp;allowInsecure=1#☬SHΞN™
 vless://d9377513-7e6b-48f1-89e4-a21f855b1969@sets.starservice.site:13764?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=soft98.ir#☬SHΞN™
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Fde&amp;host=de.lezzatzone.ir&amp;mode=stream-one&amp;sni=de.lezzatzone.ir&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
@@ -50,6 +47,8 @@ vless://2042c7c4-f0c8-48ec-926b-65112b064e2c@89.117.94.111:54495?security=realit
 vless://7402e534-54dc-34cc-ac5b-c85ac6e236fd@s881.ccgfw.top:443?flow=xtls-rprx-vision&amp;mode=&amp;path=&amp;security=tls&amp;servicename=&amp;sni=s881.ccgfw.top&amp;type=tcp#☬SHΞN™
 vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=360&amp;type=ws&amp;allowInsecure=1&amp;sni=mzaxmc0.lizard2shop.com#☬SHΞN™
 vless://6fc86f51-51e8-4f51-8ccb-31c6abe02d88@18.185.184.13:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?type=tcp&amp;headerType=none#☬SHΞN™
+vless://2d4f08f7-afc9-4d20-ac26-7cf02582b1d6@45.76.83.35:54985?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.21:443?path=%2F93.115.10.218%3D2053&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud4.c01.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=afrcloud4.c01.kr#☬SHΞN™
 trojan://humanity@208.103.161.101:443?path=%2Fassignment&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#☬SHΞN™
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@172.66.47.69:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=qyi.fqjd663.ggff.net&amp;type=ws&amp;allowInsecure=1&amp;sni=qyi.fqjd663.ggff.net#☬SHΞN™
