@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-28 09:10:03      Total configs: 58   Next refresh: 9:20 AM
+Last update: 2026-05-28 12:32:51      Total configs: 59   Next refresh: 12:42 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;encryption=none&amp;insecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=de.lezzatzone.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=de.lezzatzone.ir#☬SHΞN™
@@ -17,10 +17,6 @@ vless://7f708445-b4a5-4b33-8dce-e1adb2ed3b92@95.38.166.85:40443?encryption=none&
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=sidipv.naxd.ir#☬SHΞN™
 trojan://humanity@79.127.37.45:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#☬SHΞN™
 vless://1c5ee34e-3a3a-406a-9963-5e1c14a51fa6@varzesh3.com:8080?type=ws&amp;encryption=none&amp;path=%2F&amp;host=soft98irzulla.royallink.ir&amp;security=none#☬SHΞN™
-trojan://mitivpn@208.103.161.39:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=cdn.iranpoems.ir&amp;sni=cdn.iranpoems.ir&amp;allowInsecure=1#☬SHΞN™
-vless://d9377513-7e6b-48f1-89e4-a21f855b1969@sets.starservice.site:13764?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=soft98.ir#☬SHΞN™
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Fde&amp;host=de.lezzatzone.ir&amp;mode=stream-one&amp;sni=de.lezzatzone.ir&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-vless://e234245f-b66e-4eef-b8cb-6298500221ba@104.17.121.71:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;host=panel-free.emergency-service.org&amp;mode=auto&amp;sni=panel-free.emergency-service.org&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.47.168:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=jp.aniua.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=jp.aniua.qzz.io#☬SHΞN™
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.16.63.25:443?path=%2Fhelp%2Fjumping%23%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=pagescm.freen6.de5.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=pagescm.freen6.de5.net#☬SHΞN™
 vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=net.hostingdata.ir&amp;type=ws#☬SHΞN™
@@ -32,6 +28,7 @@ vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?encryption=none&a
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?encryption=none&amp;type=xhttp&amp;serviceName=-Telegram@V2rayngCloud--Telegram@V2rayngCloud-Telegram@V2rayngCloud--Telegram@V2rayngCloud-Telegram@V2rayngCloud--Telegram@V2rayngCloud-Telegram@V2rayngCloud--Telegram@V2rayNGcloud&amp;security=tls&amp;path=%2Fde&amp;host=de.lezzatzone.ir&amp;mode=stream-one&amp;sni=de.lezzatzone.ir&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@chatgpt.com:443?encryption=none&amp;type=ws&amp;serviceName=---Telegram@V2rayNGcloud------Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud--&amp;security=tls&amp;path=%2Fquestion%2Favatar%2Fhot&amp;host=pagescm.freen34.cc.cd&amp;sni=pagescm.freen34.cc.cd&amp;allowInsecure=1#☬SHΞN™
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Fde&amp;host=de.lezzatzone.ir&amp;mode=stream-one&amp;sni=de.lezzatzone.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Fde&amp;host=de.lezzatzone.ir&amp;mode=stream-one&amp;sni=de.lezzatzone.ir&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@111.248.87.83:50099?type=tcp&amp;headerType=none#☬SHΞN™
 vless://15d91caa-503f-4bc5-884d-ab20026a6ca3@45.130.125.76:443?path=%2Fsub%2Fv1&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=tunnel.alphavip.dpdns.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=tunnel.alphavip.dpdns.org#☬SHΞN™
 vless://6609a93c-d8e5-4ad8-ac8a-bb6cac5d6e9a@SPEEDtest.Net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&amp;host=Deet.Global.Ssl.Fastly.Net&amp;type=xhttp#☬SHΞN™
@@ -49,6 +46,10 @@ vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=%2
 vless://6fc86f51-51e8-4f51-8ccb-31c6abe02d88@18.185.184.13:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?type=tcp&amp;headerType=none#☬SHΞN™
 vless://2d4f08f7-afc9-4d20-ac26-7cf02582b1d6@45.76.83.35:54985?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
+vless://5678b00f-9ed6-4982-9f8a-1a7306e25126@162.217.249.74:48748?encryption=none&amp;type=tcp#☬SHΞN™
+trojan://humanity@127.0.0.1:40443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.ignitelimit.com&amp;sni=www.ignitelimit.com&amp;allowInsecure=0#☬SHΞN™
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fproxyip&amp;host=sni.skylee4.cloudns.ch&amp;sni=sni.skylee4.cloudns.ch&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+vless://c575c0fd-4833-4cba-937d-2342fd32544b@104.17.121.71:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Findex.html&amp;host=de.vpncustomize.cc.cd&amp;mode=stream-one&amp;sni=de.vpncustomize.cc.cd&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.21:443?path=%2F93.115.10.218%3D2053&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud4.c01.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=afrcloud4.c01.kr#☬SHΞN™
 trojan://humanity@208.103.161.101:443?path=%2Fassignment&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#☬SHΞN™
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@172.66.47.69:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=qyi.fqjd663.ggff.net&amp;type=ws&amp;allowInsecure=1&amp;sni=qyi.fqjd663.ggff.net#☬SHΞN™
