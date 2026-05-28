@@ -1,24 +1,17 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-28 22:56:22      Total configs: 45   Next refresh: 11:06 PM
+Last update: 2026-05-29 00:59:08      Total configs: 45   Next refresh: 1:09 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://b5bc2a1e-c07d-4a8d-a4ac-0ff76470c1e6@95.179.165.54:27911?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
-vless://97b8c447-72d8-4b4e-9edc-3b4cc064768d@212.100.171.53:43959?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
-trojan://mitivpn@104.18.32.47:2096?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;sni=www.app-cloud.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
-trojan://mitivpn@104.18.32.47:8443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;sni=www.app-cloud.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
-trojan://mitivpn@45.130.125.76:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;sni=www.app-cloud.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
-vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=jp.aniua.qzz.io&amp;sni=jp.aniua.qzz.io&amp;allowInsecure=0#☬SHΞN™
 vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=hi-wg.pages.dev&amp;sni=hi-wg.pages.dev&amp;allowInsecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@81.255.155.10:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ftools&amp;host=pagescm.freen2.de5.net&amp;sni=pagescm.freen2.de5.net&amp;allowInsecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=jp.aniua.qzz.io&amp;sni=jp.aniua.qzz.io&amp;allowInsecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
 vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=jp.aniua.qzz.io&amp;sni=jp.aniua.qzz.io&amp;allowInsecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
 vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=ws-x1.pages.dev&amp;sni=ws-x1.pages.dev&amp;allowInsecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
+trojan://mitivpn@104.18.32.47:2096?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;sni=www.app-cloud.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+trojan://mitivpn@104.18.32.47:8443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;sni=www.app-cloud.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 vless://569dffc8-aa31-4e4f-ae8a-e158421e5b2a@me-and-who.fazelextremeisreal.com:58101?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=refersion.com&amp;fp=chrome&amp;allowInsecure=1&amp;pbk=dcQd16Gscf8M8wbOPE4woBaxQ5uAzdSxDSHhM1VlPEQ&amp;sid=a68ba8&amp;spx=%2F#☬SHΞN™
 vless://942469ee-7f8e-443d-bfd2-4f8b1faa5970@199.232.57.91:80?encryption=none&amp;type=ws&amp;path=%2F%3Fed%3D2056&amp;host=Api.nHl14.iR.#☬SHΞN™
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;encryption=none&amp;insecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=de.lezzatzone.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=de.lezzatzone.ir#☬SHΞN™
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2Fproxyip&amp;security=tls&amp;encryption=none&amp;insecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=sni.skylee4.cloudns.ch&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.skylee4.cloudns.ch#☬SHΞN™
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=de.lezzatzone.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=de.lezzatzone.ir#☬SHΞN™
 vless://c575c0fd-4833-4cba-937d-2342fd32544b@104.17.121.71:443?mode=stream-one&amp;path=%2Findex.html&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=%64%65%2e%76%70%6e%63%75%73%74%6f%6d%69%7a%65%2e%63%63%2e%63%64&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=%64%65%2e%76%70%6e%63%75%73%74%6f%6d%69%7a%65%2e%63%63%2e%63%64#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
 trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.app-cloud.ir#☬SHΞN™
@@ -26,8 +19,6 @@ vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?secur
 vless://c5d39e5e-de2c-4614-af1a-652692097224@179.237.73.189:17931?security=none&amp;encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=tci.ir&amp;headerType=http&amp;type=tcp#☬SHΞN™
 vless://03cd29d5-efd3-42ab-b5f3-04f9f925deb5@45.130.125.69:8880?mode=packet-up&amp;path=%2FPHPmyAdmin%3FQ%3D%2FSpeedtest.net-Dash.cloudflare.com%3Fed%3D443&amp;security=none&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=uegeusus-18181811.maxgh5766.ir.&amp;type=xhttp#☬SHΞN™
 vless://03cd29d5-efd3-42ab-b5f3-04f9f925deb5@notifications.platform.dash.cloudflare.com:8880?mode=packet-up&amp;path=%2FPHPmyAdmin%3FQ%3D%2FSpeedtest.net-Dash.cloudflare.com%3Fed%3D443&amp;security=none&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=uegeusus-18181811.maxgh5766.ir.&amp;type=xhttp#☬SHΞN™
-vless://6fc86f51-51e8-4f51-8ccb-31c6abe02d88@18.185.184.13:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?type=tcp&amp;headerType=none#☬SHΞN™
 vless://2d4f08f7-afc9-4d20-ac26-7cf02582b1d6@45.76.83.35:54985?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
 vless://5678b00f-9ed6-4982-9f8a-1a7306e25126@162.217.249.74:48748?encryption=none&amp;type=tcp#☬SHΞN™
 trojan://humanity@127.0.0.1:40443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.ignitelimit.com&amp;sni=www.ignitelimit.com&amp;allowInsecure=0#☬SHΞN™
@@ -36,6 +27,8 @@ vless://c575c0fd-4833-4cba-937d-2342fd32544b@104.17.121.71:443?encryption=none&a
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=jp.aniua.qzz.io&amp;sni=jp.aniua.qzz.io&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&amp;security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=sub.sbrf-cdn342.ru&amp;fp=qq&amp;headerType=none&amp;alpn=http/1.1#☬SHΞN™
 vless://c575c0fd-4833-4cba-937d-2342fd32544b@104.17.121.97:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Findex.html&amp;host=de.vpncustomize.cc.cd&amp;mode=stream-one&amp;sni=de.vpncustomize.cc.cd&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+trojan://Mitivpn@45.130.125.76:2053?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=dash.hitgram.ir&amp;sni=dash.hitgram.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+trojan://Mitivpn@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=dash.hitgram.ir&amp;sni=dash.hitgram.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.21:443?path=%2F93.115.10.218%3D2053&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud4.c01.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=afrcloud4.c01.kr#☬SHΞN™
 trojan://humanity@208.103.161.101:443?path=%2Fassignment&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#☬SHΞN™
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@172.66.47.69:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=qyi.fqjd663.ggff.net&amp;type=ws&amp;allowInsecure=1&amp;sni=qyi.fqjd663.ggff.net#☬SHΞN™
@@ -48,6 +41,13 @@ vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2F&amp;secu
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@14.102.228.76:2083?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=de.lezzatzone.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=1&amp;sni=de.lezzatzone.ir#☬SHΞN™
 vless://5b96be74-656d-4bb7-85c2-d2d8a3b7c2f3@90.156.254.164:19562?security=reality&amp;encryption=none&amp;pbk=T66pm2f_PN4Hya_A_5K0X1HQb717SUCODyoUO7Gk3Ws&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=9e#☬SHΞN™
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMW1kWEZRcTN1NjExWklC@20.87.107.99:443#☬SHΞN™
+vless://28154b7e-afc2-449b-8a78-bf1eba31bd05@a.darafiq.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
+vless://de989f46-ce7c-4d94-9c58-5ccd80e8d7a1@104.17.150.76:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=war2.unlimiteddev-service2881.ir&amp;type=ws#☬SHΞN™
+trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.app-cloud.ir#☬SHΞN™
+vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=jp.aniua.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=jp.aniua.qzz.io#☬SHΞN™
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#☬SHΞN™
+vmess://eyJhZGQiOiIyMTIuODcuMTk4Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiYWxlLmFpIiwiaWQiOiJkZDVmZmQyMy1jZWY1LTQ0ZGQtYTE0My02NThiZDdmMzk0M2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NTI1NSIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
