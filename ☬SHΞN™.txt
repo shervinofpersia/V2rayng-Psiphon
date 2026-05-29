@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-29 03:30:48      Total configs: 35   Next refresh: 3:40 AM
+Last update: 2026-05-29 08:07:28      Total configs: 39   Next refresh: 8:17 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMW1kWEZRcTN1NjExWklC@20.87.107.99:443#☬SHΞN™
@@ -8,8 +8,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230
 vless://c5d39e5e-de2c-4614-af1a-652692097224@179.237.73.189:17931?security=none&amp;encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=tci.ir&amp;headerType=http&amp;type=tcp#☬SHΞN™
 vless://03cd29d5-efd3-42ab-b5f3-04f9f925deb5@45.130.125.69:8880?mode=packet-up&amp;path=%2FPHPmyAdmin%3FQ%3D%2FSpeedtest.net-Dash.cloudflare.com%3Fed%3D443&amp;security=none&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=uegeusus-18181811.maxgh5766.ir.&amp;type=xhttp#☬SHΞN™
 vless://03cd29d5-efd3-42ab-b5f3-04f9f925deb5@notifications.platform.dash.cloudflare.com:8880?mode=packet-up&amp;path=%2FPHPmyAdmin%3FQ%3D%2FSpeedtest.net-Dash.cloudflare.com%3Fed%3D443&amp;security=none&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=uegeusus-18181811.maxgh5766.ir.&amp;type=xhttp#☬SHΞN™
-vless://c44510cf-e271-401b-8a52-6010ab7609dd@209.250.245.206:37385?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
-vless://7f07d06b-3eda-4f2c-b0e6-df6e9f82456e@209.250.245.206:37385?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40ICV2RAY&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=jp.aniua.qzz.io&amp;type=ws&amp;allowInsecure=1&amp;sni=jp.aniua.qzz.io#☬SHΞN™
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=tt.andishehparenting.com&amp;type=ws#☬SHΞN™
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40ICV2RAY&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=jp.aniua.qzz.io&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=jp.aniua.qzz.io#☬SHΞN™
+vless://5b6e7300-8fc8-404e-8dc9-40a5393dd881@mkh.olampiavarz.ir:80?path=%2FXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=line.smartphone1.azazilvpn.sbs&amp;type=ws#☬SHΞN™
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=%2F%3FBIA_ICV2RAY%40ICV2RAY_ICV2RAY_ICV2RAY_ICV2RAY_ICV2RAY&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=sub.sbrf-cdn342.ru#☬SHΞN™
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.227:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=tt.andishehparenting.com&amp;type=ws#☬SHΞN™
 vless://2d4f08f7-afc9-4d20-ac26-7cf02582b1d6@45.76.83.35:54985?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
 vless://5678b00f-9ed6-4982-9f8a-1a7306e25126@162.217.249.74:48748?encryption=none&amp;type=tcp#☬SHΞN™
 trojan://humanity@127.0.0.1:40443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.ignitelimit.com&amp;sni=www.ignitelimit.com&amp;allowInsecure=0#☬SHΞN™
