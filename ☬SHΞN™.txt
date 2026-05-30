@@ -1,10 +1,16 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-30 10:51:54      Total configs: 54   Next refresh: 11:01 AM
+Last update: 2026-05-30 12:58:14      Total configs: 66   Next refresh: 1:08 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://de8b874f-0b15-440c-b257-ce68852ffad0@forssa.libenet.ir:2003?security=reality&amp;encryption=none&amp;pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=play.google.com&amp;sid=2418ed47b875e923#☬SHΞN™
 vless://3dbf131b-dbf6-4660-b97b-003199b17686@cd4.baguvix.xyz:2053?security=tls&amp;type=ws&amp;headerType=&amp;path=%2Fws%3Fed%3D2560&amp;host=c7.app9.ir&amp;sni=c7.app9.ir&amp;fp=#☬SHΞN™
+trojan://humanity@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+trojan://humanity@45.130.125.76:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@104.17.121.71:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+trojan://humanity@104.17.121.9:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@104.17.121.37:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.gossipglove.com&amp;sni=www.gossipglove.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Fassignment&amp;host=www.multiplydose.cc.cd&amp;mode=stream-one&amp;sni=www.multiplydose.cc.cd&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40ICV2RAY&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=jp.aniua.qzz.io&amp;type=ws&amp;allowInsecure=1&amp;sni=jp.aniua.qzz.io#☬SHΞN™
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=tt.andishehparenting.com&amp;type=ws#☬SHΞN™
 vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40ICV2RAY&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=jp.aniua.qzz.io&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=jp.aniua.qzz.io#☬SHΞN™
@@ -33,17 +39,23 @@ trojan://Mitivpn@104.17.121.8:443?path=%2F%3Fed%3Dmitivpn&amp;security=tls&amp;a
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip9.myspacex.shop:80#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVjZ3d1hUSzJ0U3I3a3ZJ@4.168.201.153:443#☬SHΞN™
 trojan://G2qM_GHnAEpbuIp1mcZh3mGvVn3%2BrHrwNe@172.232.194.147:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=172.232.194.147#☬SHΞN™
-vless://c575c0fd-4833-4cba-937d-2342fd32544b@104.17.121.71:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Findex.html&amp;host=de.vpncustomize.cc.cd&amp;mode=stream-one&amp;sni=de.vpncustomize.cc.cd&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=jp.aniua.qzz.io&amp;sni=jp.aniua.qzz.io&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&amp;security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=sub.sbrf-cdn342.ru&amp;fp=qq&amp;headerType=none&amp;alpn=http/1.1#☬SHΞN™
+vless://26b10d68-fbd3-4320-9ac5-91c7a8be204d@169.40.32.5:80?security=reality&amp;encryption=none&amp;pbk=UmcGXETXGRBPOjchm2HKHHdvhXpn57G-Fd8Skr_0gVs&amp;headerType=none&amp;fp=chrome&amp;spx=%2FRT0MDHJZ47F5ztE&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.yahoo.com&amp;sid=52fd6449#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#☬SHΞN™
+vless://InternetAzadRobot@146.75.117.91:80?mode=auto&amp;path=%2FTignal&amp;security=&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#☬SHΞN™
+vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?mode=auto&amp;path=%2FTignal&amp;security=&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=tignaltofansv8.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
 vless://c575c0fd-4833-4cba-937d-2342fd32544b@104.17.121.97:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Findex.html&amp;host=de.vpncustomize.cc.cd&amp;mode=stream-one&amp;sni=de.vpncustomize.cc.cd&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 trojan://Mitivpn@45.130.125.76:2053?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=dash.hitgram.ir&amp;sni=dash.hitgram.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 trojan://Mitivpn@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=dash.hitgram.ir&amp;sni=dash.hitgram.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
-trojan://humanity@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-trojan://humanity@45.130.125.76:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
-trojan://humanity@104.17.121.71:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-trojan://humanity@104.17.121.9:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
-trojan://humanity@104.17.121.37:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.gossipglove.com&amp;sni=www.gossipglove.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?encryption=none&amp;type=grpc&amp;mode=gun#☬SHΞN™
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@91.107.179.170:2052?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?type=tcp&amp;headerType=none#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaFVmYzBub1NRRFRMT0FS@20.164.221.1:443?type=tcp&amp;headerType=none#☬SHΞN™
+vmess://eyJhZGQiOiJub2RlLWRlLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJmZDE2OWEwYS01YzMyLTRmM2UtOWI2Yy0yOGRkMzVmMmE1ZTUiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://9ca41eeb-4b30-4271-a123-22021b1230d0@104.17.121.71:443?mode=auto&amp;path=%2FTelegram-Zedmodeon&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=mano.tll-far.ir&amp;fp=chrome&amp;type=xhttp&amp;sni=mano.tll-far.ir#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRW5aZWRwMm1rVGJUMXFD@4.168.201.246:443#☬SHΞN™
+trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#☬SHΞN™
+vless://2fb99741-cdfa-495f-b400-0cd741145c79@hanko.moparsia.ir:2003?security=reality&amp;encryption=none&amp;pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=play.google.com&amp;sid=2418ed47b875e923#☬SHΞN™
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?path=%2Fblog%2Fnews&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=pagescm.freen18.cc.cd&amp;type=ws&amp;allowInsecure=0&amp;sni=pagescm.freen18.cc.cd#☬SHΞN™
 vless://6986ac20-af56-4657-babd-552bb4e57aa9@89.185.81.123:443?security=reality&amp;encryption=none&amp;pbk=256_nhGBxahWpHUBAQUN-MkS58XedIAc6glz0b-bjx0&amp;headerType=none&amp;type=tcp&amp;sni=yahoo.com&amp;sid=bf05#☬SHΞN™
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.skylee4.cloudns.ch&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.skylee4.cloudns.ch#☬SHΞN™
