@@ -1,9 +1,8 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-30 07:48:18      Total configs: 53   Next refresh: 7:58 AM
+Last update: 2026-05-30 10:51:54      Total configs: 54   Next refresh: 11:01 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://e221880c-0ada-4e89-a336-62c3b909f787@104.18.32.47:2096?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=grpc&amp;serviceName=iranprimer.usip.org.entekhab.ir.presstv.ir.alef.ir.yjc.ir.presstv.ir.en.mehrnews.com&amp;allowInsecure=1&amp;sni=Old-CaREg74s0ugV9a.CaRboNblAcKBMw.ir#☬SHΞN™
 vless://de8b874f-0b15-440c-b257-ce68852ffad0@forssa.libenet.ir:2003?security=reality&amp;encryption=none&amp;pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=play.google.com&amp;sid=2418ed47b875e923#☬SHΞN™
 vless://3dbf131b-dbf6-4660-b97b-003199b17686@cd4.baguvix.xyz:2053?security=tls&amp;type=ws&amp;headerType=&amp;path=%2Fws%3Fed%3D2560&amp;host=c7.app9.ir&amp;sni=c7.app9.ir&amp;fp=#☬SHΞN™
 vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40ICV2RAY&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=jp.aniua.qzz.io&amp;type=ws&amp;allowInsecure=1&amp;sni=jp.aniua.qzz.io#☬SHΞN™
@@ -34,15 +33,17 @@ trojan://Mitivpn@104.17.121.8:443?path=%2F%3Fed%3Dmitivpn&amp;security=tls&amp;a
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip9.myspacex.shop:80#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVjZ3d1hUSzJ0U3I3a3ZJ@4.168.201.153:443#☬SHΞN™
 trojan://G2qM_GHnAEpbuIp1mcZh3mGvVn3%2BrHrwNe@172.232.194.147:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=172.232.194.147#☬SHΞN™
-vless://5678b00f-9ed6-4982-9f8a-1a7306e25126@162.217.249.74:48748?encryption=none&amp;type=tcp#☬SHΞN™
-trojan://humanity@127.0.0.1:40443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.ignitelimit.com&amp;sni=www.ignitelimit.com&amp;allowInsecure=0#☬SHΞN™
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fproxyip&amp;host=sni.skylee4.cloudns.ch&amp;sni=sni.skylee4.cloudns.ch&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 vless://c575c0fd-4833-4cba-937d-2342fd32544b@104.17.121.71:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Findex.html&amp;host=de.vpncustomize.cc.cd&amp;mode=stream-one&amp;sni=de.vpncustomize.cc.cd&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=jp.aniua.qzz.io&amp;sni=jp.aniua.qzz.io&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&amp;security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=sub.sbrf-cdn342.ru&amp;fp=qq&amp;headerType=none&amp;alpn=http/1.1#☬SHΞN™
 vless://c575c0fd-4833-4cba-937d-2342fd32544b@104.17.121.97:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Findex.html&amp;host=de.vpncustomize.cc.cd&amp;mode=stream-one&amp;sni=de.vpncustomize.cc.cd&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 trojan://Mitivpn@45.130.125.76:2053?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=dash.hitgram.ir&amp;sni=dash.hitgram.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 trojan://Mitivpn@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=dash.hitgram.ir&amp;sni=dash.hitgram.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+trojan://humanity@45.130.125.76:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@104.17.121.71:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+trojan://humanity@104.17.121.9:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@104.17.121.37:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.gossipglove.com&amp;sni=www.gossipglove.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?path=%2Fblog%2Fnews&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=pagescm.freen18.cc.cd&amp;type=ws&amp;allowInsecure=0&amp;sni=pagescm.freen18.cc.cd#☬SHΞN™
 vless://6986ac20-af56-4657-babd-552bb4e57aa9@89.185.81.123:443?security=reality&amp;encryption=none&amp;pbk=256_nhGBxahWpHUBAQUN-MkS58XedIAc6glz0b-bjx0&amp;headerType=none&amp;type=tcp&amp;sni=yahoo.com&amp;sid=bf05#☬SHΞN™
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.skylee4.cloudns.ch&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.skylee4.cloudns.ch#☬SHΞN™
