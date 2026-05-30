@@ -1,14 +1,8 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-30 23:25:28      Total configs: 70   Next refresh: 11:35 PM
+Last update: 2026-05-31 00:12:59      Total configs: 70   Next refresh: 12:22 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-trojan://humanity@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-trojan://humanity@45.130.125.76:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
-trojan://humanity@104.17.121.71:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-trojan://humanity@104.17.121.9:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
-trojan://humanity@104.17.121.37:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.gossipglove.com&amp;sni=www.gossipglove.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
-vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Fassignment&amp;host=www.multiplydose.cc.cd&amp;mode=stream-one&amp;sni=www.multiplydose.cc.cd&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40ICV2RAY&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=jp.aniua.qzz.io&amp;type=ws&amp;allowInsecure=1&amp;sni=jp.aniua.qzz.io#☬SHΞN™
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=tt.andishehparenting.com&amp;type=ws#☬SHΞN™
 vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40ICV2RAY&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=jp.aniua.qzz.io&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=jp.aniua.qzz.io#☬SHΞN™
@@ -49,6 +43,12 @@ trojan://humanity@104.17.121.71:443?path=%2Fassignment&amp;security=tls&amp;inse
 vless://9522dafb-b180-42ce-9651-a138c676feaa@jizz.ideweb.ir:44000?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 trojan://Mitivpn@45.130.125.76:2053?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=dash.hitgram.ir&amp;sni=dash.hitgram.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 trojan://Mitivpn@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=dash.hitgram.ir&amp;sni=dash.hitgram.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+trojan://humanity@45.130.125.76:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@104.17.121.71:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+trojan://humanity@104.17.121.9:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+trojan://humanity@104.17.121.37:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.gossipglove.com&amp;sni=www.gossipglove.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2Fassignment&amp;host=www.multiplydose.cc.cd&amp;mode=stream-one&amp;sni=www.multiplydose.cc.cd&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?encryption=none&amp;type=grpc&amp;mode=gun#☬SHΞN™
 vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@91.107.179.170:2052?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?type=tcp&amp;headerType=none#☬SHΞN™
