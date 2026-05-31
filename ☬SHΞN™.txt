@@ -1,8 +1,9 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-01 00:30:27      Total configs: 87   Next refresh: 12:40 AM
+Last update: 2026-06-01 01:40:07      Total configs: 88   Next refresh: 1:50 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
+vless://5664ae71-8024-4c65-bef2-54affa239a93@95.163.152.31:80?encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=google.com&amp;mode=auto&amp;path=%2F&amp;security=none&amp;type=xhttp&amp;x_padding_bytes=100-1000#☬SHΞN™
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=sub.sbrf-cdn342.ru#☬SHΞN™
 trojan://Mitivpn@104.17.121.8:443?path=%2F%3Fed%3Dmitivpn&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=1&amp;host=panel.hitgram.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=panel.hitgram.ir#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip9.myspacex.shop:80#☬SHΞN™
