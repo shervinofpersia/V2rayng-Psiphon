@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-31 17:43:22      Total configs: 94   Next refresh: 5:53 PM
+Last update: 2026-05-31 19:10:19      Total configs: 99   Next refresh: 7:20 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://266f49ab-e823-4497-b7a9-78ff51809f2d@104.18.32.47:2096?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=asriran.com.tasnimnews.com.sharghdaily.com.entekhab.ir.farsnews.ir.isna.ir.irdiplomacy.ir&amp;allowInsecure=0&amp;sni=bItTEr-BreADh48GRdp1Bf.cARBONBLacKBMW.IR#☬SHΞN™
@@ -97,6 +97,11 @@ vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&amp;path=%2Fskk
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&amp;encryption=none&amp;pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=aws.amazon.com#☬SHΞN™
 vless://1867f627-be53-4367-be49-bf15534906ff@104.18.32.47:2096?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=parstoday.com.entekhab.ir.mizanonline.com.hamshahrionline.ir.irannewsdaily.com.financialtribune.com.parstoday.com&amp;allowInsecure=0&amp;sni=DiVERsE-assUmPtIONdhxVbDnH80.wINdLER.Co.uK#☬SHΞN™
 vmess://eyJhZGQiOiIxMDQuMjM4LjE4OS4xNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMTdjN2QxMS0yY2QwLTQ5YmQtYmJlOC0xNzc3OTBhYzFkMGYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MDcwIiwicHMiOiLimKxTSM6eTuKEoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bUwvT0kyWGRCVmJNVFM1S1NmOVBLN29PU094RmpXaDh2bXFmT2t4N1NZPQ@ir1.fandoogh.sbs:8081#☬SHΞN™
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&amp;path=%2FTignal&amp;security=none&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&amp;path=%2Flogin&amp;security=none&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=shangulin.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
