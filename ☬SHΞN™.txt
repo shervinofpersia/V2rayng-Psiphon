@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-05-31 15:48:23      Total configs: 93   Next refresh: 3:58 PM
+Last update: 2026-05-31 17:43:22      Total configs: 94   Next refresh: 5:53 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://266f49ab-e823-4497-b7a9-78ff51809f2d@104.18.32.47:2096?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=asriran.com.tasnimnews.com.sharghdaily.com.entekhab.ir.farsnews.ir.isna.ir.irdiplomacy.ir&amp;allowInsecure=0&amp;sni=bItTEr-BreADh48GRdp1Bf.cARBONBLacKBMW.IR#☬SHΞN™
@@ -42,13 +42,6 @@ vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?mode=stream-one&a
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=cdn.linkman1.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=cdn.linkman1.ir#☬SHΞN™
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.linkman1.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.linkman1.ir#☬SHΞN™
 vless://e32167a6-1571-45aa-8b58-c2592c4dfc48@my.ssabzlearn.ir:9443?path=%2Fpourya&amp;security=&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://2fb99741-cdfa-495f-b400-0cd741145c79@hanko.moparsia.ir:2003?security=reality&amp;encryption=none&amp;pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=play.google.com&amp;sid=2418ed47b875e923#☬SHΞN™
-vless://6fb0dec3-ebac-49e8-b612-898695973052@varzesh3.com:80?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=sajjad.panivo.ir&amp;path=/#☬SHΞN™
-vless://InternetAzadRobot-AliKiller@151.101.193.57:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=InternetAzadRobot19to502.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
-vless://TIGNAL-CRYPTO@fastly.com:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=InternetAzadRobot07gt745.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://TIGNAL-CRYPTO@151.101.193.57:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=InternetAzadRobot07gt745.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
-vless://7673f4bd-cf73-4e62-9f8b-2a0338924fe5@45.130.125.76:2096?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=irannewsdaily.com.tabnak.ir.eghtesadonline.com.irna.ir.ilna.news.iribnews.ir.kayhan.ir&amp;allowInsecure=0&amp;sni=FRIendLY-AUThor087nJXB1y9.SAMsunGOVEnS.Ir#☬SHΞN™
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=octopusss5.info&amp;type=ws&amp;allowInsecure=0&amp;sni=octopusss5.info#☬SHΞN™
 vless://TIGNAL-CRYPTO@fastly.com:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=InternetAzadRobot31dx253.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
@@ -79,9 +72,17 @@ vless://e2f61726-5db6-405c-b97c-82b3dab726ac@172.67.200.192:443?mode=auto&amp;pa
 vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@45.130.125.69:2096?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=grpc&amp;serviceName=sharghdaily.com.tasnimnews.com.yjc.ir.entekhab.ir.tasnimnews.com.isna.ir.entekhab.ir&amp;allowInsecure=1&amp;sni=sHort-aCtIon40S8o1J3v9.SaMSUNgOVEnS.Ir#☬SHΞN™
 vless://42adc67e-49cb-4c62-b6ec-1b26c33980e3@140.248.190.1:443?mode=packet-up&amp;path=%2F&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=1&amp;host=shahrvand.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=1&amp;sni=speedtest.net#☬SHΞN™
 vless://TIGNAL-CRYPTO@151.101.129.57:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=InternetAzadRobot31dx253.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
+vless://TIGNAL-CRYPTO@fastly.com:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=InternetAzadRobot07gt745.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
 vless://44036b76-ecd4-488b-83ce-108d94583cf3@104.18.32.47:2096?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=farsnews.ir.mizanonline.com.eghtesadonline.com.tasnimnews.com.irdiplomacy.ir.sharghdaily.com.donya-e-eqtesad.com&amp;allowInsecure=0&amp;sni=FAt-CORNEr1twsv3GlGF.WIndleR.Co.UK#☬SHΞN™
 vless://InternetAzadRobot@151.101.1.57:80?mode=auto&amp;path=%2FTignal&amp;security=&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=tignaltofansv4.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
 trojan://mitivpn@188.114.97.6:443?type=ws&amp;security=tls&amp;path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&amp;host=cdn.linkman1.ir&amp;sni=cdn.linkman1.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
+vless://c1fb96db-7c17-44fe-9206-759d36b7678e@shield.zdshop.ir:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=020dd5135a7c6d57.CeRthOSt.iR.&amp;sni=5258320b287eba1c.CeRthOSt.iR.&amp;allowInsecure=1#☬SHΞN™
+vless://c1fb96db-7c17-44fe-9206-759d36b7678e@strong.zdshop.ir:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=d95b7dd6af00f868.kiWiJuiCe.IR.&amp;sni=a409e744491aa8ba.kiWiJuiCe.IR.&amp;allowInsecure=1#☬SHΞN™
+vless://c1fb96db-7c17-44fe-9206-759d36b7678e@732746eaa7da7d56.vertalist.ir:1310?encryption=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=play.google.com#☬SHΞN™
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fsg-melbi&amp;host=cyylr.eu.cc&amp;sni=cyylr.eu.cc&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=cdn.cdnjst.org&amp;allowInsecure=1&amp;pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&amp;sid=a120&amp;flow=xtls-rprx-vision#☬SHΞN™
+vless://f14545d3-33f9-458e-940f-958a6eff7660@199.232.236.87:80?encryption=none&amp;type=xhttp&amp;host=nesfsheshab.global.ssl.fastly.neT.&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D#☬SHΞN™
+ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@de5.taskflowhub.org:2083#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMW1kWEZRcTN1NjExWklC@20.87.107.99:443#☬SHΞN™
 vless://28154b7e-afc2-449b-8a78-bf1eba31bd05@a.darafiq.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
 vless://de989f46-ce7c-4d94-9c58-5ccd80e8d7a1@104.17.150.76:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=war2.unlimiteddev-service2881.ir&amp;type=ws#☬SHΞN™
