@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-01 02:46:05      Total configs: 92   Next refresh: 2:56 AM
+Last update: 2026-06-01 03:45:59      Total configs: 93   Next refresh: 3:55 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://5664ae71-8024-4c65-bef2-54affa239a93@95.163.152.31:80?encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=google.com&amp;mode=auto&amp;path=%2F&amp;security=none&amp;type=xhttp&amp;x_padding_bytes=100-1000#☬SHΞN™
@@ -8,6 +8,7 @@ trojan://VPTFm%3DoZ%2B%2BSuNT%2BjMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#☬SHΞN™
 vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=172.236.220.10#☬SHΞN™
+vless://Telegram-Parsashonam-7@188.114.97.6:443?mode=auto&amp;path=%2Fp4r34m&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=p4r34m.hendevaneh.sbs&amp;fp=chrome&amp;type=xhttp&amp;sni=p4r34m.hendevaneh.sbs#☬SHΞN™
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=sub.sbrf-cdn342.ru#☬SHΞN™
 trojan://Mitivpn@104.17.121.8:443?path=%2F%3Fed%3Dmitivpn&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=1&amp;host=panel.hitgram.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=panel.hitgram.ir#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip9.myspacex.shop:80#☬SHΞN™
