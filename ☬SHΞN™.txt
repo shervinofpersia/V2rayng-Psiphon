@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-02 03:34:26      Total configs: 72   Next refresh: 3:44 AM
+Last update: 2026-06-02 08:26:32      Total configs: 70   Next refresh: 8:36 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://5664ae71-8024-4c65-bef2-54affa239a93@95.163.152.31:80?encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=google.com&amp;mode=auto&amp;path=%2F&amp;security=none&amp;type=xhttp&amp;x_padding_bytes=100-1000#☬SHΞN™
@@ -9,12 +9,6 @@ trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&amp
 vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=172.236.220.10#☬SHΞN™
 vless://Telegram-Parsashonam-7@188.114.97.6:443?mode=auto&amp;path=%2Fp4r34m&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=p4r34m.hendevaneh.sbs&amp;fp=chrome&amp;type=xhttp&amp;sni=p4r34m.hendevaneh.sbs#☬SHΞN™
-vless://28607cd6-70e0-4e6e-a1d8-1285dcc79d1a@root.thewhygowrestling2585.xyz:80?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#☬SHΞN™
-vless://InternetAzadRobot@fastly.com:80?mode=auto&amp;path=%2Ftofan&amp;security=&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=sv6tignal.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip9.myspacex.shop:80#☬SHΞN™
-trojan://humanity@104.17.121.71:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#☬SHΞN™
-vless://9522dafb-b180-42ce-9651-a138c676feaa@jizz.ideweb.ir:44000?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=mitivpn.ws-ws-ws.workers.dev&amp;fp=edge&amp;type=ws&amp;allowInsecure=1&amp;sni=mitivpn.ws-ws-ws.workers.dev#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRW5aZWRwMm1rVGJUMXFD@4.168.201.246:443#☬SHΞN™
 vless://8a913715-c6b8-da7b-5b42-2a1bb4ffdc8b@jupiter.safechat.ir:443?mode=stream-one&amp;path=%2Feric&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;extra=%7B%27headers%27%3A%2B%7B%7D%7D&amp;insecure=0&amp;host=jupiter.safechat.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=jupiter.safechat.ir#☬SHΞN™
@@ -42,6 +36,11 @@ vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?security=reality&a
 trojan://humanity@45.130.125.76:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#☬SHΞN™
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=uk1.fromblancwithlove.com#☬SHΞN™
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=ams1.fromblancwithlove.com#☬SHΞN™
+vless://79ee7516-aea4-4ba5-bfc8-980347a9ca36@blubank.sb24.ir:2082?path=%2F&amp;security=&amp;encryption=none&amp;host=mci.ejavidfar.ir&amp;type=ws#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#☬SHΞN™
+vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.191:8443?mode=auto&amp;path=%2F%3Fed%3D80&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=vi.mojaz-persian-music.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=vi.mojaz-persian-music.ir#☬SHΞN™
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@nl-amst1-node.datamove.online:2040?security=reality&amp;encryption=none&amp;pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&amp;headerType=none&amp;fp=qq&amp;spx=%2F&amp;type=tcp&amp;sni=tradingview.com&amp;sid=53197c66aef53c44#☬SHΞN™
+vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@nl.omuvpn.tech:18443?security=reality&amp;encryption=none&amp;pbk=YoVxvwAP6l4vRG9HZmePBcHxy9oaRyWKmp1fIXVzPAY&amp;headerType=&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.miro.com&amp;sid=16#☬SHΞN™
 vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@208.103.161.88:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;host=pump.lezzatcore.ir&amp;mode=auto&amp;sni=pump.lezzatcore.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@208.103.161.23:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;host=pump.lezzatcore.ir&amp;mode=auto&amp;sni=pump.lezzatcore.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@208.103.161.24:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;host=pump.lezzatcore.ir&amp;mode=auto&amp;sni=pump.lezzatcore.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
@@ -72,7 +71,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bUwvT0kyWGRCVmJNVFM1S1NmOVBLN29PU094RmpXaDh
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&amp;path=%2FTignal&amp;security=none&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&amp;path=%2Flogin&amp;security=none&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=shangulin.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#☬SHΞN™
 vless://1a1e38b5-752d-4c65-8dae-a28e5a106d7a@104.17.121.71:443?mode=auto&amp;path=%2FTelegram-Zedmodeon&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=manok.tll-far.ir#☬SHΞN™
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&amp;path=%2FTignal&amp;security=&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
 
