@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-05 19:11:44      Total configs: 83   Next refresh: 7:21 PM
+Last update: 2026-06-05 21:01:59      Total configs: 98   Next refresh: 9:11 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://Telegram-Parsashonam-7@188.114.97.6:443?mode=auto&amp;path=%2Fp4r34m&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=p4r34m.hendevaneh.sbs&amp;fp=chrome&amp;type=xhttp&amp;sni=p4r34m.hendevaneh.sbs#☬SHΞN™
@@ -49,8 +49,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.70:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn7-09.vk-cdnvideo.com#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn7-09.vk-cdnvideo.com#☬SHΞN™
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?type=tcp&amp;security=tls&amp;headerType=none&amp;sni=172.237.145.189&amp;allowInsecure=0#☬SHΞN™
-vless://4c7baf58-8ecb-44b0-9656-2b9247dd8290@151.101.110.219:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=Fijji.global.ssl.fastly.neT.&amp;sni=speedtest.net&amp;allowInsecure=1#☬SHΞN™
 vless://6f9de7a7-e303-4056-b9ff-96a610ebdee9@151.101.110.219:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=fancii.global.ssl.fastly.neT.&amp;sni=speedtest.net&amp;allowInsecure=1#☬SHΞN™
 trojan://humanity@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://6e593426-1a8e-4226-984f-0ea174e218c7@103.18.49.100:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fid-pusat&amp;host=dl.cvs.freefiremobile.com.cyylr.eu.cc&amp;sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
@@ -73,6 +71,23 @@ vless://c838bbcc-db6b-4663-bc22-18db4dc62847@151.101.108.223:443?encryption=none
 vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?encryption=none&amp;type=grpc&amp;mode=gun#☬SHΞN™
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?encryption=none&amp;type=tcp&amp;headerType=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#☬SHΞN™
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=www.google.com&amp;fp=random&amp;allowInsecure=1&amp;pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&amp;sid=25425ff6fa&amp;flow=xtls-rprx-vision#☬SHΞN™
+vmess://eyJ2IjoiMiIsInBzIjoi4pisU0jOnk7ihKIiLCJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwicG9ydCI6IjIyMzI0IiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://bX_lNHWoW6ywq82mI%3DKUr%2B8i__VSp0Hs_E@172.235.63.252:443?type=tcp&amp;security=tls&amp;headerType=none&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?type=tcp&amp;security=tls&amp;headerType=none&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=www.cloudflare.com&amp;allowInsecure=0&amp;pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&amp;flow=xtls-rprx-vision#☬SHΞN™
+vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?encryption=none&amp;type=grpc&amp;security=tls&amp;serviceName=entekhab.ir.iribnews.ir.alalamtv.net.sharghdaily.com.ifpnews.com.alef.ir.hamshahrionline.ir&amp;sni=emotioNAl-haPPInEsswO85E1O13D.oNeeAt.co&amp;allowInsecure=0#☬SHΞN™
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@188.114.97.6:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&amp;host=crm.lotussec.com&amp;sni=crm.lotussec.com&amp;allowInsecure=0#☬SHΞN™
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.252:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&amp;host=crm.lotussec.com&amp;sni=crm.lotussec.com&amp;allowInsecure=0#☬SHΞN™
+vless://823b4851-27ba-4655-badf-ee7ff0af1cad@104.18.155.229:2095?encryption=none&amp;type=ws&amp;path=%2F%3Fed%3D2048&amp;host=cUriouS-LINeo0S87W61ln.spOrTLAnd.cOmPany.#☬SHΞN™
+vless://e9fb98e3-28bd-4ee4-962f-195c4f6354a0@188.114.97.6:2096?encryption=none&amp;type=grpc&amp;security=tls&amp;serviceName=parstoday.com.iribnews.ir.donya-e-eqtesad.com.alef.ir.donya-e-eqtesad.com.iribnews.ir.farsnews.ir&amp;sni=eARlY-maTErIAl37F06AQWD6.SaMsUNGovENS.iR&amp;allowInsecure=0#☬SHΞN™
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&amp;host=crm.lotussec.com&amp;sni=crm.lotussec.com&amp;allowInsecure=0#☬SHΞN™
+vless://d59a47d8-f344-4a0b-81d6-9f68cb8be873@188.114.97.6:2095?encryption=none&amp;type=ws&amp;path=%2F%3Fed%3D2048&amp;host=iNFoRmeD-PArt0Y2KT5cRvl.SaMSunGovenS.ir.#☬SHΞN™
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@66.81.247.155:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&amp;host=crm.lotussec.com&amp;sni=crm.lotussec.com&amp;allowInsecure=0#☬SHΞN™
+vless://371dd7e4-c3ff-42de-aebc-0ab3bc62fb2d@188.114.97.6:2095?encryption=none&amp;type=ws&amp;path=%2F%3Fed%3D2048&amp;host=daRk-CHOICEzJa8lf7vEO.SPORTLANd.cOmPany.#☬SHΞN™
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&amp;host=crm.lotussec.com&amp;sni=crm.lotussec.com&amp;allowInsecure=0#☬SHΞN™
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=backend.xwhiteness.site&amp;fp=firefox&amp;allowInsecure=0&amp;pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY&amp;flow=xtls-rprx-vision#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001287h3p.cybervena.com:50099#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#☬SHΞN™
