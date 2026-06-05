@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-06 00:30:44      Total configs: 94   Next refresh: 12:40 AM
+Last update: 2026-06-06 01:54:58      Total configs: 94   Next refresh: 2:04 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://Telegram-Parsashonam-7@188.114.97.6:443?mode=auto&amp;path=%2Fp4r34m&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=p4r34m.hendevaneh.sbs&amp;fp=chrome&amp;type=xhttp&amp;sni=p4r34m.hendevaneh.sbs#☬SHΞN™
