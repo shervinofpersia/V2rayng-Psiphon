@@ -1,15 +1,8 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-08 02:04:17      Total configs: 113   Next refresh: 2:14 AM
+Last update: 2026-06-08 03:10:10      Total configs: 106   Next refresh: 3:20 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://974c2588-c1cd-43ac-8823-ce3d879b09fd@216.24.57.1:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fid-amz&amp;sni=somersby.pt.ex33r.eu.cc&amp;allowInsecure=0&amp;ech=54.mk%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
-vless://935bdfb3-7bf9-48c1-adcb-2f6fbfeca896@216.24.57.1:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fmy-mbv&amp;sni=help.viu.com.ex33r.eu.cc&amp;allowInsecure=0&amp;ech=54.mk%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
-vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Findex.html&amp;sni=d101.fa.wikipedia.org.xn--m39h.www.cdn.speedtest.net.h2.google.ru.zula.ir.1.1.1.xn--6bi8548mabeaana921b9b830dbbb0nn92a.tls.xn--mn8haaaaa252bbabbbb.xn--mn8haaaaa252bbabbbb.fake.xn--j9h1028mqmaoytii00aha21hfjrd.aparat.com.zula.ir.wts.ip-dynamic.org&amp;allowInsecure=0#☬SHΞN™
-vless://27302727-9dfa-4975-990e-88c7a63747cd@104.21.11.130:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Findex.html%3Fed%3D2048&amp;sni=chatgpt.arpa.fz.wikipedia.org.xn--m39h.www.cdn.speedtest.net.h.google.ru.zula.ir.1.1.1.xn--6bi8548mabeaana921b9b830dbbb0nn92a.tls.xn--mn8haaaaa252bbabbbb.xn--mn8haaaaa252bbabbbb.fake.xn--j9h1028mqmaoytii00aha21hfjrd.aparat.com.zula.ir.wts.ip-dynamic.org&amp;allowInsecure=0#☬SHΞN™
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Findex.html&amp;sni=ve52.pages.dev&amp;allowInsecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Findex.html&amp;sni=vrnt4.pages.dev&amp;allowInsecure=0&amp;ech=54.mk%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@104.21.11.130:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Findex.html&amp;sni=miox99.pages.dev&amp;allowInsecure=0&amp;ech=54.mk%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
 vless://944e070f-52cc-4779-8baa-bc2146ce8d0a@57.131.16.172:8080?authority=&amp;encryption=none&amp;security=none&amp;serviceName=Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-&amp;type=grpc#☬SHΞN™
 vless://944e070f-52cc-4779-8baa-bc2146ce8d0a@57.131.16.172:8080?authority=&amp;encryption=none&amp;security=none&amp;serviceName=Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram…#☬SHΞN™
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=cyylr.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cyylr.eu.cc#☬SHΞN™
