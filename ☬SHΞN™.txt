@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-07 20:48:06      Total configs: 115   Next refresh: 8:58 PM
+Last update: 2026-06-07 22:11:20      Total configs: 112   Next refresh: 10:21 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://974c2588-c1cd-43ac-8823-ce3d879b09fd@216.24.57.1:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fid-amz&amp;sni=somersby.pt.ex33r.eu.cc&amp;allowInsecure=0&amp;ech=54.mk%2Budp%3A%2F%2F8.8.8.8#☬SHΞN™
@@ -107,10 +107,6 @@ vless://29d4f5d5-06b3-4f87-9a94-b793c90b6361@cdn.esansid.xyz:10592?path=%2F&amp;
 vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.192:8443?mode=auto&amp;path=%2F%3Fed%3D80&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=vh.mojaz-persian-music.ir#☬SHΞN™
 vless://38608efb-885a-4bb3-a344-9724ae4402c0@89.117.1.112:4433?security=reality&amp;encryption=none&amp;pbk=BpqeBkdp8XDGn3L-f6PU-JzPT3Dqp_zS1XVaqnJj8nY&amp;host=www.microsoft.com&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.microsoft.com&amp;sid=e504fceed114147b#☬SHΞN™
 vless://5c088015-12b9-4eec-86be-f7a9cd0a6c29@188.114.97.6:2087?mode=auto&amp;path=%2Frandom&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=main1.atomtank.dpdns.org&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=main1.atomtank.dpdns.org#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ@149.28.255.6:816#☬SHΞN™
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&amp;encryption=none&amp;pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.google.com&amp;sid=25425ff6fa#☬SHΞN™
 vless://de3104b0-0c51-49df-8350-da4bbe654820@89.22.230.82:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=-RAcfPpW-nLcYpGpGUhTaS2UqddjRVuvxmwjvaafMhY&amp;security=reality&amp;sid=830f1634ecfd57b8&amp;sni=ya.ru&amp;type=tcp#☬SHΞN™
 vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none&amp;fp=chrome&amp;pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&amp;security=reality&amp;sid=90&amp;sni=www.icloud.com&amp;type=tcp#☬SHΞN™
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&amp;security=none&amp;type=tcp#☬SHΞN™
@@ -118,6 +114,7 @@ vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@pqxrztwyvlmnkcjbhfgd.sd.noafra.ir:8
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@tyzrxwqpnlmmkcjbhfgd.sd.noafra.ir:80?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#☬SHΞN™
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&amp;path=%2FTignal&amp;security=&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
