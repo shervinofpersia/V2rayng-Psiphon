@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-08 14:59:28      Total configs: 143   Next refresh: 3:09 PM
+Last update: 2026-06-08 18:26:02      Total configs: 141   Next refresh: 6:36 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=cyylr.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cyylr.eu.cc#☬SHΞN™
@@ -47,8 +47,6 @@ vless://1d4b327f-110d-45c0-b1a0-0c5489789f33@31.76.113.132:443?mode=auto&amp;pat
 vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=%2Fid-amz&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=dfsuporte.garena.com.ex33r.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=dfsuporte.garena.com.ex33r.eu.cc#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=%2F%3FTELEGRAM-ICV2RAY%3Fed%3D512&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
-vless://10484bee-8516-400a-9b1e-efb5144ad324@185.245.40.71:7443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=stackoverflow.com&amp;fp=chrome&amp;allowInsecure=1&amp;pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&amp;sid=d82fb387&amp;flow=xtls-rprx-vision#☬SHΞN™
-vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?encryption=none&amp;type=tcp&amp;headerType=none#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080?type=tcp&amp;headerType=none#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?encryption=none&amp;type=tcp&amp;security=tls&amp;headerType=none&amp;sni=cdn7-39.vk-cdnvideo.com&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@vbcxnzmlkpqwtrzyyfsj.sd.noafra.ir:80?encryption=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=play.google.com#☬SHΞN™
