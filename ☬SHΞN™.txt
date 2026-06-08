@@ -1,10 +1,8 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-08 03:10:10      Total configs: 106   Next refresh: 3:20 AM
+Last update: 2026-06-08 05:28:07      Total configs: 104   Next refresh: 5:38 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://944e070f-52cc-4779-8baa-bc2146ce8d0a@57.131.16.172:8080?authority=&amp;encryption=none&amp;security=none&amp;serviceName=Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-&amp;type=grpc#☬SHΞN™
-vless://944e070f-52cc-4779-8baa-bc2146ce8d0a@57.131.16.172:8080?authority=&amp;encryption=none&amp;security=none&amp;serviceName=Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram…#☬SHΞN™
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=cyylr.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cyylr.eu.cc#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#☬SHΞN™
 trojan://lXn0PfJrTS@188.114.97.6:443?path=%2F%3Fed&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=dd.aananas.ir.#☬SHΞN™
@@ -48,6 +46,7 @@ vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=&amp;enc
 vless://1d4b327f-110d-45c0-b1a0-0c5489789f33@31.76.113.132:443?mode=auto&amp;path=%2Fxhttp-proxy&amp;security=reality&amp;encryption=none&amp;pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&amp;fp=qq&amp;spx=%2F&amp;type=xhttp&amp;sni=5post-gate.x5.ru&amp;sid=a8f3c1d7e9b4c2f6#☬SHΞN™
 vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=%2Fid-amz&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=dfsuporte.garena.com.ex33r.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=dfsuporte.garena.com.ex33r.eu.cc#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=%2F%3FTELEGRAM-ICV2RAY%3Fed%3D512&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
 trojan://4ee58215-e8d6-4303-9bb0-b0ce0993e52b@141.193.213.11:443?type=ws&amp;security=tls&amp;path=%2Fid-amz&amp;host=support.zoom.us.r3xxe.eu.cc&amp;sni=support.zoom.us.r3xxe.eu.cc&amp;allowInsecure=0#☬SHΞN™
 trojan://74480619-b6a8-4ab8-94e1-1132fc18b2fa@185.18.250.252:443?type=ws&amp;security=tls&amp;path=%2Fau-mt&amp;host=unnes.ac.id.r3xxe.eu.cc&amp;sni=unnes.ac.id.r3xxe.eu.cc&amp;allowInsecure=0#☬SHΞN™
 trojan://3b91d95b-0478-451a-a372-4f417417f650@216.24.57.6:443?type=ws&amp;security=tls&amp;path=%2Fbr-orcl&amp;host=unnes.ac.id.r3xxe.eu.cc&amp;sni=unnes.ac.id.r3xxe.eu.cc&amp;allowInsecure=0#☬SHΞN™
@@ -108,7 +107,6 @@ vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@pqxrztwyvlmnkcjbhfgd.sd.noafra.ir:8
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@tyzrxwqpnlmmkcjbhfgd.sd.noafra.ir:80?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#☬SHΞN™
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&amp;path=%2FTignal&amp;security=&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;type=xhttp#☬SHΞN™
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
