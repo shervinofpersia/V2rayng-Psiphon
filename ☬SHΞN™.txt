@@ -1,14 +1,8 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-10 17:26:48      Total configs: 104   Next refresh: 5:36 PM
+Last update: 2026-06-10 20:24:56      Total configs: 104   Next refresh: 8:34 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&amp;path=%2F%3Fed%3D2053&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ssd.new-persian-song.ir#☬SHΞN™
-vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&amp;path=%2F%3Fed%3D2053&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=vi.new-persian-song.ir#☬SHΞN™
-vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?path=%2Ffl%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=mjtbknetmkhremge.ordak.qzz.io&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=mjtbknetmkhremge.ordak.qzz.io#☬SHΞN™
-vless://82d6c54f-bdfe-4b4b-82af-23512489de45@162.159.194.86:2053?path=%2Fdashfair%3Fed%3D2560&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=forusa.fairit.ir&amp;fp=android&amp;type=ws&amp;allowInsecure=0&amp;sni=414d36c87f328208.fairit.ir#☬SHΞN™
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn7-09.vk-cdnvideo.com#☬SHΞN™
-vless://82d6c54f-bdfe-4b4b-82af-23512489de45@cruelsummer.itsnotfair.ir:11008?security=reality&amp;encryption=none&amp;pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=play.google.com&amp;sid=ec8926fc13a19d95#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
@@ -46,6 +40,12 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?security=tls&am
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#☬SHΞN™
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?path=%2F&amp;security=&amp;encryption=none&amp;host=tr-cd.sublink-vip2.com&amp;type=ws#☬SHΞN™
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandex.net&amp;sid=d515d6cfdfe60b02#☬SHΞN™
+vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?mode=auto&amp;path=%2F%3Fed%3D80&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=vh.mojaz-persian-music.ir#☬SHΞN™
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#☬SHΞN™
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn7-09.vk-cdnvideo.com#☬SHΞN™
+trojan://SoftNetConnect@167.233.105.87:443?mode=auto&amp;path=%2F&amp;security=reality&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=nhOVbG_d8gvDrs6ayt-kdjwo2wITTujBH_hbDO5hZnE&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=www.yahoo.com&amp;sid=7a66d2f9e8805c17#☬SHΞN™
+vless://1b10194f-c47a-4e41-bc1d-834ff945515a@pwlrqvnmcbhjfdgsxyzk.kk.noafra.ir:80?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
+vless://1b10194f-c47a-4e41-bc1d-834ff945515a@dsnyrmbvtcxzpqwkljfh.kk.noafra.ir:80?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
 trojan://humanity@216.24.57.1:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;sni=www.creationlong.org&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 trojan://humanity@216.24.57.1:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;sni=www.calmloud.com&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=bastani.purplrose.ir&amp;sni=bastani.purplrose.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=random&amp;allowInsecure=1#☬SHΞN™
