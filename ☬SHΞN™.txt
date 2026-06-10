@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-10 20:24:56      Total configs: 104   Next refresh: 8:34 PM
+Last update: 2026-06-10 22:58:24      Total configs: 108   Next refresh: 11:08 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
@@ -107,6 +107,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:80
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&amp;encryption=none&amp;pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=aws.amazon.com#☬SHΞN™
 vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#☬SHΞN™
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#☬SHΞN™
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@hamrahaval.soft26.ir:8443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&amp;fp=chrome&amp;spx=%2Fil4uDVFQ4uJ9mPb&amp;type=xhttp&amp;sni=www.yahoo.com&amp;sid=6f3192#☬SHΞN™
+vless://c6644bbe-5a62-41da-99a9-c5b78effcc6d@45.130.125.158:443?mode=auto&amp;path=%2FvsAJWsN&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=mahsa67.manhamunamkeyeruz.ir&amp;fp=ios&amp;type=xhttp&amp;allowInsecure=0&amp;sni=mahsa67.manhamunamkeyeruz.ir#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
