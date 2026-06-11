@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-11 18:21:52      Total configs: 93   Next refresh: 6:31 PM
+Last update: 2026-06-11 21:30:23      Total configs: 96   Next refresh: 9:40 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=www.calmloud.com&amp;allowinsecure=0&amp;type=ws&amp;sni=www.calmloud.com#☬SHΞN™
@@ -96,6 +96,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#☬SHΞN™
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@hamrahaval.soft26.ir:8443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&amp;fp=chrome&amp;spx=%2Fil4uDVFQ4uJ9mPb&amp;type=xhttp&amp;sni=www.yahoo.com&amp;sid=6f3192#☬SHΞN™
 vless://c6644bbe-5a62-41da-99a9-c5b78effcc6d@45.130.125.158:443?mode=auto&amp;path=%2FvsAJWsN&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=mahsa67.manhamunamkeyeruz.ir&amp;fp=ios&amp;type=xhttp&amp;allowInsecure=0&amp;sni=mahsa67.manhamunamkeyeruz.ir#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#☬SHΞN™
+vless://2b127cd7-6117-46c7-8efc-f69dc003b206@45.130.125.158:443?mode=auto&amp;path=%2FsSJ124xs%2Fsd&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=mahsa94.manhamunamkeyeruz.ir&amp;fp=ios&amp;type=xhttp&amp;allowInsecure=0&amp;sni=mahsa94.manhamunamkeyeruz.ir#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
