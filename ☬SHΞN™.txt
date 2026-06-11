@@ -1,14 +1,13 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-11 09:57:05      Total configs: 93   Next refresh: 10:07 AM
+Last update: 2026-06-11 14:37:11      Total configs: 90   Next refresh: 2:47 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://373209d7-c464-4ad3-9027-07e94afad7d5@www.downloadnova.live:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=play.google.com&amp;type=ws#☬SHΞN™
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=www.calmloud.com&amp;allowinsecure=0&amp;type=ws&amp;sni=www.calmloud.com#☬SHΞN™
+vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?mode=auto&amp;path=%2F%3Fed%3D80&amp;security=tls=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;allowinsecure=0&amp;type=xhttp&amp;sni=vh.mojaz-persian-music.ir#☬SHΞN™
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&amp;encryption=none&amp;headerType=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;allowinsecure=0&amp;type=tcp&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#☬SHΞN™
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=%2F&amp;security=none&amp;encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=max-gb1.global.ssl.fastly.net&amp;type=ws#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.71:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn7-09.vk-cdnvideo.com#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn7-09.vk-cdnvideo.com#☬SHΞN™
@@ -19,6 +18,8 @@ vless://1d4b327f-110d-45c0-b1a0-0c5489789f33@31.76.113.132:443?mode=auto&amp;pat
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#☬SHΞN™
 vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=%2Fid-amz&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=dfsuporte.garena.com.ex33r.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=dfsuporte.garena.com.ex33r.eu.cc#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=%2F%3FTELEGRAM-ICV2RAY%3Fed%3D512&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn7-39.vk-cdnvideo.com#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
@@ -32,7 +33,6 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&am
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
 trojan://humanity@104.18.152.225:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#☬SHΞN™
 vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
 vless://6434f3ca-7439-4de6-a6d6-2a84d00643b9@germany1.shompolexy.shop:80?path=%2FShomp&amp;security=&amp;encryption=none&amp;host=play.google.com&amp;type=ws#☬SHΞN™
@@ -46,15 +46,12 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&amp
 trojan://SoftNetConnect@167.233.105.87:443?mode=auto&amp;path=%2F&amp;security=reality&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=nhOVbG_d8gvDrs6ayt-kdjwo2wITTujBH_hbDO5hZnE&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=www.yahoo.com&amp;sid=7a66d2f9e8805c17#☬SHΞN™
 vless://1b10194f-c47a-4e41-bc1d-834ff945515a@pwlrqvnmcbhjfdgsxyzk.kk.noafra.ir:80?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
 vless://1b10194f-c47a-4e41-bc1d-834ff945515a@dsnyrmbvtcxzpqwkljfh.kk.noafra.ir:80?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
+vless://37baa357-8378-4ed0-abd0-d0766273091c@irna.ir:2052?path=%2Fbestvns&amp;security=&amp;encryption=none&amp;host=best5x.empire1.ir&amp;type=ws#☬SHΞN™
+vless://37baa357-8378-4ed0-abd0-d0766273091c@varzesh3.com:2052?path=%2Fbestvns&amp;security=&amp;encryption=none&amp;host=best5x.empire1.ir&amp;type=ws#☬SHΞN™
+trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=mitivpn.de.ssl.global.fastly.co.mitivpn.site&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#☬SHΞN™
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.130:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn7-09.vk-cdnvideo.com#☬SHΞN™
+vless://6e0f7207-a6cd-4ec8-a919-9578129ace3d@46.4.162.63:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#☬SHΞN™
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=bastani.purplrose.ir&amp;sni=bastani.purplrose.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=random&amp;allowInsecure=0#☬SHΞN™
-vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.194:8443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F%3Fed%3D2053&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&amp;sni=vo.new-persian-song.ir&amp;alpn=h3%2Ch2&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.194:8443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F%3Fed%3D2053&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&amp;sni=ssd.mojaz-persian-music.ir&amp;alpn=h3%2Ch2&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.194:8443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F%3Fed%3D2053&amp;mode=auto&amp;sni=vi.new-persian-song.ir&amp;alpn=h3%2Ch2&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F%3Fed%3D80&amp;mode=auto&amp;sni=vh.mojaz-persian-music.ir&amp;alpn=h2&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@172.67.135.254:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=sRv25.hAMiIbaR.CoM#☬SHΞN™
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@love.ns.cloudflare.com:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=sRv16.hAMiIbaR.CoM#☬SHΞN™
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=sRv11.hAMiIbaR.CoM#☬SHΞN™
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@188.114.97.6:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=sRv13.hAMiIbaR.CoM#☬SHΞN™
 trojan://NightNetwork0@45.130.125.194:443?type=xhttp&amp;security=tls&amp;path=%2F&amp;host=saleh.velizor.ir&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;sni=saleh.velizor.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?encryption=none&amp;type=ws&amp;security=tls&amp;host=bastani.purplrose.ir&amp;sni=bastani.purplrose.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=random&amp;allowInsecure=0#☬SHΞN™
 vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.162:8443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F%3Fed&amp;host=vi.mojaz-persian-music.ir&amp;mode=auto&amp;sni=vi.mojaz-persian-music.ir&amp;alpn=h2&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
