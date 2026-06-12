@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-12 07:00:56      Total configs: 92   Next refresh: 7:10 AM
+Last update: 2026-06-12 11:39:47      Total configs: 97   Next refresh: 11:49 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=www.calmloud.com&amp;allowinsecure=0&amp;type=ws&amp;sni=www.calmloud.com#☬SHΞN™
@@ -56,6 +56,11 @@ vless://3d191784-762a-454c-8c36-61ae08a00305@del.fattsh8.ir:29113?security=reali
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=%2F&amp;security=&amp;encryption=none&amp;host=max-gb1.global.ssl.fastly.net&amp;type=ws#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.75:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn7-39.vk-cdnvideo.com#☬SHΞN™
 trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#☬SHΞN™
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?path=%2F&amp;security=&amp;encryption=none&amp;host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&amp;type=ws#☬SHΞN™
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev#☬SHΞN™
+vless://8ea0665e-dee3-418c-8822-1f70f350f2db@de.pink-perfect.ru:443?security=reality&amp;encryption=none&amp;pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yandex.net&amp;sid=86b80f1e713a33ad#☬SHΞN™
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandex.net&amp;sid=d515d6cfdfe60b02#☬SHΞN™
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=bastani.purplrose.ir&amp;sni=bastani.purplrose.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=random&amp;allowInsecure=0#☬SHΞN™
 trojan://NightNetwork0@45.130.125.194:443?type=xhttp&amp;security=tls&amp;path=%2F&amp;host=saleh.velizor.ir&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;sni=saleh.velizor.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?encryption=none&amp;type=ws&amp;security=tls&amp;host=bastani.purplrose.ir&amp;sni=bastani.purplrose.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=random&amp;allowInsecure=0#☬SHΞN™
