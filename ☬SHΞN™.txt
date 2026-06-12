@@ -1,8 +1,18 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-12 22:56:30      Total configs: 94   Next refresh: 11:06 PM
+Last update: 2026-06-13 00:40:55      Total configs: 103   Next refresh: 12:50 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=max-gb1.global.ssl.fastly.net#☬SHΞN™
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@13.135.172.147:80?type=tcp&amp;headerType=none#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.237.70:443?type=tcp&amp;headerType=none#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@51.104.237.70:443?type=tcp&amp;headerType=none#☬SHΞN™
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=max-gb1.global.ssl.fastly.net#☬SHΞN™
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=max-gb1.global.ssl.fastly.net#☬SHΞN™
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@18.169.183.101:80?type=tcp&amp;headerType=none#☬SHΞN™
+ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@162.19.254.232:2083?type=tcp&amp;headerType=none#☬SHΞN™
+vless://cc2282b8-eceb-493b-9fd2-0c898840f6ee@ch-gt-01.com:8443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=storage.yandex.net&amp;fp=firefox&amp;insecure=1&amp;allowInsecure=1&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;sid=445ab326fc7c90ac&amp;flow=xtls-rprx-vision#☬SHΞN™
+vless://49769318-1e1d-4ba9-b217-d8c5d6106e02@95.143.191.117:443?encryption=none&amp;type=grpc&amp;security=reality&amp;serviceName=grpc&amp;sni=gos.skystreamgame.com&amp;fp=firefox&amp;insecure=1&amp;allowInsecure=1&amp;pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&amp;sid=5c766813929a1fdd#☬SHΞN™
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=www.calmloud.com&amp;allowinsecure=0&amp;type=ws&amp;sni=www.calmloud.com#☬SHΞN™
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?mode=auto&amp;path=%2F%3Fed%3D80&amp;security=tls=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;allowinsecure=0&amp;type=xhttp&amp;sni=vh.mojaz-persian-music.ir#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&amp;encryption=none&amp;headerType=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;allowinsecure=0&amp;type=tcp&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
@@ -71,7 +81,6 @@ vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@198.105.123.142:7443?encryption=non
 vless://8b74ebf1-3268-4de7-9e52-827f1a9879a8@169.40.32.39:8443?encryption=none&amp;type=tcp&amp;headerType=http&amp;path=%2F#☬SHΞN™
 vless://d644824c-7f7c-4b48-87da-d988722082cb@188.114.97.6:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2FTelegram-Zedmodeon&amp;host=sabkpo.tll-far.ir&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;sni=sabkpo.tll-far.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=1#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?encryption=none&amp;type=tcp&amp;security=tls&amp;headerType=none&amp;sni=cdn7-39.vk-cdnvideo.com&amp;fp=chrome&amp;allowInsecure=0#☬SHΞN™
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=max-gb1.global.ssl.fastly.net#☬SHΞN™
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=max-gb1.global.ssl.fastly.net#☬SHΞN™
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=max-de1.global.ssl.fastly.net#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#☬SHΞN™
