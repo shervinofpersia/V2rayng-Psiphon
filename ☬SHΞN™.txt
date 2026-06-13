@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-13 17:57:07      Total configs: 94   Next refresh: 6:07 PM
+Last update: 2026-06-13 19:26:02      Total configs: 100   Next refresh: 7:36 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=max-gb1.global.ssl.fastly.net#☬SHΞN™
@@ -97,6 +97,12 @@ trojan://humanity@45.130.125.96:443?path=%2Fassignment&amp;security=tls&amp;alpn
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&amp;encryption=none&amp;pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com#☬SHΞN™
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=%2Ftsghdws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=octopusss4.com&amp;type=ws&amp;allowInsecure=0&amp;sni=octopusss4.com#☬SHΞN™
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&amp;encryption=none&amp;pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=28a059440d3d5ba1#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#☬SHΞN™
+vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
+vless://9c8bf6ca-5b56-4f0b-ba22-a2ecd0282daf@host.rent-home-now.com:443?security=reality&amp;encryption=none&amp;pbk=gJjDGu05qCVpcJMcBJKwNmUgueWgr9-6SdTrZieuVwc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=aparat.com&amp;sid=6186#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
