@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-14 21:11:36      Total configs: 103   Next refresh: 9:21 PM
+Last update: 2026-06-14 22:28:42      Total configs: 103   Next refresh: 10:38 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;host=www.calmloud.com&amp;allowinsecure=0&amp;type=ws&amp;sni=www.calmloud.com#☬SHΞN™
