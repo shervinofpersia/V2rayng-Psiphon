@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-19 21:52:58      Total configs: 83   Next refresh: 10:02 PM
+Last update: 2026-06-19 23:40:40      Total configs: 82   Next refresh: 11:50 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://3147e3bf-23bb-402f-8b41-19a6df19438e@del.fattsh8.ir:29113?security=reality&amp;encryption=none&amp;pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=aws.amazon.com&amp;sid=2641062b76c9#☬SHΞN™
@@ -62,7 +62,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#☬SHΞ
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=t1s1.rittbo.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=t1s1.rittbo.kdns.fr#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.181:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#☬SHΞN™
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.29:443?security=reality&amp;encryption=none&amp;pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=it.s3-cloud.xyz&amp;sid=7a3f9e2b1c8d4f6a#☬SHΞN™
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.72:8443?encryption=none&amp;type=tcp&amp;security=tls&amp;headerType=none&amp;sni=cdn7-09.vk-cdnvideo.com&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#☬SHΞN™
 trojan://humanity@202.37.33.80:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.creationlong.org&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080?type=tcp&amp;headerType=none#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443?type=tcp&amp;headerType=none#☬SHΞN™
