@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-23 20:15:31      Total configs: 87   Next refresh: 8:25 PM
+Last update: 2026-06-23 22:02:26      Total configs: 91   Next refresh: 10:12 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
@@ -90,6 +90,10 @@ vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=rea
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.148:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn9-33.vk-cdnvideo.com#☬SHΞN™
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#☬SHΞN™
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=max-gb1.global.ssl.fastly.net&amp;type=ws#☬SHΞN™
+vless://32f770d3-4b71-4307-b26d-1c55ac67d548@frirancellspeedfr.naxinshooping.ir:36611?security=reality&amp;encryption=none&amp;pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;sni=play.google.com&amp;sid=67a1a8bb9ff0ed21#☬SHΞN™
+vless://80e1220d-11a9-00d6-20cd-64d4f6039e1b@57.131.16.74:2086?mode=auto&amp;path=%2F%3Fed%3D2590&amp;security=reality&amp;encryption=none&amp;pbk=cdstSZCq7cbczrcuYGWnCLB2XTGc9m7yEAVV9yjbgj0&amp;host=debug.php007.usdtbama.site&amp;fp=safari&amp;spx=%2F%3Fed%3D2560&amp;type=xhttp&amp;sni=www.rEfErSion.Com&amp;sid=66f6a12b#☬SHΞN™
+vless://80e1220d-11a9-00d6-20cd-64d4f6039e1b@217.195.200.153:2099?mode=auto&amp;security=reality&amp;encryption=none&amp;pbk=bm1X5R9OZK5AhcDhrn7j14rvTualxKopRR3lp065yWI&amp;host=brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=www.yahoo.com&amp;sid=5a8dba4b#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
