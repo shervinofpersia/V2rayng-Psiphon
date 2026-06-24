@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-25 00:27:06      Total configs: 92   Next refresh: 12:37 AM
+Last update: 2026-06-25 01:41:22      Total configs: 92   Next refresh: 1:51 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=pan3.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=default.ssl.fastly.net#☬SHΞN™
