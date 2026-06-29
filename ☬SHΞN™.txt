@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-06-29 09:51:22      Total configs: 81   Next refresh: 10:01 AM
+Last update: 2026-06-29 14:58:54      Total configs: 74   Next refresh: 3:08 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@45.130.125.32:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#☬SHΞN™
@@ -61,20 +61,13 @@ vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all32.allenshop100.ir:443?security=
 vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?security=reality&amp;encryption=none&amp;pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=icloud.com&amp;sid=d82fb387#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
 vless://315e45a6-9745-4213-b59d-546b22f3232a@91.98.101.62:55555?security=reality&amp;encryption=none&amp;pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=880eeeef4927eed5#☬SHΞN™
-vless://311ed715-11a6-48ff-b8a0-a922e326cdad@185.147.27.105:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://dd632900-378f-4e2b-ad89-84ea66478e94@185.147.27.105:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://71788e0b-c27f-4dd2-ba78-aa682ba652b6@185.147.27.105:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://2e3e24de-b2fe-43ea-a7f0-4ab3379255e3@185.147.27.105:80?security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://871c5149-421e-45d5-8a75-dbbb22eec708@185.147.27.105:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#☬SHΞN™
-vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?mode=auto&amp;path=%2Fmammadalifsx&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=wizardali.global.ssl.fastly.net&amp;fp=ios&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ssl.fastly.com#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=t1s1.rittbo.kdns.fr&amp;type=ws&amp;allowInsecure=1&amp;sni=t1s1.rittbo.kdns.fr#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&amp;encryption=none&amp;pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=28a059440d3d5ba1#☬SHΞN™
+vless://c3494c65-8cd8-4ce4-9618-11b2b4cfeeef@auth.figmafound.org:443?security=reality&amp;encryption=none&amp;pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=auth.figmafound.org&amp;sid=fc67691a4440a84b#☬SHΞN™
+vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:443?security=reality&amp;encryption=none&amp;pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&amp;headerType=none&amp;fp=random&amp;spx=%2FuNENw17LQM60xOg&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.nvidia.com&amp;sid=1222a4#☬SHΞN™
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fproxyip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=nbhhh.mrcool.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=nbhhh.mrcool.kdns.fr#☬SHΞN™
+vless://4c026896-3b99-458e-8d85-ce886254524c@31.15.16.87:1017?path=%2F&amp;security=&amp;encryption=none&amp;host=play.google.com&amp;type=ws#☬SHΞN™
+vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:4227?security=reality&amp;encryption=none&amp;pbk=L5dWvFThmaEvNqnz8xbBkyT10TWINOZbn-BAdKtXNzk&amp;headerType=none&amp;fp=chrome&amp;spx=%2FiddplozJJWE5hnQ&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=aws.amazon.com&amp;sid=d71b53053ec6e4#☬SHΞN™
+vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:2360?security=reality&amp;encryption=none&amp;pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&amp;headerType=&amp;fp=chrome&amp;spx=%2FHgVq3fBofDu9L36&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.intel.com&amp;sid=833bc1c51882#☬SHΞN™
+vless://dc321ddb-63da-4d71-b570-fd3831179b94@nl.techdatacloud.org:8080?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=s7_oyK1d1vs8R5huw9XOeWtn5BmMogoAmbNf0HFUuUs&amp;fp=firefox&amp;spx=%2F&amp;type=xhttp&amp;sni=storage.yandex.net&amp;sid=aa68d50fafbf5419#☬SHΞN™
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=unnes.ac.id.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=unnes.ac.id.yxls.eu.cc#☬SHΞN™
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.248:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=enterprisekitten.com&amp;sid=6ba85179e30d4fc2#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
