@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-03 14:17:51      Total configs: 104   Next refresh: 2:27 PM
+Last update: 2026-07-03 16:00:14      Total configs: 101   Next refresh: 4:10 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&amp;type=tcp&amp;security=tls&amp;headerType=none&amp;sni=r1.mizulina.top&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;flow=xtls-rprx-vision#☬SHΞN™
@@ -95,9 +95,6 @@ trojan://humanity@104.18.152.225:443?path=%2Fassignment&amp;security=tls&amp;ins
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=t1s1.rittbo.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=t1s1.rittbo.kdns.fr#☬SHΞN™
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.246:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=enterprisekitten.com&amp;sid=6ba85179e30d4fc2#☬SHΞN™
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@francet1.sorcepack.ir:56626?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&amp;fp=firefox&amp;type=grpc&amp;sni=icloud.com&amp;sid=2716d84d89b5eadc#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#☬SHΞN™
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 trojan://jZKsbuRpEB@45.130.125.2:443?path=%2Fdb&amp;security=tls&amp;insecure=0&amp;host=sl.farxmode.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sl.farxmode.ir#☬SHΞN™
