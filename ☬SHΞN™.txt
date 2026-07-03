@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-04 00:50:28      Total configs: 84   Next refresh: 1:00 AM
+Last update: 2026-07-04 02:00:47      Total configs: 90   Next refresh: 2:10 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://c3494c65-8cd8-4ce4-9618-11b2b4cfeeef@auth.figmafound.org:443?security=reality&amp;encryption=none&amp;pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=auth.figmafound.org&amp;sid=fc67691a4440a84b#☬SHΞN™
@@ -73,6 +73,13 @@ vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#☬SHΞN™
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&amp;encryption=none&amp;pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=1.oncloudnineservicestreang.com&amp;sid=28415a7918168947#☬SHΞN™
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?path=%2Fpoiuyws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=amoosamiii.net&amp;type=ws&amp;allowInsecure=0&amp;sni=amoosamiii.net#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTWp4UzB3Wjd5WmJjZlRt@20.164.43.183:443#☬SHΞN™
+vless://268796e5-9933-4342-a95e-246b21436c98@57.131.19.193:443?security=reality&amp;encryption=none&amp;pbk=AfivVtkqkVstEWkYEknp4j9ShFEbZC6GhyCXQ-VKqGg&amp;headerType=none&amp;fp=chrome&amp;spx=%2Ft96P95TZesLmGVR&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=aae1a7abe47db23f#☬SHΞN™
+vless://268796e5-9933-4342-a95e-246b21436c98@57.131.19.193:443?security=reality&amp;encryption=none&amp;pbk=AfivVtkqkVstEWkYEknp4j9ShFEbZC6GhyCXQ-VKqGg&amp;headerType=&amp;fp=chrome&amp;spx=%2Ft96P95TZesLmGVR&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=aae1a7abe47db23f#☬SHΞN™
+vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?security=reality&amp;encryption=none&amp;pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sid=30e530274c0c72cc#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#☬SHΞN™
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vangoghhh.info&amp;type=ws&amp;allowInsecure=0&amp;sni=vangoghhh.info#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#☬SHΞN™
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 trojan://jZKsbuRpEB@45.130.125.2:443?path=%2Fdb&amp;security=tls&amp;insecure=0&amp;host=sl.farxmode.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sl.farxmode.ir#☬SHΞN™
@@ -80,7 +87,6 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=n
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=%2Fpoiuyws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=amoosamiii.net&amp;type=ws&amp;allowInsecure=0&amp;sni=amoosamiii.net#☬SHΞN™
 vless://b783c6d6-3a0f-4c13-bbd1-86bf1ec4d94d@104.238.31.71:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=unitbook.net&amp;sid=6ba85179e30d4fc2#☬SHΞN™
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vangoghhh.info&amp;type=ws&amp;allowInsecure=0&amp;sni=vangoghhh.info#☬SHΞN™
 vless://SoonTeam@108.162.195.19:8080?mode=auto&amp;path=%2F%40SoonTeam&amp;security=none&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=new.new.new.ab841.com&amp;type=xhttp#☬SHΞN™
 vless://4973357c-6436-4970-b1e6-e21244d2ef94@sw.linuxbase.ir:1152?security=reality&amp;encryption=none&amp;pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=e5115b6a2127146d#☬SHΞN™
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#☬SHΞN™
