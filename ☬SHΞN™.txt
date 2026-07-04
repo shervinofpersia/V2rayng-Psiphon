@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-04 15:45:43      Total configs: 88   Next refresh: 3:55 PM
+Last update: 2026-07-04 17:29:12      Total configs: 88   Next refresh: 5:39 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://175c6db9-4a69-4abc-8736-c3f72748b7a0@104.25.189.214:8880?path=%2F&amp;security=&amp;encryption=none&amp;host=a.postshup.ir&amp;type=httpupgrade#☬SHΞN™
