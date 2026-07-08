@@ -1,20 +1,8 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-08 21:22:17      Total configs: 92   Next refresh: 9:32 PM
+Last update: 2026-07-08 22:33:23      Total configs: 82   Next refresh: 10:43 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?path=%2Fpoiuyws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=amoosamiii.net&amp;type=ws&amp;allowInsecure=0&amp;sni=amoosamiii.net#☬SHΞN™
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@franceclouding.iranlast.com:7000?security=reality&amp;encryption=none&amp;pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;sni=yahoo.com#☬SHΞN™
-vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=wa2.mhrnet.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=wa1.mhrnet.com#☬SHΞN™
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?path=%2F&amp;security=&amp;encryption=none&amp;host=chek.carefreemob2.com.&amp;type=httpupgrade#☬SHΞN™
-vless://3ea0a12e-162e-45b8-b03b-c490d6105091@23.227.38.91:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=wa2.mhrnet.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=wa1.mhrnet.com#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.speedmeter.shop:8880?mode=gun&amp;security=&amp;encryption=none&amp;authority=v2rayNplus--v2rayNplus--v2rayNplus&amp;type=grpc#☬SHΞN™
-vless://3ea0a12e-162e-45b8-b03b-c490d6105091@209.46.30.56:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=wa2.mhrnet.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=wa1.mhrnet.com#☬SHΞN™
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?security=reality&amp;encryption=none&amp;pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&amp;headerType=&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandex.net&amp;sid=ea10cd5686751ec5#☬SHΞN™
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#☬SHΞN™
-vless://410e76a0-eaa8-46ac-9ffe-43249e9a6c35@57.130.64.188:443?security=reality&amp;encryption=none&amp;pbk=rCdLeJPCJEbF8Ip5_wYV8NI9KTmmYeI1aF7IwLAIlFQ&amp;headerType=http&amp;fp=chrome&amp;spx=%2FSia63LEitf9rJ1E&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=a7c5761284ae2e#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.speedmeter.shop:8880?mode=gun&amp;security=&amp;encryption=none&amp;authority=v2rayNplus--v2rayNplus--v2rayNplus&amp;type=grpc#☬SHΞN™
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vpn47.cc.cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=vpn47.cc.cd#☬SHΞN™
 vless://56eba3f8-94f8-48f2-920b-d79bb042d0bb@104.16.107.139:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&amp;security=&amp;encryption=none&amp;host=lingering-glade-21ce.61-b6f.workers.dev&amp;type=ws#☬SHΞN™
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?security=reality&amp;encryption=none&amp;pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.laposte.fr&amp;sid=ad3c6641d540b4e1#☬SHΞN™
@@ -27,6 +15,7 @@ vless://199436d3-2fa2-4e34-a1de-844419de5a4f@Pl-AllNet.OnlinerNet.Ir:20000?secur
 vless://8c56b4af-4762-4299-a1f8-799790dbaac7@172.67.179.98:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&amp;security=&amp;encryption=none&amp;host=lively-lab-4fd2.150-6f7.workers.dev&amp;type=ws#☬SHΞN™
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;host=%2F%3FBIA_TELEGRAM%40ICV2RAY&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=enterprisekitten.com&amp;sid=6ba85179e30d4fc2#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#☬SHΞN™
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#☬SHΞN™
 vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?security=reality&amp;encryption=none&amp;pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sid=30e530274c0c72cc#☬SHΞN™
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@polja.foot8all.ir:50567?security=reality&amp;encryption=none&amp;pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=play.google.com&amp;sid=9e3f5e25c17d2615#☬SHΞN™
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@odqwd.foot8all.ir:50567?security=reality&amp;encryption=none&amp;pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=play.google.com&amp;sid=c077229044b68285#☬SHΞN™
@@ -34,6 +23,7 @@ vless://7baaeabb-c1dc-4f6b-a855-624f9f7e487e@falkoraz.sav-savteam.iR:55555?secur
 vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?security=reality&amp;encryption=none&amp;pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&amp;host=%2F%3FBIA_TELEGRAM%40ICV2RA&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fi.karzino-connected.com&amp;sid=30e530274c0c72cc#☬SHΞN™
 vless://b96d18f1-eb38-47e9-ae79-42e78fcc0ff8@kia.ipsafe2.site:24329?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
 vless://3b813e04-11bc-42dc-a48a-6f71bfe47bba@nkoihgf.dadashinet10.ir:2044?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.speedmeter.shop:8880?mode=gun&amp;security=&amp;encryption=none&amp;authority=v2rayNplus--v2rayNplus--v2rayNplus&amp;type=grpc#☬SHΞN™
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vangoghhh.info&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=vangoghhh.info#☬SHΞN™
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?path=%2F&amp;security=&amp;encryption=none&amp;host=cnmfangbinxingnmsl.cnmfangbinxing-h.workers.dev&amp;type=ws#☬SHΞN™
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&amp;encryption=none&amp;pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=prod.de-node-01.security-sbrf.ru&amp;sid=db04ce8bdb8900f1#☬SHΞN™
