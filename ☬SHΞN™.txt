@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-09 02:07:31      Total configs: 86   Next refresh: 2:17 AM
+Last update: 2026-07-09 03:11:12      Total configs: 86   Next refresh: 3:21 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vpn47.cc.cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=vpn47.cc.cd#☬SHΞN™
