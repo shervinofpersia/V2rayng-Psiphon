@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-10 20:39:39      Total configs: 82   Next refresh: 8:49 PM
+Last update: 2026-07-10 22:12:34      Total configs: 82   Next refresh: 10:22 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?path=%2Fproxyip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=nbhhh.mrcool.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=nbhhh.mrcool.kdns.fr#☬SHΞN™
