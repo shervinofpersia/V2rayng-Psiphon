@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-10 16:02:30      Total configs: 80   Next refresh: 4:12 PM
+Last update: 2026-07-10 18:46:29      Total configs: 80   Next refresh: 6:56 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan1.mashkestan.com:2087?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
