@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-12 14:52:40      Total configs: 81   Next refresh: 3:02 PM
+Last update: 2026-07-12 15:41:13      Total configs: 76   Next refresh: 3:51 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?security=reality&amp;encryption=none&amp;pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=icloud.com&amp;sid=d82fb387#☬SHΞN™
@@ -71,11 +71,6 @@ vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?securi
 trojan://humanity@141.193.213.21:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#☬SHΞN™
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#☬SHΞN™
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&amp;encryption=none&amp;host=%2F%3F&amp;headerType=http&amp;type=tcp#☬SHΞN™
-vless://36644091-0cec-47fe-9955-97c3f424baf7@all094.allenshop66245.ir:443?security=reality&amp;encryption=none&amp;pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=play.google.com&amp;sid=98fa0b00d09419f7#☬SHΞN™
-vless://002a6674-3050-4942-97df-2af8e86f083e@gr.wubbalubbadubdubb.ir:1011?security=reality&amp;encryption=none&amp;pbk=pJ7lUsrHgLYa8lt7NPs0a47FaoBwHBWS6EA--iVQp0s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=701d699e06514eab#☬SHΞN™
-trojan://humanity@45.130.125.112:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#☬SHΞN™
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#☬SHΞN™
 vless://c50b50c9-6868-4231-859a-691da85a2e60@TakeHost-Ger.ShaKhle.ir:22000?security=reality&amp;encryption=none&amp;pbk=xLCgdUiKeBpYK3YsT96d81yuhFuVgUeANbVeiQACRWw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=www.yahoo.com#☬SHΞN™
 vless://b2e7573a-4211-4376-8934-a572363c4c3a@168.119.52.80:80?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
