@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-12 07:17:40      Total configs: 80   Next refresh: 7:27 AM
+Last update: 2026-07-12 09:50:25      Total configs: 80   Next refresh: 10:00 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@104.18.152.225:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
