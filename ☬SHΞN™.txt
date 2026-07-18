@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-18 03:34:09      Total configs: 89   Next refresh: 3:44 AM
+Last update: 2026-07-18 06:51:41      Total configs: 89   Next refresh: 7:01 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#☬SHΞN™
