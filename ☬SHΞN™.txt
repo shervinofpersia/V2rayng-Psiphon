@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-21 19:28:23      Total configs: 97   Next refresh: 7:38 PM
+Last update: 2026-07-21 20:44:00      Total configs: 97   Next refresh: 8:54 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://fd9a728d-ece1-4168-c5a4-c28ecb5a0065@43.174.246.46:443?path=%2F37807%2Fapi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=m.irandoc.info&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sni2.irandoc.info#☬SHΞN™
