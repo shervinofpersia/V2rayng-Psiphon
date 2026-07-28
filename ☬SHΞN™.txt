@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-28 19:04:54      Total configs: 106   Next refresh: 7:14 PM
+Last update: 2026-07-28 20:34:27      Total configs: 106   Next refresh: 8:44 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://666c7578-0000-4000-8000-000000000000@one-for-all.levikogjgfdd.ir:443?path=%2Fflux&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=parsa-panel-alypp.fafaavaf.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=parsa-panel-alypp.fafaavaf.workers.dev#☬SHΞN™
