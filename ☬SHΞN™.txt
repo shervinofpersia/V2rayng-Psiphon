@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-31 04:44:28      Total configs: 95   Next refresh: 4:54 AM
+Last update: 2026-07-31 08:11:56      Total configs: 95   Next refresh: 8:21 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80?path=%2F&amp;security=&amp;encryption=none&amp;host=ads01-cdn.sabzi.name.ng.&amp;type=ws#☬SHΞN™
