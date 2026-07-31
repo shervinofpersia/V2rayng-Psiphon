@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-07-31 13:39:50      Total configs: 89   Next refresh: 1:49 PM
+Last update: 2026-07-31 15:42:58      Total configs: 89   Next refresh: 3:52 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fi1.levikogjgfdd.ir:40443?security=reality&amp;encryption=none&amp;pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&amp;host=Leviko_v2ray&amp;headerType=none&amp;fp=qq&amp;spx=%2F&amp;type=tcp&amp;sni=deepl.com&amp;sid=a8ae#☬SHΞN™
