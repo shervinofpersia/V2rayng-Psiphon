@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-02 12:51:49      Total configs: 88   Next refresh: 1:01 PM
+Last update: 2026-08-02 14:25:19      Total configs: 99   Next refresh: 2:35 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://8ba5361f-2d12-40fe-9f33-eca6847f1475@net1.wizardx1.com:2045?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;fp=chrome&amp;type=grpc&amp;serviceName=xyz&amp;sni=icloud.com#☬SHΞN™
@@ -82,6 +82,17 @@ vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s3.vip-canepanel.shop:4568?security
 vless://8988b7e6-8778-abd0-8861-8bb3f7d1532b@tme-freevpnf35-production.up.railway.app:443?path=%2Fws%2F8988b7e6-8778-abd0-8861-8bb3f7d1532b&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=tme-freevpnf35-production.up.railway.app&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=tme-freevpnf35-production.up.railway.app#☬SHΞN™
 vless://29ca503d-e6b8-4509-b666-48133f450857@104.18.36.192:2087?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#☬SHΞN™
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl1.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&amp;host=Telegram-Leviko_v2ray&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=getsavesafe.net&amp;sid=82f5d3a1e9c0b661#☬SHΞN™
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.17.147.118:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#☬SHΞN™
+vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#☬SHΞN™
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.44.66:2053?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#☬SHΞN™
+vless://9d1d8e70-f9c9-d68d-b4bc-ef851a2f444b@dl12sw.cdn-ir-prime.shop:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=78B5e70YAkLUjm7Pg2OlJcPVUWIR-vjDh0u6enzqqUs&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=yahoo.com&amp;sid=f1e1aa97#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#☬SHΞN™
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.16.239.120:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#☬SHΞN™
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@78.40.195.56:443?security=reality&amp;encryption=none&amp;pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&amp;headerType=&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=19.07-7.yunus.guru&amp;sid=c6d439fd92614ab0#☬SHΞN™
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@fr1.levikogjgfdd.ir:22222?security=&amp;encryption=none&amp;host=Telegram-Leviko_v2ray&amp;headerType=none&amp;type=tcp#☬SHΞN™
+vless://bdb694c1-fd18-4775-abee-5cf551db8e13@188.226.133.127:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=mcuxsrqp.ncdiqw.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=mcuxsrqp.ncdiqw.workers.dev#☬SHΞN™
+vless://29ca503d-e6b8-4509-b666-48133f450857@icook.hk:443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#☬SHΞN™
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.40.208:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ad-010.vector2llqn.info&amp;type=ws&amp;allowInsecure=0&amp;sni=ad-010.vector2llqn.info#☬SHΞN™
