@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-04 00:29:02      Total configs: 94   Next refresh: 12:39 AM
+Last update: 2026-08-04 01:37:41      Total configs: 91   Next refresh: 1:47 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@3bcd331c14bcf7a0.mbcloudynias.ir:80?security=reality&amp;encryption=none&amp;pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=play.google.com&amp;sid=c077229044b68285#☬SHΞN™
@@ -88,14 +88,11 @@ vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.52.97:443?path=%2Ffdip&amp;s
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.125.7:22223?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#☬SHΞN™
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@207.2.123.28:443?security=reality&amp;encryption=none&amp;pbk=zb1esVBjrdlitl7Z_YkRi44kC0NXVvF5U17LAXW6fDQ&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sa.ch-moltisanti.ru&amp;sid=825d392c67e4#☬SHΞN™
 vless://29ca503d-e6b8-4509-b666-48133f450857@188.114.98.0:2053?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#☬SHΞN™
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#☬SHΞN™
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
-trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&amp;security=tls&amp;insecure=0&amp;host=tjplay.lxdxo.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=tjplay.lxdxo.kdns.fr#☬SHΞN™
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?path=%2Fapi%2Fv1%2Firc&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=vod.ensf.top&amp;type=ws&amp;allowInsecure=0&amp;sni=vod.ensf.top#☬SHΞN™
-vless://17d29827-7cf1-4115-b40d-548e10ec355d@ua1.levikogjgfdd.ir:40443?security=reality&amp;encryption=none&amp;pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=aa3c#☬SHΞN™
-vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@it.speedserver.site:5039?security=reality&amp;encryption=none&amp;pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=2e8424a2696cb606#☬SHΞN™
 vless://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@gr5.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sellflow.org#☬SHΞN™
+vless://17d29827-7cf1-4115-b40d-548e10ec355d@ua1.levikogjgfdd.ir:40443?security=reality&amp;encryption=none&amp;pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=aa3c#☬SHΞN™
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&amp;security=tls&amp;insecure=0&amp;host=tjplay.lxdxo.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=tjplay.lxdxo.kdns.fr#☬SHΞN™
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#☬SHΞN™
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#☬SHΞN™
 trojan://humanity@104.16.174.121:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
