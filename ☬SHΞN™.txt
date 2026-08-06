@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-06 10:10:38      Total configs: 103   Next refresh: 10:20 AM
+Last update: 2026-08-06 12:59:50      Total configs: 103   Next refresh: 1:09 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.137.54:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#☬SHΞN™
