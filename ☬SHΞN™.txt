@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-08 00:32:24      Total configs: 77   Next refresh: 12:42 AM
+Last update: 2026-08-08 01:20:22      Total configs: 74   Next refresh: 1:30 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#☬SHΞN™
@@ -71,9 +71,6 @@ vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&amp;s
 vless://39459e4b-57b1-1703-2351-5c9aa5754059@66.33.23.80:443?path=%2Fws%2F39459e4b-57b1-1703-2351-5c9aa5754059&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=ezaccess1-rvg-ezaccess1-bbd8.up.railway.app&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ezaccess1-rvg-ezaccess1-bbd8.up.railway.app#☬SHΞN™
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.77.94:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#☬SHΞN™
 trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
-vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@89.47.55.4:443?mode=auto&amp;security=reality&amp;encryption=none&amp;pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&amp;fp=chrome&amp;type=xhttp&amp;sni=cdn.steamstatic.com#☬SHΞN™
-vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443?security=reality&amp;encryption=none&amp;pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sun6-22.userapi.com&amp;sid=f5e89824#☬SHΞN™
-vless://939fdc89-ccc5-b335-3bb7-f21c14ef5a1f@69.46.46.17:443?path=%2Fws%2F939fdc89-ccc5-b335-3bb7-f21c14ef5a1f&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=x4g-production-e38b.up.railway.app&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=x4g-production-e38b.up.railway.app#☬SHΞN™
 vless://b9ec63fa-d5e6-4063-9f5d-60442e9f427b@104.18.175.58:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=panelz.zlinkid.shop&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=panelz.zlinkid.shop#☬SHΞN™
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@49.13.64.206:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#☬SHΞN™
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=nasnet-162191099-direct.mbghalibaf.com#☬SHΞN™
