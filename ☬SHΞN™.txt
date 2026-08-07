@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-07 21:27:54      Total configs: 84   Next refresh: 9:37 PM
+Last update: 2026-08-07 22:17:57      Total configs: 84   Next refresh: 10:27 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://29ca503d-e6b8-4509-b666-48133f450857@developers.cloudflare.com:443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#☬SHΞN™
