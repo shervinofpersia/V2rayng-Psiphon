@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-08 22:50:10      Total configs: 82   Next refresh: 11:00 PM
+Last update: 2026-08-08 23:17:41      Total configs: 78   Next refresh: 11:27 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQm5WMzZ0enQ3TUtWNzVhRFpUYnpH@141.227.152.129:8388#☬SHΞN™
@@ -75,10 +75,6 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&amp;se
 vless://69a74770-7152-4a27-bef0-2615ca16e1b1@77.233.214.116:40443?security=reality&amp;encryption=none&amp;pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=bd72#☬SHΞN™
 vless://74386f0d-a087-2bc6-5635-7c887932074f@69.46.46.10:443?path=%2Fws%2F74386f0d-a087-2bc6-5635-7c887932074f&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=rvg-production-0113.up.railway.app&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=rvg-production-0113.up.railway.app#☬SHΞN™
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0#☬SHΞN™
-vless://b9ec63fa-d5e6-4063-9f5d-60442e9f427b@104.18.175.58:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=panelz.zlinkid.shop&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=panelz.zlinkid.shop#☬SHΞN™
-trojan://humanity@104.16.174.121:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@49.13.64.206:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#☬SHΞN™
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=nasnet-162191099-direct.mbghalibaf.com#☬SHΞN™
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#☬SHΞN™
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&amp;encryption=none&amp;pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=luminous-vortex.cdn.cachefleet.com#☬SHΞN™
 vless://baf1725b-4f31-407c-82e5-b225d5083eca@vpn.dailynode.net:11000?security=reality&amp;encryption=none&amp;pbk=BoibKO0-b9yDxo2iXtw_aduomZ96vAvPG9Ekp1_JP3U&amp;headerType=none&amp;fp=ios&amp;spx=%2F3d52d54c1489fb3&amp;type=tcp&amp;sni=play.google.com#☬SHΞN™
