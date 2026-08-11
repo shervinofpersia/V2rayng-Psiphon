@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-11 21:37:01      Total configs: 98   Next refresh: 9:47 PM
+Last update: 2026-08-11 22:45:15      Total configs: 101   Next refresh: 10:55 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
@@ -101,6 +101,9 @@ vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@193.124.254.60:443?security=reality
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@130.78.216.196:443?security=reality&amp;encryption=none&amp;pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=calm-panther.cdn.cachefleet.com#☬SHΞN™
 vless://2a12bb81-f3a3-0065-99ab-36febf676b4a@130.78.216.194:443?security=reality&amp;encryption=none&amp;pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=quiet-bear.cdn.cachefleet.com#☬SHΞN™
 vless://c28ee61d-0d43-0064-8e6a-6397ed0ffc03@164.37.109.187:443?security=reality&amp;encryption=none&amp;pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gb.cdn.cachefleet.com#☬SHΞN™
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.158.155:13868?security=reality&amp;encryption=none&amp;pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.ea.com&amp;sid=e852dc#☬SHΞN™
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@45.145.56.163:443?security=reality&amp;encryption=none&amp;pbk=Vci2ab6lM0ezoLBj2LgE-ynvakjbWOqUUSZmk5vcNjE&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de2.spectrum.vu&amp;sid=44d44d1c625a13aa#☬SHΞN™
+vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2YTlmMWNjMC0wYTk3LTRkODUtODI5NC1mOTIzNjk5ODRiZGMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiLimKxTSM6eTuKEoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
