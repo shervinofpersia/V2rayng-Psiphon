@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-15 18:48:35      Total configs: 99   Next refresh: 6:58 PM
+Last update: 2026-08-15 19:07:46      Total configs: 99   Next refresh: 7:17 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#☬SHΞN™
