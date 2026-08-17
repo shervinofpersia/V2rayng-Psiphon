@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-17 22:39:23      Total configs: 108   Next refresh: 10:49 PM
+Last update: 2026-08-17 23:07:00      Total configs: 106   Next refresh: 11:17 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
@@ -102,11 +102,9 @@ vless://b44c0f43-6824-b02f-4827-2ac84bfa6802@69.46.46.111:443?path=%2Fws%2Fb44c0
 vless://22aea82d-1894-d89e-514d-c496c41b2c0d@rvg-production-ab3b7.up.railway.app:443?path=%2Fws%2F22aea82d-1894-d89e-514d-c496c41b2c0d&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1%2Ch3&amp;encryption=none&amp;insecure=0&amp;host=rvg-production-ab3b7.up.railway.app&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=rvg-production-ab3b7.up.railway.app#☬SHΞN™
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@95.182.97.46:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=kjgdksgghre466.pages.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=kjgdksgghre466.pages.dev#☬SHΞN™
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=netheroijji.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#☬SHΞN™
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6IjAiLCJob3N0IjoiYWRzLng1LnJ1IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#☬SHΞN™
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
 trojan://6eb1e2aa-d6dd-c43a-23f8-37cf2883f952@rvg-production-0061.up.railway.app:443?mode=packet-up&amp;path=%2Ftxhttp-siz10%2Fpacket-up%2F6eb1e2aa-d6dd-c43a-23f8-37cf2883f952&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=rvg-production-0061.up.railway.app&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=rvg-production-0061.up.railway.app#☬SHΞN™
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52061?security=tls&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje&amp;insecure=0&amp;sni=assets.gateway-stream.com#☬SHΞN™
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@132.243.223.88:443?security=reality&amp;encryption=none&amp;pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&amp;host=v2rayNplus--v2rayNplus--v2rayNplus&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fin2.freeinternat.com&amp;sid=ff776ff77be48b88#☬SHΞN™
