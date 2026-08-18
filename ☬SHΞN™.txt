@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-18 23:28:06      Total configs: 104   Next refresh: 11:38 PM
+Last update: 2026-08-18 23:47:40      Total configs: 105   Next refresh: 11:57 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?mode=packet-up&amp;path=%2Fapi%2Fv1%2Fstream&amp;security=reality&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&amp;fp=chrome&amp;type=xhttp&amp;sni=play.google.com&amp;sid=5f9a#☬SHΞN™
@@ -100,13 +100,14 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23T
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-ICV2RAY%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#☬SHΞN™
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol3.freeinternat.com:443?security=reality&amp;encryption=none&amp;pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=pol3.freeinternat.com&amp;sid=ff776ff77be48b88#☬SHΞN™
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&amp;encryption=none&amp;pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=getsavesafe.net&amp;sid=82f5d3a1e9c0b661#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#☬SHΞN™
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
 trojan://6eb1e2aa-d6dd-c43a-23f8-37cf2883f952@rvg-production-0061.up.railway.app:443?mode=packet-up&amp;path=%2Ftxhttp-siz10%2Fpacket-up%2F6eb1e2aa-d6dd-c43a-23f8-37cf2883f952&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=rvg-production-0061.up.railway.app&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=rvg-production-0061.up.railway.app#☬SHΞN™
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52061?security=tls&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje&amp;insecure=0&amp;sni=assets.gateway-stream.com#☬SHΞN™
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@132.243.223.88:443?security=reality&amp;encryption=none&amp;pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&amp;host=v2rayNplus--v2rayNplus--v2rayNplus&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fin2.freeinternat.com&amp;sid=ff776ff77be48b88#☬SHΞN™
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&amp;obfs=salamander&amp;obfs-password=d6pv15sghiq1onts&amp;insecure=0&amp;sni=assets.gateway-stream.com#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#☬SHΞN™
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#☬SHΞN™
+vless://8b706aff-ca60-4632-9658-aeb5c0f48561@rusl2-e.ya-proxy.com:443?security=reality&amp;encryption=none&amp;pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eda.x5.ru&amp;sid=226509f017e4c36d#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
