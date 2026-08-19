@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-20 02:31:26      Total configs: 89   Next refresh: 2:41 AM
+Last update: 2026-08-20 03:01:23      Total configs: 84   Next refresh: 3:11 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?security=reality&amp;encryption=none&amp;pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=5.oncloudnineservicestreang.com&amp;sid=273940fba6ad8250#☬SHΞN™
@@ -79,13 +79,8 @@ vless://7eb234e9-d47e-4dfe-bff3-a0d41a0c4e1d@193.34.213.38:443?security=reality&
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&amp;encryption=none&amp;pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=c84f#☬SHΞN™
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=193.124.46.65#☬SHΞN™
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&amp;encryption=none&amp;pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdn-se.alohaapp.uk&amp;sid=b9f8f9772217538f#☬SHΞN™
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
-trojan://6eb1e2aa-d6dd-c43a-23f8-37cf2883f952@rvg-production-0061.up.railway.app:443?mode=packet-up&amp;path=%2Ftxhttp-siz10%2Fpacket-up%2F6eb1e2aa-d6dd-c43a-23f8-37cf2883f952&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=rvg-production-0061.up.railway.app&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=rvg-production-0061.up.railway.app#☬SHΞN™
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52061?security=tls&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje&amp;insecure=0&amp;sni=assets.gateway-stream.com#☬SHΞN™
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@132.243.223.88:443?security=reality&amp;encryption=none&amp;pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&amp;host=v2rayNplus--v2rayNplus--v2rayNplus&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fin2.freeinternat.com&amp;sid=ff776ff77be48b88#☬SHΞN™
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&amp;obfs=salamander&amp;obfs-password=d6pv15sghiq1onts&amp;insecure=0&amp;sni=assets.gateway-stream.com#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#☬SHΞN™
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#☬SHΞN™
 vless://8b706aff-ca60-4632-9658-aeb5c0f48561@rusl2-e.ya-proxy.com:443?security=reality&amp;encryption=none&amp;pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eda.x5.ru&amp;sid=226509f017e4c36d#☬SHΞN™
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?mode=packet-up&amp;path=%2Fapi%2Fv1%2Fstream&amp;security=reality&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&amp;fp=chrome&amp;type=xhttp&amp;sni=play.google.com&amp;sid=5f9a#☬SHΞN™
