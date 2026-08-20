@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-20 22:51:57      Total configs: 80   Next refresh: 11:01 PM
+Last update: 2026-08-20 23:22:00      Total configs: 84   Next refresh: 11:32 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://87ed14ae-8c78-14fc-c385-15e9c9bd5132@cloud-bdede7-412210-production.up.railway.app:443?path=%2Fws%2F87ed14ae-8c78-14fc-c385-15e9c9bd5132&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=cloud-bdede7-412210-production.up.railway.app&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cloud-bdede7-412210-production.up.railway.app#☬SHΞN™
@@ -83,6 +83,10 @@ vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?mode=packet-u
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#☬SHΞN™
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6ZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#☬SHΞN™
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=%2Fdownload.php&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=chopin.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=chopin.adaspoloandco.com#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#☬SHΞN™
+vless://af8c4c45-ed83-4d32-83af-da720be0fbef@104.17.107.45:2087?path=%2F145bfd44df21&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hazel-otter-95e4.oa225cbhm3.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hazel-otter-95e4.oa225cbhm3.workers.dev#☬SHΞN™
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@v942892.hosted-by-vdsina.com:443?security=reality&amp;encryption=none&amp;pbk=TzOfUDe1Pf7GnxEJuK1I6XD8nNe4ZsmRPCxL8aFwCXs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=v942892.hosted-by-vdsina.com&amp;sid=1e623c6d7f4d01eb#☬SHΞN™
+vless://af8c4c45-ed83-4d32-83af-da720be0fbef@hazel-otter-95e4.oa225cbhm3.workers.dev:443?path=%2F145bfd44df21&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hazel-otter-95e4.oa225cbhm3.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hazel-otter-95e4.oa225cbhm3.workers.dev#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
