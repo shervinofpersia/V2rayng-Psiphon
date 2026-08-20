@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-21 02:29:07      Total configs: 84   Next refresh: 2:39 AM
+Last update: 2026-08-21 02:53:25      Total configs: 82   Next refresh: 3:03 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://87ed14ae-8c78-14fc-c385-15e9c9bd5132@cloud-bdede7-412210-production.up.railway.app:443?path=%2Fws%2F87ed14ae-8c78-14fc-c385-15e9c9bd5132&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=cloud-bdede7-412210-production.up.railway.app&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cloud-bdede7-412210-production.up.railway.app#☬SHΞN™
@@ -75,14 +75,12 @@ vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.226:443?security=realit
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=qq&amp;type=ws&amp;allowInsecure=0&amp;sni=gb1.wba-pn.ru#☬SHΞN™
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.229:443?security=reality&amp;encryption=none&amp;pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&amp;host=v2rayNplus--v2rayNplus--v2rayNplus&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=savesafe.co&amp;sid=f63805c3ecc7a483#☬SHΞN™
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=%2Ffp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#☬SHΞN™
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#☬SHΞN™
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#☬SHΞN™
-vless://8b706aff-ca60-4632-9658-aeb5c0f48561@rusl2-e.ya-proxy.com:443?security=reality&amp;encryption=none&amp;pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eda.x5.ru&amp;sid=226509f017e4c36d#☬SHΞN™
-vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?mode=packet-up&amp;path=%2Fapi%2Fv1%2Fstream&amp;security=reality&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&amp;fp=chrome&amp;type=xhttp&amp;sni=play.google.com&amp;sid=5f9a#☬SHΞN™
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#☬SHΞN™
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6ZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#☬SHΞN™
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=%2Fdownload.php&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=chopin.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=chopin.adaspoloandco.com#☬SHΞN™
+vless://8b706aff-ca60-4632-9658-aeb5c0f48561@rusl2-e.ya-proxy.com:443?security=reality&amp;encryption=none&amp;pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eda.x5.ru&amp;sid=226509f017e4c36d#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#☬SHΞN™
 vless://af8c4c45-ed83-4d32-83af-da720be0fbef@104.17.107.45:2087?path=%2F145bfd44df21&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hazel-otter-95e4.oa225cbhm3.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hazel-otter-95e4.oa225cbhm3.workers.dev#☬SHΞN™
 vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@v942892.hosted-by-vdsina.com:443?security=reality&amp;encryption=none&amp;pbk=TzOfUDe1Pf7GnxEJuK1I6XD8nNe4ZsmRPCxL8aFwCXs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=v942892.hosted-by-vdsina.com&amp;sid=1e623c6d7f4d01eb#☬SHΞN™
