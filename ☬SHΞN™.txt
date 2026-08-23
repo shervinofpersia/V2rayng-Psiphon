@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-23 08:17:20      Total configs: 94   Next refresh: 8:27 AM
+Last update: 2026-08-23 08:44:03      Total configs: 94   Next refresh: 8:54 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=dey.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=dey.lnmarketplace.net#☬SHΞN™
