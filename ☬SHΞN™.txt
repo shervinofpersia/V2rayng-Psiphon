@@ -1,10 +1,8 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-23 21:15:46      Total configs: 84   Next refresh: 9:25 PM
+Last update: 2026-08-23 21:27:24      Total configs: 89   Next refresh: 9:37 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://%58pnTeam-9@199.232.78.160:443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#☬SHΞN™
-vless://%58pnTeam-9@199.232.78.160:443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=ssl.fastly.com#☬SHΞN™
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-ICV2RAY%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#☬SHΞN™
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-ICV2RAY%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#☬SHΞN™
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol3.freeinternat.com:443?security=reality&amp;encryption=none&amp;pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=pol3.freeinternat.com&amp;sid=ff776ff77be48b88#☬SHΞN™
@@ -76,6 +74,13 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insec
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=musiclovers85%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#☬SHΞN™
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0#☬SHΞN™
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#☬SHΞN™
+vless://c1943f8a-11c6-402d-a439-dc0be226d916@77.110.99.144:443?security=reality&amp;encryption=none&amp;pbk=jArfQhwueyEcn5c5OkbtFavMJbiLM9aWH3Xbxnu6EEM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com#☬SHΞN™
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.134:443?security=reality&amp;encryption=none&amp;pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&amp;host=v2rayNplus--v2rayNplus--v2rayNplus&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=getsavesafe.net&amp;sid=82f5d3a1e9c0b661#☬SHΞN™
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.117.43:443?path=%2F%3FTELEGRAM-ICV2RAY%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#☬SHΞN™
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&amp;encryption=none&amp;pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=c84f#☬SHΞN™
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&amp;path=%2F%3F%40ICV2RAY%3Fed%3D2048&amp;security=reality&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%7D&amp;pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&amp;fp=chrome&amp;spx=%2Fy52f8gp4rv1il6u&amp;type=xhttp&amp;sni=www.amd.com&amp;sid=29b21343ab4d#☬SHΞN™
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&amp;encryption=none&amp;pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&amp;headerType=none&amp;fp=chrome&amp;spx=%2Ffdded5f9698d939&amp;type=tcp&amp;sni=www.cloudflare.com&amp;sid=cfe08c23a85f24#☬SHΞN™
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=telegram.us&amp;type=ws&amp;allowInsecure=0&amp;sni=finite-node.rtxconfigz.com#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#☬SHΞN™
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=%2Fdownload.php&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=chopin.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=chopin.adaspoloandco.com#☬SHΞN™
 vless://af8c4c45-ed83-4d32-83af-da720be0fbef@104.17.107.45:2087?path=%2F145bfd44df21&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hazel-otter-95e4.oa225cbhm3.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hazel-otter-95e4.oa225cbhm3.workers.dev#☬SHΞN™
