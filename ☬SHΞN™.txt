@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-26 17:31:11      Total configs: 98   Next refresh: 5:41 PM
+Last update: 2026-08-26 18:24:51      Total configs: 98   Next refresh: 6:34 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-TOOTFFARANGI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#☬SHΞN™
