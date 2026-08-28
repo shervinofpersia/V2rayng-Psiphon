@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-28 00:13:27      Total configs: 83   Next refresh: 12:23 AM
+Last update: 2026-08-28 08:00:10      Total configs: 79   Next refresh: 8:10 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#☬SHΞN™
@@ -75,10 +75,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#☬SHΞN™
 vless://c1943f8a-11c6-402d-a439-dc0be226d916@77.110.99.144:443?security=reality&amp;encryption=none&amp;pbk=jArfQhwueyEcn5c5OkbtFavMJbiLM9aWH3Xbxnu6EEM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS0U1T2NoSHFUcmthbXp4@94.245.92.85:443#☬SHΞN™
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&amp;encryption=none&amp;pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&amp;headerType=none&amp;fp=edge&amp;spx=%2F&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=39feeba3085c#☬SHΞN™
-vless://2b092ee6-5e4b-0032-8236-a46bec9393fd@185.137.232.194:443?mode=auto&amp;path=%2Fassets&amp;security=reality&amp;encryption=none&amp;pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&amp;fp=firefox&amp;type=xhttp&amp;sni=aispir.ru&amp;sid=8ba6e72ee60667f6#☬SHΞN™
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.28.234:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&amp;fp=firefox&amp;type=grpc&amp;serviceName=hub.v1.RelayService&amp;sni=md1.univesalsrv.com&amp;sid=221ba6174224ca5b#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&amp;fp=firefox&amp;type=grpc&amp;serviceName=app.v1.PushService&amp;sni=md5.univesalsrv.com&amp;sid=aa9884f2982b7d3c#☬SHΞN™
 vless://9d8a55de-70df-44a9-973e-4ffa02d05f32@67.159.43.203:443?path=%2Fapi%2Fconnect&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=cli-q.bosx.net#☬SHΞN™
