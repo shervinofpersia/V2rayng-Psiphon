@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-08-30 11:45:08      Total configs: 85   Next refresh: 11:55 AM
+Last update: 2026-08-30 17:18:43      Total configs: 94   Next refresh: 5:28 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=7wwwspeedtestnet.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#☬SHΞN™
@@ -74,8 +74,17 @@ hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52029?security=tls&amp;
 vless://d0ee468a-084b-411d-b2be-b886a61065d1@k2.cloud--vpn.site:443?path=%2F&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#☬SHΞN™
 vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?security=reality&amp;encryption=none&amp;pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=conrad.de&amp;sid=e3e76808b9fcd591#☬SHΞN™
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Z0tMMjAzQ3NKcmdndHg5M2NERnc2V1Zsd1hIS2c3eU9PcXBtTkZEM0RGZz0@Istanbul.morteza1388m1122.ir:54985#☬SHΞN™
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
+vless://5f829d2f-2f13-450c-81ac-e9832b8e47ec@mn6.levikogjgfdd.ir:8090?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=mold.speedload.online&amp;sid=6b2f4e6ac9b1d2f0#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&amp;fp=firefox&amp;type=grpc&amp;serviceName=gw.v2.RelayService&amp;sni=bg5.univesalsrv.com&amp;sid=1a3102bb8e51399e#☬SHΞN™
+vless://aebeb940-51cb-429f-830d-c421351d18e3@104.24.19.99:443?path=%2FLUANVO&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=novapanell.abdollahvand3.ir&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=novapanell.abdollahvand3.ir#☬SHΞN™
+vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=%2Fconnect%23TELEGRAM-TOOTFFARANGI_TOOTFFARANGI%3Fed&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=129.121.95.159&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=129.121.95.159#☬SHΞN™
+vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=%2Fconnect&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=129.121.95.159&amp;type=ws&amp;allowInsecure=0&amp;sni=129.121.95.159#☬SHΞN™
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI&amp;pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&amp;fp=firefox&amp;type=grpc&amp;serviceName=gw.v1.ObjectService&amp;sni=rs5.univesalsrv.com&amp;sid=4872856d5489c37d#☬SHΞN™
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&amp;fp=firefox&amp;type=grpc&amp;serviceName=gw.v1.ObjectService&amp;sni=rs5.univesalsrv.com&amp;sid=4872856d5489c37d#☬SHΞN™
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@162.35.231.122:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&amp;type=xhttp&amp;sni=net.savesafe.run&amp;sid=812609fa663c57fb#☬SHΞN™
+vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de57.tranzit-net.ru:443?security=reality&amp;encryption=none&amp;pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=d.tranzit-net.ru#☬SHΞN™
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?security=reality&amp;encryption=none&amp;pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&amp;fp=firefox&amp;type=grpc&amp;serviceName=media.v1.ObjectService&amp;sni=rs2.univesalsrv.com&amp;sid=1469af2040b7c323#☬SHΞN™
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.28:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&amp;fp=firefox&amp;type=grpc&amp;serviceName=cloud.v1.RelayService&amp;sni=bg4.univesalsrv.com&amp;sid=51f45d4fd58cc319#☬SHΞN™
 vless://d67af820-f54c-48ab-862c-19086357f276@62.133.62.179:443?security=reality&amp;encryption=none&amp;pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=telegraf.lv&amp;sid=e5f67890#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&amp;fp=firefox&amp;type=grpc&amp;serviceName=app.v1.PushService&amp;sni=md5.univesalsrv.com&amp;sid=aa9884f2982b7d3c#☬SHΞN™
