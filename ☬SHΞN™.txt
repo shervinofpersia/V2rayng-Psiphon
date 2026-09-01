@@ -1,28 +1,18 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-09-01 23:11:41      Total configs: 120   Next refresh: 11:21 PM
+Last update: 2026-09-02 01:34:34      Total configs: 110   Next refresh: 1:44 AM
 
 ========== SOCKS ==========
 socks://Og@217.114.40.114:10808#☬SHΞN™
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
-vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&amp;fp=chrome&amp;type=grpc&amp;serviceName=grpc&amp;sni=ads.x5.ru&amp;sid=c226283c4de5b1ad#☬SHΞN™
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=%2Fconnect%23TELEGRAM-TOOTFFARANGI_TOOTFFARANGI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=129.121.95.159&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=129.121.95.159#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5STFpdldnelJxUG5SNkZF@4.231.221.11:443#☬SHΞN™
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@144.31.40.96:8443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=HWI8KI1Xad87HFiZ7uJkl9GWNgdRuqlS2F6YfxIdhzQ&amp;fp=firefox&amp;type=grpc&amp;serviceName=a2e3c24ab3&amp;sni=www.max.ru&amp;sid=37bd480ac3fdbc36#☬SHΞN™
-vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@217.11.167.94:2046?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=f5link.ru#☬SHΞN™
-vless://044e197e-9921-b555-a4c0-74022d22b229@147.182.156.111:8039?security=reality&amp;encryption=none&amp;pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=amp-api-edge.apps.apple.com&amp;sid=35938c4e546cd459#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#☬SHΞN™
-vless://419f25c1-bc35-412e-93fb-258efee859b5@162.35.231.31:443?security=reality&amp;encryption=none&amp;pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=162.35.231.31.sslip.io&amp;sid=f41bc0b00ca1a978#☬SHΞN™
-vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=user-6a8d949a.noooo.win#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbzFxODdGcWdJR1VKN2sxTkZvRjF3@217.23.13.210:1080#☬SHΞN™
-vless://e4f2f3ac-11e8-4bb0-8c19-81dc30258e60@t1ti.blazenetwork.ir:443?path=%2Ft%2Fassets&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=t1ti.blazenetwork.ir&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=t1ti.blazenetwork.ir#☬SHΞN™
 vless://626c0789-16d1-4815-be8b-bd03959d7d12@194.26.192.76:443?security=reality&amp;encryption=none&amp;pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=nl1.tsumshop.org&amp;sid=c8c75aaf699259b4#☬SHΞN™
 hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52067?security=tls&amp;obfs=salamander&amp;obfs-password=fuw2k1ddrouwxr3u&amp;insecure=0&amp;sni=giftcard.gateway-stream.com#☬SHΞN™
 vless://47c4ca1b-3190-460d-9956-95240e4de125@iran.harmira.ir:6895?security=&amp;encryption=mlkem768x25519plus.native.0rtt.9VdibyTxC6joaDgaQ1rnSEYfBQOlgDJGnlDA6sVJ8kU&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://47c4ca1b-3190-460d-9956-95240e4de125@iran.harmira.ir:7990?security=&amp;encryption=mlkem768x25519plus.native.0rtt.pejGtgtPfcHHh365lpn5ov_gWGtIepC4fVYtm1xi01o&amp;headerType=none&amp;type=tcp#☬SHΞN™
 hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52029?security=tls&amp;obfs=salamander&amp;obfs-password=fuw2k1ddrouwxr3u&amp;insecure=0&amp;sni=giftcard.gateway-stream.com#☬SHΞN™
 vless://d0ee468a-084b-411d-b2be-b886a61065d1@k2.cloud--vpn.site:443?path=%2F&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#☬SHΞN™
+vless://419f25c1-bc35-412e-93fb-258efee859b5@162.35.231.31:443?security=reality&amp;encryption=none&amp;pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=162.35.231.31.sslip.io&amp;sid=f41bc0b00ca1a978#☬SHΞN™
 vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?security=reality&amp;encryption=none&amp;pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=conrad.de&amp;sid=e3e76808b9fcd591#☬SHΞN™
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#☬SHΞN™
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Z0tMMjAzQ3NKcmdndHg5M2NERnc2V1Zsd1hIS2c3eU9PcXBtTkZEM0RGZz0@Istanbul.morteza1388m1122.ir:54985#☬SHΞN™
