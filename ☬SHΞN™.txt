@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-09-04 23:06:24      Total configs: 144   Next refresh: 11:16 PM
+Last update: 2026-09-05 01:15:26      Total configs: 146   Next refresh: 1:25 AM
 
 ========== SOCKS ==========
 socks://Og@217.114.40.114:10808#☬SHΞN™
@@ -149,6 +149,8 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#☬SHΞN™
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#☬SHΞN™
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&amp;encryption=none&amp;pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=passport.yandex.ru&amp;sid=e6#☬SHΞN™
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvbmUuY2YuY2RuLmh5bGkueHl6IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxODAiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
+vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality&amp;encryption=none&amp;pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&amp;headerType=none&amp;fp=firefox&amp;spx=%2F26efcddfd88f6bc&amp;type=tcp&amp;sni=amp-api-edge.apps.apple.com&amp;sid=bd2e4421#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
