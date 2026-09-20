@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-09-20 04:30:54      Total configs: 173   Next refresh: 4:40 AM
+Last update: 2026-09-20 09:34:47      Total configs: 173   Next refresh: 9:44 AM
 
 ========== SOCKS ==========
 socks://Og@217.114.40.114:10808#☬SHΞN™
