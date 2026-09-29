@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-09-29 04:36:37      Total configs: 161   Next refresh: 4:46 AM
+Last update: 2026-09-29 10:18:45      Total configs: 161   Next refresh: 10:28 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.225.58.238:443?security=reality&amp;encryption=none&amp;pbk=laDuxd6kFSPv2nWTy9LUjMGVRZM949R82alkZpMAqlk&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=app5.betust.net&amp;sid=e84029c5#☬SHΞN™
