@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-01 04:59:27      Total configs: 136   Next refresh: 5:09 AM
+Last update: 2026-10-01 11:01:49      Total configs: 136   Next refresh: 11:11 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://7a8d2c3f-d6dd-0004-81d8-cff23d8364ee@13.143.181.220:443?security=reality&amp;encryption=none&amp;pbk=QfdR5yEjdbaqSet3-XrkDdVjPO9VTRGlUI-MV-b4p38&amp;host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=msk1.maxtelemost.com#☬SHΞN™
