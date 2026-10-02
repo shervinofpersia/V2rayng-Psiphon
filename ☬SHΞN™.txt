@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-02 23:25:34      Total configs: 155   Next refresh: 11:35 PM
+Last update: 2026-10-03 02:53:44      Total configs: 153   Next refresh: 3:03 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&amp;encryption=none&amp;pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=rusbid.de#☬SHΞN™
@@ -147,11 +147,9 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream
 vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.218:443?security=reality&amp;encryption=none&amp;pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=e7#☬SHΞN™
 vless://e5c5c006-facc-45be-99bc-20d772372d5c@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=pane3.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#☬SHΞN™
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#☬SHΞN™
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&amp;fp=firefox&amp;type=grpc&amp;serviceName=hub.v1.SyncService&amp;sni=md2.univesalsrv.com&amp;sid=d36a38659ce106cb#☬SHΞN™
 trojan://humanity@78.47.146.151:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#☬SHΞN™
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#☬SHΞN™
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#☬SHΞN™
 vless://1e645c10-a7d2-4eed-908a-3427bf167964@germani.henlo.ir:29636?security=none&amp;encryption=mlkem768x25519plus.native.0rtt.MR-PM8esqnZtaEZIgfxriym2ZqNzKhC1D-9tQXBhLE4&amp;headerType=none&amp;type=tcp#☬SHΞN™
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&amp;encryption=none&amp;pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=68a8#☬SHΞN™
