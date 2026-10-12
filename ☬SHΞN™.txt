@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-12 14:07:51      Total configs: 168   Next refresh: 2:17 PM
+Last update: 2026-10-12 23:28:50      Total configs: 189   Next refresh: 11:38 PM
 
 ========== SOCKS ==========
 socks://SURfdnBuY2xpZW50cHJvMzpJRF92cG5jbGllbnRwcm8z@94.102.49.189:1081#☬SHΞN™
@@ -134,6 +134,27 @@ trojan://humanity@144.31.205.106:443?path=%2Fassignment&amp;security=tls&amp;alp
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@138.124.63.224:8444?security=reality&amp;encryption=none&amp;pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&amp;type=grpc&amp;serviceName=GunService&amp;sni=github.com&amp;sid=457fab2ac885dbe0#☬SHΞN™
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@213.21.232.26:443?security=reality&amp;encryption=none&amp;pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=pl-3.ardesnode.ru&amp;sid=9ea74b83f4993ca9#☬SHΞN™
 vless://e2ec5d3e-034a-4bf6-9779-476ab11be368@4.185.65.116:443?security=reality&amp;encryption=none&amp;pbk=uwCuaFoMJyLGncdCiHE8nj6DwzmEpR4Vfu5eAcOIHRg&amp;headerType=&amp;fp=chrome&amp;spx=%2F04aa20476d1f614&amp;type=tcp&amp;sni=dl.l.google.com&amp;sid=eeb3335685f670#☬SHΞN™
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#☬SHΞN™
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de2.srv.vbuste.ru:443?security=reality&amp;encryption=none&amp;pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de2.srv.vbuste.ru&amp;sid=4be4110078ebed4a#☬SHΞN™
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?security=reality&amp;encryption=none&amp;pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=addons.mozilla.org&amp;sid=46455ff0#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZW9xOHVqZmtxWktLdkFDUWhvcUJRMVBBM3VxNDI0Mg@45.149.114.171:777#☬SHΞN™
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@2.26.231.218:2063?security=reality&amp;encryption=none&amp;pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=rusbid.de#☬SHΞN™
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&amp;encryption=none&amp;pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=rusbid.de#☬SHΞN™
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&amp;encryption=none&amp;pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=rusbid.de#☬SHΞN™
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.75:8444?encryption=none&amp;security=reality&amp;sni=github.com&amp;fp=firefox&amp;pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&amp;type=grpc&amp;authority=&amp;serviceName=GunService&amp;mode=gun#☬SHΞN™
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.75:8444?encryption=none&amp;security=reality&amp;sni=github.com&amp;fp=chrome&amp;pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&amp;type=grpc&amp;authority=&amp;serviceName=GunService&amp;mode=gun#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNXNFdlppS21lbnMxMDRC@20.234.97.18:443#☬SHΞN™
+vless://d18fd86d-4137-48de-a684-9105a3111f70@no.cnd.uk.1.mediasync-api.com:8443?encryption=none&amp;security=reality&amp;sni=tradingview.com&amp;fp=qq&amp;pbk=Mtxg55aMIl1CM0Loij4hL7SONtfB8nO-jSD0Z0H5Ilo&amp;sid=f1e2d3c4b5a69788&amp;type=xhttp&amp;path=%2Fdownload&amp;mode=stream-one#☬SHΞN™
+vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?encryption=none&amp;security=tls&amp;sni=ocober-romania-new.yyuyy.com&amp;fp=random&amp;type=httpupgrade&amp;host=ocober-romania-new.yyuyy.com&amp;path=%2Fapi%2Fv1#☬SHΞN™
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@144.31.171.200:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=pl-5.ardesnode.ru&amp;fp=random&amp;pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&amp;sid=9ea74b83f4993ca9&amp;type=tcp&amp;headerType=none#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@102.37.103.137:443#☬SHΞN™
+vless://c96f941e-dd8a-006e-89d5-740b79202ed0@185.22.153.40:8443?encryption=none&amp;security=reality&amp;sni=x5club.ru&amp;fp=firefox&amp;pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&amp;sid=187eea0acfb7f778&amp;spx=%2Fc6e79208ab92a6b&amp;type=tcp&amp;headerType=none#☬SHΞN™
+vless://c96f941e-dd8a-00aa-89d5-740b79202ed0@31.76.65.196:8443?encryption=none&amp;security=reality&amp;sni=x5club.ru&amp;fp=firefox&amp;pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&amp;sid=187eea0acfb7f778&amp;spx=%2Fc6e79208ab92a6b&amp;type=tcp&amp;headerType=none#☬SHΞN™
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@150.241.79.232:443?security=reality&amp;encryption=none&amp;pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de2.srv.vbuste.ru&amp;sid=4be4110078ebed4a#☬SHΞN™
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;sni=ger1.fytpn.com#☬SHΞN™
 vless://a889fba5-5472-4022-a6b4-9710157fda2f@138.124.73.88:443?security=reality&amp;encryption=none&amp;pbk=SpDERK2bCJgRdaDP3cSsQDfOCghD94d0-zjuKIHYQy0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=a2aa#☬SHΞN™
