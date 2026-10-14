@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-14 00:52:33      Total configs: 183   Next refresh: 1:02 AM
+Last update: 2026-10-14 03:54:32      Total configs: 183   Next refresh: 4:04 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://c720f976-b28f-4a2b-b825-0fecfad39ed7@api.jorvexo.ir:1152?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE&amp;fp=safari&amp;spx=%2F&amp;type=xhttp&amp;sni=in.tradingview.com&amp;sid=ead6bdba606219a2#☬SHΞN™
