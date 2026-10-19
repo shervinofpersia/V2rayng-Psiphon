@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-19 17:28:52      Total configs: 162   Next refresh: 5:38 PM
+Last update: 2026-10-19 23:08:41      Total configs: 165   Next refresh: 11:18 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@104.21.33.59:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#☬SHΞN™
@@ -156,15 +156,18 @@ vless://e6df2095-a73c-4043-8693-8d5a03686870@31.15.19.199:443?encryption=none&am
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080?type=tcp&amp;headerType=none#☬SHΞN™
 trojan://humanity@104.21.37.56:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.volumeroot.com&amp;sni=www.volumeroot.com&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=ios#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#☬SHΞN™
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#☬SHΞN™
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&amp;encryption=none&amp;pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anyfile2file.com&amp;sid=64c1fe36c7846400#☬SHΞN™
 vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?security=reality&amp;encryption=none&amp;pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.tradingview.com&amp;sid=ee1716767f9b#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=%2Ft.me%2FV2rayBaaz&amp;pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&amp;fp=firefox&amp;type=grpc&amp;serviceName=edge.v2.FeedService&amp;sni=rs3.univesalsrv.com&amp;sid=35d05b666e2c6cdf#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#☬SHΞN™
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&amp;fp=firefox&amp;type=grpc&amp;serviceName=hub.v1.SyncService&amp;sni=md2.univesalsrv.com&amp;sid=d36a38659ce106cb#☬SHΞN™
+ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0@pphfree2.mvpnpvpn.de5.net:52351#☬SHΞN™
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#☬SHΞN™
+vless://b62e3646-b84d-443c-9c94-718b646502e0@webdisk.jaggyslawa.org:443?security=reality&amp;encryption=none&amp;pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.foxsports.com&amp;sid=dda5f542d835#☬SHΞN™
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&amp;fp=chrome&amp;type=grpc&amp;serviceName=api.v2.PushService&amp;sni=bg2.univesalsrv.com&amp;sid=501ab3325b77e1ca#☬SHΞN™
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=%2Ft.me%2FV2rayBaaz&amp;pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&amp;fp=chrome&amp;type=grpc&amp;serviceName=hub.v1.RelayService&amp;sni=md1.univesalsrv.com&amp;sid=221ba6174224ca5b#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
