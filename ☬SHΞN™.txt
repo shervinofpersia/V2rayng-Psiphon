@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-19 03:08:01      Total configs: 168   Next refresh: 3:18 AM
+Last update: 2026-10-19 05:07:03      Total configs: 168   Next refresh: 5:17 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?security=reality&amp;encryption=none&amp;pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&amp;host=%2F%3Ftelegram--ICV2RAY---&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=lv.nztvpn.com&amp;sid=0da7e14db353e7d0#☬SHΞN™
