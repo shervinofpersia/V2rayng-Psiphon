@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-20 15:36:03      Total configs: 160   Next refresh: 3:46 PM
+Last update: 2026-10-20 20:21:00      Total configs: 160   Next refresh: 8:31 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=mitivpn--s2.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=firefox.com#☬SHΞN™
