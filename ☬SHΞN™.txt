@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-22 20:48:00      Total configs: 142   Next refresh: 8:58 PM
+Last update: 2026-10-23 00:04:55      Total configs: 147   Next refresh: 12:14 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2Ffp%3Dchrome&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ccc.010304.xyz&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ccc.010304.xyz#☬SHΞN™
@@ -145,6 +145,11 @@ vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&amp;fp=chrome&amp;type=grpc&amp;serviceName=gw.v2.RelayService&amp;sid=1a3102bb8e51399e#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=%2Ft.me%2FV2rayBaaz&amp;pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&amp;fp=firefox&amp;type=grpc&amp;serviceName=gw.v1.ObjectService&amp;sni=rs5.univesalsrv.com&amp;sid=4872856d5489c37d#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#☬SHΞN™
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@93.127.223.238:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=snip.edgeoneai.cc.cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=snip.edgeoneai.cc.cd#☬SHΞN™
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&amp;fp=chrome&amp;type=grpc&amp;serviceName=api.v2.PushService&amp;sni=bg2.univesalsrv.com&amp;sid=501ab3325b77e1ca#☬SHΞN™
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&amp;fp=chrome&amp;type=grpc&amp;serviceName=api.v2.PushService&amp;sni=bg2.univesalsrv.com&amp;sid=501ab3325b77e1ca#☬SHΞN™
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&amp;encryption=none&amp;pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anyfile2file.com&amp;sid=64c1fe36c7846400#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
