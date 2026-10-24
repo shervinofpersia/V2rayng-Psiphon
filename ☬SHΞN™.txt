@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-24 05:02:00      Total configs: 148   Next refresh: 5:12 AM
+Last update: 2026-10-24 09:53:25      Total configs: 148   Next refresh: 10:03 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=FREETOPLAY-2.TETRIS-GAME.WORLD#☬SHΞN™
