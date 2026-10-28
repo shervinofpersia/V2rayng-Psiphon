@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-28 10:58:31      Total configs: 139   Next refresh: 11:08 AM
+Last update: 2026-10-28 17:46:06      Total configs: 150   Next refresh: 5:56 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mother-earth.fyi#☬SHΞN™
@@ -106,6 +106,17 @@ vless://047466dd-05aa-4331-abf7-322c5aaecf97@45.142.106.113:443?security=reality
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@clips.blog-forme.ru:2083?mode=auto&amp;path=%2Fv2%2Fsync%2Faf2c0c&amp;security=reality&amp;encryption=none&amp;pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&amp;fp=edge&amp;type=xhttp&amp;sni=clips.blog-forme.ru&amp;sid=fb3a5f2d4ca346ed#☬SHΞN™
 vless://4ee88ef0-8922-48ce-9cd4-5f67ef201b35@31.76.252.113:51593?security=reality&amp;encryption=none&amp;pbk=bnA5VC6PhGD2cYZyoZPr8Ah43WgQtzHuZbpywgoZH2k&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=intel.com&amp;sid=167afe9a97a1#☬SHΞN™
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx.viralforge.ru:443?security=reality&amp;encryption=none&amp;pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dlx.viralforge.ru&amp;sid=a1b2c3d4b5#☬SHΞN™
+vless://e2e6f62b-3913-4413-a877-995675637374@de-ads.th3team.ir:443?pcs=4241775bf20878b791485f4ca6128ff4a84f6c36e7cd02167e976363d36e809e&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=blog.ir#☬SHΞN™
+vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.123:443?mode=auto&amp;security=reality&amp;encryption=none&amp;pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&amp;type=xhttp&amp;sni=savesafe.top&amp;sid=def9b800fb6a3ddb#☬SHΞN™
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@83.136.209.31:443?security=reality&amp;encryption=none&amp;pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fra.viralforge.ru&amp;sid=a1b2c3d4b5#☬SHΞN™
+vless://c60cd62f-8dc5-415f-826b-abb7856027d1@kala.fortresshost.ir:443?mode=auto&amp;path=%2FMeh%3Fdi&amp;security=tls&amp;alpn=h2&amp;encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&amp;insecure=0&amp;host=kala.fortresshost.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=kala.fortresshost.ir#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNUprMEJoUk5LamI1d1FCQk9YeDJ3d2tXWl95V1UwTg@dns9.m3hrzd.ir:8044#☬SHΞN™
+vless://58ec8bba-fb99-4840-805c-1871cbec26f3@51.77.144.182:8080?security=reality&amp;encryption=mlkem768x25519plus.native.0rtt.X8DtmFhi4oY82v9gRk9ChLqK-SbFgeYsLgVpAIMXalI&amp;pbk=twCZ2ZSURqQA2oUep4h2aj_3yJEEagFSQByn26bWWkI&amp;headerType=none&amp;fp=chrome&amp;spx=%2F3cecbfcab279645&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=icloud.com&amp;sid=94d9456c33#☬SHΞN™
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@9.247.23.209:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mother-earth.fyi#☬SHΞN™
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@199.195.193.91:443?security=reality&amp;encryption=none&amp;pbk=gCcUt0o6KZqq3QMrHAwUEUGlyB2H8ZEwXM9WczAHkmU&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=germ.nullo.pro&amp;sid=b29399464c72312d#☬SHΞN™
+vless://16571fd5-5c8a-44ae-99fa-a354565e500b@ggggoods.brand-netprime.com:2087?path=%2Fws-tls&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=b5.dl-netprime.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=b5.dl-netprime.com#☬SHΞN™
+vless://024cf4e8-fa64-44ea-b22f-c28437120563@www.naviga-ting.com:443?path=%2F51544%2Fws&amp;security=tls&amp;encryption=mlkem768x25519plus.native.0rtt.HgOBFNZBsI-IbLuV7IeOJbMRNb9CodLXi3YDHVWPWQU&amp;insecure=0&amp;host=ded1ws.samcdn.shop&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=www.naviga-ting.com#☬SHΞN™
+vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.108:443?mode=auto&amp;security=reality&amp;encryption=none&amp;pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&amp;type=xhttp&amp;sni=savesafe.top&amp;sid=def9b800fb6a3ddb#☬SHΞN™
 vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2087?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=141.98.7.193#☬SHΞN™
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@150.241.79.232:443?security=reality&amp;encryption=none&amp;pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de2.srv.vbuste.ru&amp;sid=4be4110078ebed4a#☬SHΞN™
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;sni=ger1.fytpn.com#☬SHΞN™
