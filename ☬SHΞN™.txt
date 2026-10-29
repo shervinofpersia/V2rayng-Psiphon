@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-29 12:22:45      Total configs: 144   Next refresh: 12:32 PM
+Last update: 2026-10-29 19:11:46      Total configs: 151   Next refresh: 7:21 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv2.himoy.space:443?security=reality&amp;encryption=none&amp;pbk=AoPku9i0xSD2cCzJdPcUSSft8c_RkIZbsbP888VO938&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=lv2.himoy.space&amp;sid=287b3d62899669d7#☬SHΞN™
@@ -110,6 +110,13 @@ vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?mode=auto
 vless://024cf4e8-fa64-44ea-b22f-c28437120563@msydjt.com:443?path=%2F51544%2Fws&amp;security=tls&amp;encryption=mlkem768x25519plus.native.0rtt.HgOBFNZBsI-IbLuV7IeOJbMRNb9CodLXi3YDHVWPWQU&amp;insecure=0&amp;host=ded1ws.samcdn.shop&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=msydjt.com#☬SHΞN™
 vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.151:443?mode=auto&amp;security=reality&amp;encryption=none&amp;pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&amp;type=xhttp&amp;sni=savesafe.top&amp;sid=def9b800fb6a3ddb#☬SHΞN™
 vless://ab9e2cf5-b5f5-45d1-bddf-8ea9b6fcc48f@206.1.101.85:42654?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&amp;type=ws&amp;allowInsecure=0&amp;sni=206.1.101.85#☬SHΞN™
+vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&amp;encryption=none&amp;pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=vkvd754.okcdn.ru&amp;sid=ef1d3554c652a436#☬SHΞN™
+vmess://eyJhZGQiOiIxODUuMTkuMzMuNTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2YxYzYyZmUtZmFmYS00Y2IwLThhY2EtNzJmYTFkMzYyOTZiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDg0NSIsInBzIjoi4pisU0jOnk7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://d1b33bcd-88e8-428f-87da-cc8bfb2d426c@89.125.11.26:443?security=reality&amp;encryption=none&amp;pbk=BTRF6cX_1ul5lAN31QmqrPNl9yMNo8JrsUJOhi9K71U&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=room8.filesnap.tech&amp;sid=3cb2d38fbac380fa#☬SHΞN™
+trojan://humanity@95.85.54.197:443?path=%2Fassignment&amp;security=tls&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#☬SHΞN™
+vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@91.107.180.176:465?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hw7.divarkhaghazi.com.&amp;type=ws&amp;allowInsecure=0&amp;sni=hw7.divarkhaghazi.com#☬SHΞN™
+vless://ae9906c7-3067-45ab-9360-b4b3166be923@CRSeven.zqpm.ir:20727?security=reality&amp;encryption=none&amp;pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=2efbb0033df59520#☬SHΞN™
+vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&amp;type=ws&amp;allowInsecure=0&amp;sni=206.1.101.85#☬SHΞN™
 vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2087?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=141.98.7.193#☬SHΞN™
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@150.241.79.232:443?security=reality&amp;encryption=none&amp;pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de2.srv.vbuste.ru&amp;sid=4be4110078ebed4a#☬SHΞN™
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;sni=ger1.fytpn.com#☬SHΞN™
