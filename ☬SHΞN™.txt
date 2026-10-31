@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-10-31 10:11:56      Total configs: 148   Next refresh: 10:21 AM
+Last update: 2026-10-31 16:35:40      Total configs: 148   Next refresh: 4:45 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.41.69:8443?path=%2FAU6W&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=au6.pad-sservice.lat&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=au6.pad-sservice.lat#☬SHΞN™
