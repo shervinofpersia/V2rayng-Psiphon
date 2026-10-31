@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-01 00:09:31      Total configs: 146   Next refresh: 12:19 AM
+Last update: 2026-11-01 03:12:32      Total configs: 144   Next refresh: 3:22 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387?security=reality&amp;encryption=none&amp;pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.cloudflare.com&amp;sid=9608a9c65d315d52#☬SHΞN™
@@ -138,17 +138,15 @@ vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?encryption=none&a
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.15.19.199:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&amp;host=lucasjow.us.ci&amp;sni=lucasjow.us.ci&amp;alpn=http%2F1.1#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080?type=tcp&amp;headerType=none#☬SHΞN™
 trojan://humanity@104.21.37.56:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.volumeroot.com&amp;sni=www.volumeroot.com&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=ios#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#☬SHΞN™
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#☬SHΞN™
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&amp;encryption=none&amp;pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anyfile2file.com&amp;sid=64c1fe36c7846400#☬SHΞN™
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&amp;fp=chrome&amp;type=grpc&amp;serviceName=gw.v2.RelayService&amp;sid=1a3102bb8e51399e#☬SHΞN™
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=%2Ft.me%2FV2rayBaaz&amp;pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&amp;fp=firefox&amp;type=grpc&amp;serviceName=gw.v1.ObjectService&amp;sni=rs5.univesalsrv.com&amp;sid=4872856d5489c37d#☬SHΞN™
-vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiQHZwbmJheiDwn42tIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJwcyI6IuKYrFNIzp5O4oSiIn0=
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&amp;path=%2Fapi%2Fv1%2F%3Fed%23&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=random&amp;type=xhttp&amp;allowInsecure=0&amp;sni=tg1.cdnphotos.org#☬SHΞN™
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&amp;fp=chrome&amp;type=grpc&amp;serviceName=gw.v2.RelayService&amp;sid=1a3102bb8e51399e#☬SHΞN™
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&amp;encryption=none&amp;pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anyfile2file.com&amp;sid=64c1fe36c7846400#☬SHΞN™
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&amp;encryption=none&amp;pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anyfile2file.com&amp;sid=64c1fe36c7846400#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&amp;fp=firefox&amp;type=grpc&amp;serviceName=hub.v1.SyncService&amp;sni=md2.univesalsrv.com&amp;sid=d36a38659ce106cb#☬SHΞN™
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#☬SHΞN™
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#☬SHΞN™
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#☬SHΞN™
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=%2Ft.me%2FV2rayBaaz&amp;pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&amp;fp=firefox&amp;type=grpc&amp;serviceName=gw.v1.ObjectService&amp;sni=rs5.univesalsrv.com&amp;sid=4872856d5489c37d#☬SHΞN™
 
 Overhauld ☬ SHΞЯVIN™
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
