@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-02 00:09:23      Total configs: 152   Next refresh: 12:19 AM
+Last update: 2026-11-02 03:22:40      Total configs: 152   Next refresh: 3:32 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&amp;encryption=none&amp;pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=vkvd754.okcdn.ru&amp;sid=ef1d3554c652a436#☬SHΞN™
