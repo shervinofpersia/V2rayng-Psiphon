@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-03 06:06:13      Total configs: 152   Next refresh: 6:16 AM
+Last update: 2026-11-03 13:28:26      Total configs: 152   Next refresh: 1:38 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://c60cd62f-8dc5-415f-826b-abb7856027d1@kala.fortresshost.ir:443?mode=auto&amp;path=%2FMeh%3Fdi&amp;security=tls&amp;alpn=h2&amp;encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&amp;insecure=0&amp;host=kala.fortresshost.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=kala.fortresshost.ir#☬SHΞN™
