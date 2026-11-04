@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-04 01:57:07      Total configs: 159   Next refresh: 2:07 AM
+Last update: 2026-11-04 06:00:30      Total configs: 155   Next refresh: 6:10 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 trojan://humanity@188.114.97.4:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#☬SHΞN™
@@ -149,11 +149,7 @@ vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?encryption=none&am
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;host=hw3.divarkhaghazi.com.&amp;sni=hw3.divarkhaghazi.com.&amp;alpn=http%2F1.1#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443?type=tcp#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443?type=tcp#☬SHΞN™
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#☬SHΞN™
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&amp;encryption=none&amp;pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com&amp;sid=50ba05992b05c1c3#☬SHΞN™
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&amp;path=%2Fapi%2Fv1%2F%3Fed%23&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=random&amp;type=xhttp&amp;allowInsecure=0&amp;sni=tg1.cdnphotos.org#☬SHΞN™
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&amp;fp=firefox&amp;type=grpc&amp;serviceName=hub.v1.SyncService&amp;sni=md2.univesalsrv.com&amp;sid=d36a38659ce106cb#☬SHΞN™
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&amp;fp=chrome&amp;type=grpc&amp;serviceName=api.v2.PushService&amp;sni=bg2.univesalsrv.com&amp;sid=501ab3325b77e1ca#☬SHΞN™
 vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?security=reality&amp;encryption=none&amp;pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=88b6#☬SHΞN™
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#☬SHΞN™
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&amp;fp=firefox&amp;type=grpc&amp;serviceName=media.v1.StreamService&amp;sni=rs4.univesalsrv.com&amp;sid=861ac7d66953e55f#☬SHΞN™
