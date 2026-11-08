@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-08 05:25:44      Total configs: 144   Next refresh: 5:35 AM
+Last update: 2026-11-08 11:45:31      Total configs: 141   Next refresh: 11:55 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://de23f71d-a638-43d5-b0f7-d9f616077c9a@new-p33.vurneq.ir:443?security=reality&amp;encryption=none&amp;pbk=XzPy2vjzBXPB5eC1cHEn37MRCCq47zYE-apfA1XUbhY&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=delivery.mp.microsoft.com&amp;sid=51852ca8c115946e#☬SHΞN™
@@ -94,9 +94,6 @@ vless://29777784-b5ad-4e2a-be7b-335f033ab97c@cdn.oldertown.ru:443?mode=packet-up
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.83:19999#☬SHΞN™
 vless://12fd091e-a68a-4f9b-9def-777a2f5b5c0c@188.130.209.201:443?security=reality&amp;encryption=none&amp;pbk=3p6W4rMBh1HCwbjq4lcbWO0KjkqTshJU5lkTix5nwTc&amp;headerType=none&amp;fp=qq&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=thumbs.mycdn-io.ru&amp;sid=d3f314d0b692f63d#☬SHΞN™
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.101.79:443?security=reality&amp;encryption=none&amp;pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=app.betust.net&amp;sid=ef5d4ad5#☬SHΞN™
-vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=pannn1.global.ssl.fastly.net&amp;sni=safa.fastly.com#☬SHΞN™
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#☬SHΞN™
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@185.170.211.187:443?encryption=none&amp;type=grpc&amp;security=reality&amp;serviceName=api.v2.nl2e63a0c5&amp;mode=gun&amp;sni=nl2.bbobr.win&amp;pbk=eztZ1H-OkkHao6d4FhX8Q728qN1UIeFcYH2jObRq1gc&amp;sid=fbe9c012125d90d2#☬SHΞN™
 vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&amp;host=pannn1.global.ssl.fastly.net&amp;sni=safa.fastly.com#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bEhNcEk3TjVka1pPSGRI@20.87.212.24:443?type=tcp&amp;headerType=none#☬SHΞN™
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=yahoo.com&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;sid=c39cc7310a&amp;flow=xtls-rprx-vision#☬SHΞN™
