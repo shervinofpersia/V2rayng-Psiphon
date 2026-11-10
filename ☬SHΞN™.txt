@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-10 14:07:52      Total configs: 127   Next refresh: 2:17 PM
+Last update: 2026-11-10 21:42:11      Total configs: 135   Next refresh: 9:52 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality&amp;encryption=mlkem768x25519plus.native.0rtt.I8cgpaz5mHJF9FbDB6uFHSmJM7gWe39FURKzBjAqaVc&amp;pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=icloud.com&amp;sid=b10dd5#☬SHΞN™
@@ -98,6 +98,14 @@ vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?mode=auto&amp;pa
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@84.32.96.251:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=BookCatalog&amp;sni=reg.jarbook.net&amp;sid=dceb4214#☬SHΞN™
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&amp;encryption=none&amp;pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&amp;host=%2F%3FTELEGRAM------------ICV2RAY&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=get.jarbook.net&amp;sid=c6f97313#☬SHΞN™
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&amp;encryption=none&amp;pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=get.jarbook.net&amp;sid=c6f97313#☬SHΞN™
+vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.85:443?security=reality&amp;encryption=none&amp;pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dvizhok.su&amp;sid=428ef87fd47a3a32#☬SHΞN™
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&amp;path=%2Fccxf5snr06b8xxb6&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=is-tw-relay.cdn.cachefleet.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=sorrel-gate.cdn.cachefleet.com#☬SHΞN™
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#☬SHΞN™
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@fi.peregrine-sub.net:443?security=reality&amp;encryption=none&amp;pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fi.peregrine-sub.net#☬SHΞN™
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&amp;encryption=none&amp;pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=get.jarbook.net&amp;sid=c6f97313#☬SHΞN™
+vless://1beed393-7c4d-4432-beee-f1026b72d0cf@104.17.70.206:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=free.sahanwickramasinghe.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=free.sahanwickramasinghe.com#☬SHΞN™
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&amp;encryption=none&amp;pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anyfile2file.com&amp;sid=64c1fe36c7846400#☬SHΞN™
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&amp;encryption=none&amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=c39cc7310a#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?type=tcp#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?type=tcp#☬SHΞN™
 vless://d342d11e-d224-4463-b982-532309285094@104.18.40.100:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffp%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;host=ccc.010304.xyz&amp;sni=ccc.010304.xyz&amp;fp=chrome#☬SHΞN™
