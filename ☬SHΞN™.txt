@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-17 05:31:33      Total configs: 126   Next refresh: 5:41 AM
+Last update: 2026-11-17 14:03:04      Total configs: 126   Next refresh: 2:13 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.18.38.33:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fs.qicai99.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=fs.qicai99.com#☬SHΞN™
