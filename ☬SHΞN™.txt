@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-17 14:03:04      Total configs: 126   Next refresh: 2:13 PM
+Last update: 2026-11-17 22:49:02      Total configs: 134   Next refresh: 10:59 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.18.38.33:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fs.qicai99.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=fs.qicai99.com#☬SHΞN™
@@ -102,6 +102,14 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dG9sQlRTdit5WE14ZytKR0dFakpiZUdpOTZ
 vless://facb802c-de2e-11f1-9a22-a3404e852f3b@185.39.204.117:10002?path=%2Fvpnjantit&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=tr2.vpnjantit.com#☬SHΞN™
 vless://3422d3c1-dec4-4387-96da-d1b56c5f2318@131.123.41.146:443?security=reality&amp;encryption=none&amp;pbk=QBdNaEKW772qSR7mxLOS0d7HUOWPV2Ek3Ku8ju53vWw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yabs.yandex.ru&amp;sid=70e44abe428e676c#☬SHΞN™
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?security=reality&amp;encryption=none&amp;pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;sni=ns-api-gw.galioncc.com&amp;sid=a7c92e4b10d6f835#☬SHΞN™
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@o685y.save-node.com:443?path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=o685y.save-node.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=o685y.save-node.com#☬SHΞN™
+vless://6962c372-27da-56d6-9d1f-8041abb7538e@fr.abbaas.net:443?security=reality&amp;encryption=none&amp;pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&amp;headerType=none&amp;type=tcp&amp;sni=w-x.co&amp;sid=1296174a86a6ac8c#☬SHΞN™
+trojan://8771fca3-242d-4c68-9fe3-db8c5ab4c86b@vegatu3-production.up.railway.app:443?path=%2Ftr%2F8771fca3-242d-4c68-9fe3-db8c5ab4c86b&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=vegatu3-production.up.railway.app&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=vegatu3-production.up.railway.app#☬SHΞN™
+vless://17ecb7b9-056d-46dc-be9b-69cbc5a3c27a@info.altheora.ir:1122?security=&amp;encryption=mlkem768x25519plus.native.0rtt.iNXl8zPw6ayBE4tOJhFQN8utIMw3NU-DYTGME4gtJVw&amp;headerType=http&amp;type=tcp#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#☬SHΞN™
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=base.hosamobenl.co.uk#☬SHΞN™
+vless://7e8c5916-2070-4013-864d-be767d4e2fd7@91.99.18.148:8080?security=reality&amp;encryption=none&amp;pbk=WmXizpmTbo93c-OF9igidRjiO8MZcVl10wyAEB-k9wE&amp;headerType=&amp;type=tcp&amp;sni=tgju.com&amp;sid=74ada7413ab3047a#☬SHΞN™
+vless://555092f6-d7b4-4b95-b081-1d346bc795f2@206.1.103.79:443?security=reality&amp;encryption=none&amp;pbk=uI8mCKJSw-YC7vQraEZDMLog4idPNmfaa-_NPGVGTjo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=swdist.apple.com&amp;sid=66b1511ef4421018#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?type=tcp#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?type=tcp#☬SHΞN™
 vless://d342d11e-d224-4463-b982-532309285094@104.18.40.100:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffp%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;host=ccc.010304.xyz&amp;sni=ccc.010304.xyz&amp;fp=chrome#☬SHΞN™
