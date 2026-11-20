@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-20 01:21:10      Total configs: 138   Next refresh: 1:31 AM
+Last update: 2026-11-20 06:13:44      Total configs: 134   Next refresh: 6:23 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#☬SHΞN™
@@ -128,13 +128,9 @@ vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?encryption=none&am
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;host=hw3.divarkhaghazi.com.&amp;sni=hw3.divarkhaghazi.com.&amp;alpn=http%2F1.1#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443?type=tcp#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443?type=tcp#☬SHΞN™
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=resources.discovergreatjobsandadvanceyourcareer.com#☬SHΞN™
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&amp;encryption=none&amp;pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=68a8#☬SHΞN™
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=dey.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=dey.lnmarketplace.net#☬SHΞN™
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=dey.lnmarketplace.net&amp;type=xhttp&amp;allowInsecure=0&amp;sni=dey.lnmarketplace.net#☬SHΞN™
-vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?mode=auto&amp;path=%2Fccxf5snr06b8xxb6&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=fafeqdhlett2p5la6d.cdn.cachefleet.com&amp;type=xhttp&amp;allowInsecure=0&amp;sni=hazel-beacon.cdn.cachefleet.com#☬SHΞN™
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.yourultimateprofessionalcareerhub.com#☬SHΞN™
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&amp;encryption=none&amp;pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anyfile2file.com&amp;sid=64c1fe36c7846400#☬SHΞN™
+vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?mode=auto&amp;path=%2Fccxf5snr06b8xxb6&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=fafeqdhlett2p5la6d.cdn.cachefleet.com&amp;type=xhttp&amp;allowInsecure=0&amp;sni=hazel-beacon.cdn.cachefleet.com#☬SHΞN™
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&amp;encryption=none&amp;pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anyfile2file.com&amp;sid=64c1fe36c7846400#☬SHΞN™
 vmess://eyJhZGQiOiJ3d3cud2luZG93c3NlYXJjaHRvb2xzLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LndpbmRvd3NzZWFyY2h0b29scy5jb20iLCJpZCI6ImJhMTExNmUyLThjMmYtNGUzZC04ZTUwLWM5NTQzNjBjZjk3MCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii90cnV0aCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IuKYrFNIzp5O4oSiIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy53aW5kb3dzc2VhcmNodG9vbHMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0#☬SHΞN™
