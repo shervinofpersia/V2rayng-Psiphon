@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-21 10:46:57      Total configs: 126   Next refresh: 10:56 AM
+Last update: 2026-11-21 18:54:25      Total configs: 134   Next refresh: 7:04 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://6962c372-27da-56d6-9d1f-8041abb7538e@fr.abbaas.net:443?security=reality&amp;encryption=none&amp;pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&amp;headerType=&amp;type=tcp&amp;sni=w-x.co&amp;sid=1296174a86a6ac8c#☬SHΞN™
@@ -98,6 +98,14 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh
 vless://166d2ea1-b124-4138-a138-a18dd30004bb@tulip.amydoodles.com:443?mode=auto&amp;pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&amp;path=%2Fsetare&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22300-500%22%2C%22hMaxReusableSecs%22%3A%22300-480%22%7D%7D&amp;insecure=0&amp;host=segubgcbnik.global.ssl.fastly.net&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=cdn.akamai.steamstatic.com#☬SHΞN™
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@93.183.127.54:24446?mode=auto&amp;path=%2Fv2%2Fnotes%2F86cf7ba6ede1&amp;security=reality&amp;encryption=none&amp;pbk=31_G-lTr8GVS33I-ySfmMOXJ7SzpS48Ela7xXeT9D1Y&amp;fp=qq&amp;type=xhttp&amp;sni=tgnl2.blog-forme.ru&amp;sid=29f834cf893710f9#☬SHΞN™
 vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=portal.mavexa.ir#☬SHΞN™
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:2087?mode=auto&amp;path=%2Fv2%2Fsync%2F6e9367&amp;security=reality&amp;encryption=none&amp;pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&amp;fp=edge&amp;type=xhttp&amp;sni=guide.blog-forme.ru&amp;sid=3258252d44113e23#☬SHΞN™
+vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?security=reality&amp;encryption=none&amp;pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&amp;headerType=&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdnjs.com#☬SHΞN™
+vless://29872718-970b-493e-abc9-524fa266d16b@208.76.223.30:40118?security=reality&amp;encryption=none&amp;pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=delivery.mp.microsoft.com&amp;sid=29a833ab20778306#☬SHΞN™
+vless://29872718-970b-493e-abc9-524fa266d16b@45.63.115.136:46122?security=reality&amp;encryption=none&amp;pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=yahoo.com&amp;sid=6115f6a9eb8467c6#☬SHΞN™
+vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@netherlanddocjac.whooisthebest.ir:10000?security=reality&amp;encryption=none&amp;pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=amp-api-edge.apps.apple.com&amp;sid=cd0a1986719e44c8#☬SHΞN™
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ2diVW5NYW9BZlNndkU4SUtkbkd1@77.221.132.206:24759#☬SHΞN™
+vless://713142c9-ad09-4894-b35c-645423f3f6c9@31.77.28.8:443?security=reality&amp;encryption=none&amp;pbk=wfp4jyEksrozyS739zqIsNXySoqeEVtaQlVmeNeLp28&amp;headerType=&amp;type=tcp&amp;sni=dl-cdn.alpinelinux.org#☬SHΞN™
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.211.38.49:443#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?type=tcp#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?type=tcp#☬SHΞN™
 vless://d342d11e-d224-4463-b982-532309285094@104.18.40.100:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffp%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;host=ccc.010304.xyz&amp;sni=ccc.010304.xyz&amp;fp=chrome#☬SHΞN™
