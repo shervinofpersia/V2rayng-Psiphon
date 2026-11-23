@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-23 00:43:18      Total configs: 128   Next refresh: 12:53 AM
+Last update: 2026-11-23 05:14:56      Total configs: 128   Next refresh: 5:24 AM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@92.255.58.59:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=api-gw-cfg.galioncc.com&amp;sid=344f83372596eea2#☬SHΞN™
