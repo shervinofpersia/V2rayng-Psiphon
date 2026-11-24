@@ -1,6 +1,6 @@
 ☬Exclusive SHΞN™ made
 Live Config Collector
-Last update: 2026-11-24 09:03:20      Total configs: 121   Next refresh: 9:13 AM
+Last update: 2026-11-24 19:47:01      Total configs: 128   Next refresh: 7:57 PM
 
 ========== V2RAY NORMAL (vless, vmess, ss, trojan) ==========
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.245.170.82:443#☬SHΞN™
@@ -100,6 +100,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cm1nbWhqY2w2NDR2ZG5o@54.37.240.40:8080#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmhxMWtkc3V5eTU1aW5x@51.77.144.182:8080#☬SHΞN™
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@104.164.82.0:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mother-earth.fyi#☬SHΞN™
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@188.114.98.0:443?path=%2Fproxyip%3DProxyIP.JP.CMLiussss.netfp%3Dchrome&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&amp;insecure=0&amp;host=freeceshi6.frii.site&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=freeceshi6.frii.site#☬SHΞN™
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@188.114.98.0:443?path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&amp;insecure=0&amp;host=freeceshi6.frii.site&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=freeceshi6.frii.site#☬SHΞN™
+vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@172.67.139.189:443?path=%2F700gvl&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fr-free.fastestrelay.com&amp;fp=qq&amp;type=ws&amp;allowInsecure=0&amp;sni=fr-free.fastestrelay.com#☬SHΞN™
+vless://ca21222b-caf1-4418-b404-345ea713daa4@185.71.216.94:2092?security=reality&amp;encryption=none&amp;pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.apple.com&amp;sid=716b7eba38125f3a#☬SHΞN™
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@178.17.52.31:2087?path=%2Fv2%2Fsync%2F6e9367&amp;security=reality&amp;encryption=none&amp;pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&amp;fp=firefox&amp;type=xhttp&amp;sni=maps.blog-forme.ru&amp;sid=3258252d44113e23#☬SHΞN™
+vless://2e9e9381-2b39-4c52-bd4c-c18a6791b650@fr1oo.sublinkplas.ir:12190?security=reality&amp;encryption=none&amp;pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=delivery.mp.microsoft.com&amp;sid=8101b9ba16eb77c7#☬SHΞN™
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.232.83:2087?path=%2Fv2%2Fsync%2F6e9367&amp;security=reality&amp;encryption=none&amp;pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&amp;host=trips.blog-forme.ru&amp;fp=edge&amp;type=xhttp&amp;sni=trips.blog-forme.ru&amp;sid=3258252d44113e23#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?type=tcp#☬SHΞN™
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?type=tcp#☬SHΞN™
 vless://d342d11e-d224-4463-b982-532309285094@104.18.40.100:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffp%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;host=ccc.010304.xyz&amp;sni=ccc.010304.xyz&amp;fp=chrome#☬SHΞN™
